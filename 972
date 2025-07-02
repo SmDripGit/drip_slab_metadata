@@ -1,0 +1,34 @@
+{
+  "name": "2021 Pokemon Sword & Shield Cara Liss (CGC 9)",
+  "description": "2021 Pokemon Sword & Shield Cara Liss (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3925894176.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3925894176.mp4",
+  "external_url": "https://www.dripshop.live/products/oqTEwZH715y94C-4oD4Z4",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3925894176",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

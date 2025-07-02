@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON MEW EN-151 VENUSAUR ex (PSA NM-MT 8)",
+  "description": "2023 POKEMON MEW EN-151 VENUSAUR ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/83770038.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/83770038.mp4",
+  "external_url": "https://www.dripshop.live/products/V7KXQQgne5_EaBRrVBOq5",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "83770038",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

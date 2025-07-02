@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106053260.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106053260.mp4",
+  "external_url": "https://www.dripshop.live/products/5so7l9yHJKvOHBkRGkMuz",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "106053260",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

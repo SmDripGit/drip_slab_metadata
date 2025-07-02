@@ -1,0 +1,34 @@
+{
+  "name": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
+  "description": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107197845.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107197845.mp4",
+  "external_url": "https://www.dripshop.live/products/ASHXERzb_JSCL9YEgEO-f",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "107197845",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

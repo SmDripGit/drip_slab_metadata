@@ -1,0 +1,34 @@
+{
+  "name": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
+  "description": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494185.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494185.mp4",
+  "external_url": "https://www.dripshop.live/products/C8KRq56F6BtUUgv07veuV",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "105494185",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM 7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

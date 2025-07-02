@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/80416756.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/80416756.mp4",
+  "external_url": "https://www.dripshop.live/products/YIZKQliQz9ax75wdwGVHY",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "80416756",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

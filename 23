@@ -1,0 +1,34 @@
+{
+  "name": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649121.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649121.mp4",
+  "external_url": "https://www.dripshop.live/products/Lb_Ps-KkCcLhzitEP-NE5",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "117649121",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

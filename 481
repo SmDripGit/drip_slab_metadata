@@ -1,0 +1,34 @@
+{
+  "name": "1999 POKEMON FOSSIL HITMONLEE-HOLO (PSA NM-MT 8)",
+  "description": "1999 POKEMON FOSSIL HITMONLEE-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108054961.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108054961.mp4",
+  "external_url": "https://www.dripshop.live/products/EawFWj_tv8X6B-2f4RYbW",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108054961",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2023 Pokemon Scarlet & Violet Ho-Oh ex (CGC 9)",
+  "description": "2023 Pokemon Scarlet & Violet Ho-Oh ex (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6022704132.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6022704132.mp4",
+  "external_url": "https://www.dripshop.live/products/d4XNuIOL4D2lGKvGiRnfh",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6022704132",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

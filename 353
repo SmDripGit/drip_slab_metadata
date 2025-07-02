@@ -1,0 +1,34 @@
+{
+  "name": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
+  "description": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109467314.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109467314.mp4",
+  "external_url": "https://www.dripshop.live/products/5Gsk7peRBYsGXxXuIsa93",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "109467314",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2006",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

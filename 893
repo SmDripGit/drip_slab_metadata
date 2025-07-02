@@ -1,0 +1,34 @@
+{
+  "name": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
+  "description": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711471.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711471.mp4",
+  "external_url": "https://www.dripshop.live/products/Wabh49nmLSXXY23vBnjhr",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116711471",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX-MT 6",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

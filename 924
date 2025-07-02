@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
+  "description": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711460.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711460.mp4",
+  "external_url": "https://www.dripshop.live/products/nbVBKd3_fM8JSfDS-Xj-8",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116711460",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX-MT 6",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

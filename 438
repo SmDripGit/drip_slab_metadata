@@ -1,0 +1,34 @@
+{
+  "name": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA NM 7)",
+  "description": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556466.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556466.mp4",
+  "external_url": "https://www.dripshop.live/products/WBDj1zaQF8as9B5TDjBUt",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116556466",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM 7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

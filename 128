@@ -1,0 +1,34 @@
+{
+  "name": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
+  "description": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381891.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381891.mp4",
+  "external_url": "https://www.dripshop.live/products/HEo_HbGQXRXpUC7rdIghv",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108381891",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

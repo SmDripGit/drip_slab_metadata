@@ -1,0 +1,34 @@
+{
+  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
+  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116215126.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116215126.mp4",
+  "external_url": "https://www.dripshop.live/products/inleYCd1MyDlJ0QxkUxe8",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116215126",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2012",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

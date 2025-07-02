@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111946009.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111946009.mp4",
+  "external_url": "https://www.dripshop.live/products/28mMq_3j-oDQ5A93jJnS9",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "111946009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

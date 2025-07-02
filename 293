@@ -1,0 +1,34 @@
+{
+  "name": "2023 Pokemon Scarlet & Violet Miraidon ex (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Miraidon ex (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760006.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760006.mp4",
+  "external_url": "https://www.dripshop.live/products/W_WlJWTbV8Nvy_vOfKumI",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4306760006",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

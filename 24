@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON AQUAPOLIS HOUNDOOM-HOLO (PSA NM-MT 8)",
+  "description": "2003 POKEMON AQUAPOLIS HOUNDOOM-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649116.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649116.mp4",
+  "external_url": "https://www.dripshop.live/products/X31cT4I9g139ecBa8X4sk",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "117649116",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

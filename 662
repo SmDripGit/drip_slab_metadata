@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972018.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972018.mp4",
+  "external_url": "https://www.dripshop.live/products/JX9ZTUVM5DgpxP5DCzjOk",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "82972018",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM 7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

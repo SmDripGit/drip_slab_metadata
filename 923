@@ -1,0 +1,34 @@
+{
+  "name": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
+  "description": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556475.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556475.mp4",
+  "external_url": "https://www.dripshop.live/products/_t_qOJXar0K-fvmN4df3D",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116556475",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX 5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "1999 POKEMON GAME VENUSAUR-HOLO (PSA VG-EX 4)",
+  "description": "1999 POKEMON GAME VENUSAUR-HOLO (PSA VG-EX 4)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537251.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537251.mp4",
+  "external_url": "https://www.dripshop.live/products/HMFoOxfLENYN0Bj_dO4n6",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "114537251",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "VG-EX 4",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

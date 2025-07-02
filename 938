@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO PIKACHU (PSA NM-MT 8)",
+  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO PIKACHU (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77377597.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77377597.mp4",
+  "external_url": "https://www.dripshop.live/products/Z7YXItQ3jehWfykPbN5Cl",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "77377597",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

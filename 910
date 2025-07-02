@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME POPPY (PSA MINT 9)",
+  "description": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME POPPY (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82403740.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82403740.mp4",
+  "external_url": "https://www.dripshop.live/products/CklIznO8ll7Z17gY57lZt",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "82403740",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

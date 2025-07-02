@@ -1,0 +1,34 @@
+{
+  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/LEAFEON V (PSA NM-MT 8)",
+  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/LEAFEON V (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111268787.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111268787.mp4",
+  "external_url": "https://www.dripshop.live/products/7A7WGTHClr5Ilc75mj3NA",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "111268787",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

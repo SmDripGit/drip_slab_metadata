@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VMAX (PSA GEM MT 10)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114091534.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114091534.mp4",
+  "external_url": "https://www.dripshop.live/products/TtA_ZR94xWXTgLkt0ocCs",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "114091534",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

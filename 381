@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103272221.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103272221.mp4",
+  "external_url": "https://www.dripshop.live/products/Z48LNo5c-2qribVw1NtdY",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "103272221",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

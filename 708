@@ -1,0 +1,34 @@
+{
+  "name": "2019 POKEMON JAPANESE SUN & MOON TAG TEAM GX ALL STARS MEWTWO & MEW GX (PSA MINT 9)",
+  "description": "2019 POKEMON JAPANESE SUN & MOON TAG TEAM GX ALL STARS MEWTWO & MEW GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108449784.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108449784.mp4",
+  "external_url": "https://www.dripshop.live/products/eeBd957_opQNr-whwUTB-",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108449784",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2019",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

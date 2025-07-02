@@ -1,0 +1,34 @@
+{
+  "name": "1997 POKEMON JAPANESE JUNGLE FLAREON-HOLO (PSA NM-MT 8)",
+  "description": "1997 POKEMON JAPANESE JUNGLE FLAREON-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/70262641.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/70262641.mp4",
+  "external_url": "https://www.dripshop.live/products/HNpBgrj14_OCjrxPk5aqs",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "70262641",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1997",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

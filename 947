@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON GAME BASE II CLEFABLE-HOLO (PSA EX 5)",
+  "description": "2000 POKEMON GAME BASE II CLEFABLE-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556480.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556480.mp4",
+  "external_url": "https://www.dripshop.live/products/_ssPQIlptoqjYqaNXDoZa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116556480",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX 5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

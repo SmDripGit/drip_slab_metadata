@@ -1,0 +1,34 @@
+{
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494302.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494302.mp4",
+  "external_url": "https://www.dripshop.live/products/IqtRfOv5qMiz6uqa9OIwH",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "115494302",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

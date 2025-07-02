@@ -1,0 +1,34 @@
+{
+  "name": "2022 Pokemon Sword & Shield Shadow Rider Calyrex VMAX (CGC GEM MINT 10)",
+  "description": "2022 Pokemon Sword & Shield Shadow Rider Calyrex VMAX (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6015139288.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6015139288.mp4",
+  "external_url": "https://www.dripshop.live/products/AIwtR4cVDKLzTmDovztPW",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6015139288",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

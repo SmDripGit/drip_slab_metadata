@@ -1,0 +1,34 @@
+{
+  "name": "2016 POKEMON JAPANESE XY POKEKYUN COLLECTION WOBBUFFET (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE XY POKEKYUN COLLECTION WOBBUFFET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061821.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061821.mp4",
+  "external_url": "https://www.dripshop.live/products/dJu2RfvP0__OlngZNZncX",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "109061821",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2016",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

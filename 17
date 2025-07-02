@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON SKYRIDGE CROBAT-HOLO (PSA EX-MT 6)",
+  "description": "2003 POKEMON SKYRIDGE CROBAT-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73627929.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73627929.mp4",
+  "external_url": "https://www.dripshop.live/products/hgiNbezfqkL9G--FsCLRk",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "73627929",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX-MT 6",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

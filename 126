@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
+  "description": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381874.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381874.mp4",
+  "external_url": "https://www.dripshop.live/products/SNYQ5ELxT8nuZK00W6rbf",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108381874",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

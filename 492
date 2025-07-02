@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116892653.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116892653.mp4",
+  "external_url": "https://www.dripshop.live/products/LCiaAWov9Dgr4sdtNm8Nk",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116892653",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982526.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982526.mp4",
+  "external_url": "https://www.dripshop.live/products/RwE_aUCDfaOT_o1RvFI-g",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116982526",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

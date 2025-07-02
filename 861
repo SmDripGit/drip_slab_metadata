@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZERAORA VSTAR (PSA MINT 9)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZERAORA VSTAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911167.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911167.mp4",
+  "external_url": "https://www.dripshop.live/products/IV92Kg0Q0LcnFZrVM3PWy",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "115911167",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

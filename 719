@@ -1,0 +1,34 @@
+{
+  "name": "2000 Pokemon Neo Kingdra (CGC 8)",
+  "description": "2000 Pokemon Neo Kingdra (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4132443284.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4132443284.mp4",
+  "external_url": "https://www.dripshop.live/products/baqjqB1VOL-3ycItLR3Gh",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4132443284",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
+  "description": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77522605.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77522605.mp4",
+  "external_url": "https://www.dripshop.live/products/D8LSniGqG0tyHrHcemRST",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "77522605",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

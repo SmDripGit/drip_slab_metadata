@@ -1,0 +1,34 @@
+{
+  "name": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
+  "description": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94164129.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94164129.mp4",
+  "external_url": "https://www.dripshop.live/products/QD4BpP4o_34wBYd4a5b2z",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "94164129",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX 5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

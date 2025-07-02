@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE LEDIAN (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE LEDIAN (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105159035.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105159035.mp4",
+  "external_url": "https://www.dripshop.live/products/j4l5gIpghlaEgj5QEz2an",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "105159035",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MIMIKYU (PSA MINT 9)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MIMIKYU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101442708.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101442708.mp4",
+  "external_url": "https://www.dripshop.live/products/4CVezrY5AGAOTTDDm5Z5W",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "101442708",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

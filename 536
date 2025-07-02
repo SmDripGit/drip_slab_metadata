@@ -1,0 +1,34 @@
+{
+  "name": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
+  "description": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381878.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381878.mp4",
+  "external_url": "https://www.dripshop.live/products/sqX-UBOww9GPrHeH_ZcBu",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108381878",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

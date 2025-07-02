@@ -1,0 +1,34 @@
+{
+  "name": "2009 POKEMON JAPANESE HEARTGOLD COLLECTION WOBBUFFET-HOLO (PSA GEM MT 10)",
+  "description": "2009 POKEMON JAPANESE HEARTGOLD COLLECTION WOBBUFFET-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82409066.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82409066.mp4",
+  "external_url": "https://www.dripshop.live/products/FYljZvhn0gHFlc-ZYZ2qV",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "82409066",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

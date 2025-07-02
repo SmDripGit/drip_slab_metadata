@@ -1,0 +1,34 @@
+{
+  "name": "2001 POKEMON JAPANESE VS MORTY'S HYPNO (PSA GEM MT 10)",
+  "description": "2001 POKEMON JAPANESE VS MORTY'S HYPNO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/72342969.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/72342969.mp4",
+  "external_url": "https://www.dripshop.live/products/Jf4fFSVZdxfzuTV1qOHqa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "72342969",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

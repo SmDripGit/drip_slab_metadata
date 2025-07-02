@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON JAPANESE SV6-TRANSFORMATION MASK SUNFLORA (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV6-TRANSFORMATION MASK SUNFLORA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100833607.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100833607.mp4",
+  "external_url": "https://www.dripshop.live/products/Ipu61crHB2QWve_nzPCza",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "100833607",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

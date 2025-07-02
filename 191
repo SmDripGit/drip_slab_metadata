@@ -1,0 +1,34 @@
+{
+  "name": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "description": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310253.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310253.mp4",
+  "external_url": "https://www.dripshop.live/products/OPKCYVrnr5O5N4-oMrEKR",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "109310253",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2017",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

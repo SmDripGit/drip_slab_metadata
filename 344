@@ -1,0 +1,34 @@
+{
+  "name": "2000 Pokemon Neo Azumarill (CGC 9)",
+  "description": "2000 Pokemon Neo Azumarill (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401020273053.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401020273053.mp4",
+  "external_url": "https://www.dripshop.live/products/rMfK94SQHM16ZFcsqbziI",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401020273053",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

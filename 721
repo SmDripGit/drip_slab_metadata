@@ -1,0 +1,34 @@
+{
+  "name": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
+  "description": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73713218.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73713218.mp4",
+  "external_url": "https://www.dripshop.live/products/VqsRcTrhqMcr2uyKDYSNt",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "73713218",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

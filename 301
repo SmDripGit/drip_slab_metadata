@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97596305.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97596305.mp4",
+  "external_url": "https://www.dripshop.live/products/sr829rjB9Y3YeL2lWQZa4",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "97596305",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

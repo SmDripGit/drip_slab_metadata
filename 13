@@ -1,0 +1,34 @@
+{
+  "name": "2002 POKEMON LEGENDARY COLLECTION SNORLAX-REV.FOIL (PSA MINT 9)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION SNORLAX-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982530.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982530.mp4",
+  "external_url": "https://www.dripshop.live/products/PreTMSPKIz-Fu7_xpOJvY",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116982530",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

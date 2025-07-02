@@ -1,0 +1,34 @@
+{
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/FLAREON V (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/FLAREON V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062666.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062666.mp4",
+  "external_url": "https://www.dripshop.live/products/7CrFk_CjqFvtKH4awV1Ls",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "101062666",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

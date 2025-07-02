@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON GAME BASE II SCYTHER-HOLO (PSA EX 5)",
+  "description": "2000 POKEMON GAME BASE II SCYTHER-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556487.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556487.mp4",
+  "external_url": "https://www.dripshop.live/products/gntSt7uIzcZj3jTvmUvZF",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "116556487",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX 5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

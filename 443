@@ -1,0 +1,34 @@
+{
+  "name": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
+  "description": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71536239.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71536239.mp4",
+  "external_url": "https://www.dripshop.live/products/AaJQ5P5Q7JNauVUAHvQy8",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "71536239",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

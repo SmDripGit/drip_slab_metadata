@@ -1,0 +1,34 @@
+{
+  "name": "2014 POKEMON JAPANESE XY GAIA VOLCANO SWITCH (PSA MINT 9)",
+  "description": "2014 POKEMON JAPANESE XY GAIA VOLCANO SWITCH (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/75941573.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/75941573.mp4",
+  "external_url": "https://www.dripshop.live/products/EClQif3I33LltFrbpOyzu",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "75941573",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2014",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

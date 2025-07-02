@@ -1,0 +1,34 @@
+{
+  "name": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION PIKACHU (PSA MINT 9)",
+  "description": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION PIKACHU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/92889953.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/92889953.mp4",
+  "external_url": "https://www.dripshop.live/products/jvWYqnmxKra4SAdMTLYn2",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "92889953",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

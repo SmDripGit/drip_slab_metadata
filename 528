@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV3a-RAGING SURF GROUDON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV3a-RAGING SURF GROUDON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107831702.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107831702.mp4",
+  "external_url": "https://www.dripshop.live/products/IX9xtti2PYttRRNYP1JAh",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "107831702",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

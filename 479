@@ -1,0 +1,34 @@
+{
+  "name": "2020 POKEMON JAPANESE SWORD & SHIELD CHARIZARD VMAX STARTER SET FA/CHARIZARD VMAX (PSA GEM MT 10)",
+  "description": "2020 POKEMON JAPANESE SWORD & SHIELD CHARIZARD VMAX STARTER SET FA/CHARIZARD VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104881059.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104881059.mp4",
+  "external_url": "https://www.dripshop.live/products/yks78LXSSUbfrEwXw-9k2",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "104881059",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2020",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

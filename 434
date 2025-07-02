@@ -1,0 +1,34 @@
+{
+  "name": "2020 POKEMON SWORD & SHIELD DARKNESS ABLAZE FA/SCIZOR VMAX (PSA GEM MT 10)",
+  "description": "2020 POKEMON SWORD & SHIELD DARKNESS ABLAZE FA/SCIZOR VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/54572004.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/54572004.mp4",
+  "external_url": "https://www.dripshop.live/products/dSgITGY8YYEypKLyn8QWa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "54572004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2020",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

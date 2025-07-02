@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON GAME MOVIE ANCIENT MEW (PSA MINT 9)",
+  "description": "2000 POKEMON GAME MOVIE ANCIENT MEW (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/78594596.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/78594596.mp4",
+  "external_url": "https://www.dripshop.live/products/p33y1fcFTtkJAY4AaKwRb",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "78594596",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

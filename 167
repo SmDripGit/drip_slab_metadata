@@ -1,0 +1,34 @@
+{
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108901051.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108901051.mp4",
+  "external_url": "https://www.dripshop.live/products/g7aHQlDUfcEnF77BudNKc",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108901051",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

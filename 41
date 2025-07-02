@@ -1,0 +1,34 @@
+{
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115573710.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115573710.mp4",
+  "external_url": "https://www.dripshop.live/products/sL7GrI2ASjnLiLfaeLGRY",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "115573710",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

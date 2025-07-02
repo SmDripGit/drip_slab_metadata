@@ -1,0 +1,34 @@
+{
+  "name": "2016 POKEMON XY FATES COLLIDE FA/M ALAKAZAM EX (PSA NM-MT 8)",
+  "description": "2016 POKEMON XY FATES COLLIDE FA/M ALAKAZAM EX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/87602871.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/87602871.mp4",
+  "external_url": "https://www.dripshop.live/products/w-FKWxHxKjA5tlviKzBfj",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "87602871",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2016",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

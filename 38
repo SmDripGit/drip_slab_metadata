@@ -1,0 +1,34 @@
+{
+  "name": "2011 POKEMON CALL OF LEGENDS HO-OH-HOLO (PSA NM-MT 8)",
+  "description": "2011 POKEMON CALL OF LEGENDS HO-OH-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649125.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649125.mp4",
+  "external_url": "https://www.dripshop.live/products/mVR1GZxnUUfDAs73dDNB2",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "117649125",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2011",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

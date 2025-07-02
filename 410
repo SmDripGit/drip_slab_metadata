@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON SKYRIDGE STARMIE-REV.FOIL (PSA MINT 9)",
+  "description": "2003 POKEMON SKYRIDGE STARMIE-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381906.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381906.mp4",
+  "external_url": "https://www.dripshop.live/products/1hpTD0Uz3s8V5dM6t8Gmh",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108381906",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

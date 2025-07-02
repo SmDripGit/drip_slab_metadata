@@ -1,0 +1,34 @@
+{
+  "name": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/RESHIRAM (PSA GEM MT 10)",
+  "description": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/RESHIRAM (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82523109.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82523109.mp4",
+  "external_url": "https://www.dripshop.live/products/ZqXmzB4XhGOHFo_AJl4Ze",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "82523109",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

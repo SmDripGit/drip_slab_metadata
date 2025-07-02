@@ -1,0 +1,34 @@
+{
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/ZEKROM (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/ZEKROM (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148722.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148722.mp4",
+  "external_url": "https://www.dripshop.live/products/8uBx4CO3vjmDlFmgRIMlK",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "103148722",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

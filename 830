@@ -1,0 +1,34 @@
+{
+  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
+  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537242.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537242.mp4",
+  "external_url": "https://www.dripshop.live/products/GHvwuqX8htSARjj1lASBj",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "114537242",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2012",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

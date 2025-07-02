@@ -1,0 +1,34 @@
+{
+  "name": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
+  "description": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115702748.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115702748.mp4",
+  "external_url": "https://www.dripshop.live/products/LZ9HfoW4Z8ij7A2W2iRQz",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "115702748",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2025",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

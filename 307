@@ -1,0 +1,34 @@
+{
+  "name": "2002 POKEMON LEGENDARY COLLECTION GYARADOS-HOLO (PSA EX-MT 6)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION GYARADOS-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101825344.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101825344.mp4",
+  "external_url": "https://www.dripshop.live/products/R1EZEVZdFxLvQZVuaeR1e",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "101825344",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX-MT 6",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

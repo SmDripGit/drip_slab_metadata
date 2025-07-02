@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex PACHIRISU (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex PACHIRISU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415467.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415467.mp4",
+  "external_url": "https://www.dripshop.live/products/H2sb_ZGeFSUDXLtmEu9EY",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "102415467",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

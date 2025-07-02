@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/118189560.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/118189560.mp4",
+  "external_url": "https://www.dripshop.live/products/8DyJ2p4zQqCzwMcrnItWG",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "118189560",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM 7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

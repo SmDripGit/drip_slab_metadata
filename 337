@@ -1,0 +1,34 @@
+{
+  "name": "2012 POKEMON JAPANESE BLACK & WHITE THUNDER KNUCKLE UMBREON-HOLO (PSA MINT 9)",
+  "description": "2012 POKEMON JAPANESE BLACK & WHITE THUNDER KNUCKLE UMBREON-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/83180288.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/83180288.mp4",
+  "external_url": "https://www.dripshop.live/products/kbppkB19yGzbGnMyu8BnW",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "83180288",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2012",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

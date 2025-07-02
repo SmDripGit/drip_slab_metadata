@@ -1,0 +1,34 @@
+{
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/ALTARIA (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/ALTARIA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/76750380.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/76750380.mp4",
+  "external_url": "https://www.dripshop.live/products/-vqzBRsb9GVLla2OkIoPg",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "76750380",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

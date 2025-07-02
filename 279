@@ -1,0 +1,34 @@
+{
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/88101593.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/88101593.mp4",
+  "external_url": "https://www.dripshop.live/products/3EMmEjgu3KZGG9k5_J_of",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "88101593",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2003 POKEMON SKYRIDGE RAIKOU-REV.FOIL (PSA MINT 9)",
+  "description": "2003 POKEMON SKYRIDGE RAIKOU-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381908.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381908.mp4",
+  "external_url": "https://www.dripshop.live/products/ppugGxyhygRVWUJ2Vg9_H",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "108381908",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT 9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

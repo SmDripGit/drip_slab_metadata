@@ -1,0 +1,34 @@
+{
+  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226316.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226316.mp4",
+  "external_url": "https://www.dripshop.live/products/kl31e_-Ac1q0qkYEu6AXn",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "111226316",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

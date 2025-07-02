@@ -1,0 +1,34 @@
+{
+  "name": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
+  "description": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6029039167.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6029039167.mp4",
+  "external_url": "https://www.dripshop.live/products/gRyd3rjDPzpbIMfE3nhmA",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6029039167",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2021",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
+  "description": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102912261.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102912261.mp4",
+  "external_url": "https://www.dripshop.live/products/CDiyWSZKzFTYs1AKKGxrm",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "102912261",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "NM-MT 8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1997",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}

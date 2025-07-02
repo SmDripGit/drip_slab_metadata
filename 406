@@ -1,0 +1,34 @@
+{
+  "name": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
+  "description": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4292238007.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4292238007.mp4",
+  "external_url": "https://www.dripshop.live/products/FJv8bgruuBHgDVRv-U_au",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4292238007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2019",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
+  "description": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911240.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911240.mp4",
+  "external_url": "https://www.dripshop.live/products/zAPvo8yE2tPbsTwja2pas",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "PSA",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "115911240",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "EX 5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Japanese",
+      "display_type": "string"
+    }
+  ]
+}
