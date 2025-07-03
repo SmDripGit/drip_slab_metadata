@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
-  "description": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/85076532.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/85076532.mp4",
-  "external_url": "https://www.dripshop.live/products/PNXJwFCAUJ4Ipld-Xgy8H",
+  "name": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/RESHIRAM (PSA GEM MT 10)",
+  "description": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/RESHIRAM (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82523109_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82523109.mp4",
+  "external_url": "https://www.dripshop.live/products/ZqXmzB4XhGOHFo_AJl4Ze",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "85076532",
+      "value": "82523109",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Chinese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON CELEBRATIONS CLASSIC COLLECTION",
       "display_type": "string"
     }
   ]

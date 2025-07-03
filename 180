@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97801286.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97801286.mp4",
-  "external_url": "https://www.dripshop.live/products/6GWsVXitJPHgN6wlCr1N8",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ELESA'S SPARKLE (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ELESA'S SPARKLE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/92618683_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/92618683.mp4",
+  "external_url": "https://www.dripshop.live/products/ZrdTnzleqvq8Nb67vdvwl",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97801286",
+      "value": "92618683",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOLTUND V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOLTUND V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415472.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415472.mp4",
-  "external_url": "https://www.dripshop.live/products/5aAj-KZXHtQC864evD3pR",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747687_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747687.mp4",
+  "external_url": "https://www.dripshop.live/products/kNdo_atxgFju-qTVSEuW4",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415472",
+      "value": "76747687",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA EX-MT 6)",
-  "description": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556479.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556479.mp4",
-  "external_url": "https://www.dripshop.live/products/PVWIQmtzmI8gfVOvF6t4S",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110874468_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110874468.mp4",
+  "external_url": "https://www.dripshop.live/products/ZdwTQXMB_5CAPE7ehaCPI",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556479",
+      "value": "110874468",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

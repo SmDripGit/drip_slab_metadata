@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD DEOXYS VSTAR & VMAX HIGH-CLASS DECK FA/DEOXYS VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD DEOXYS VSTAR & VMAX HIGH-CLASS DECK FA/DEOXYS VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/92514119.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/92514119.mp4",
-  "external_url": "https://www.dripshop.live/products/zT-0cDNoTLHu1FsG_gddo",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371934_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371934.mp4",
+  "external_url": "https://www.dripshop.live/products/SA4oSDh1wPEJSCTQJZ8Yc",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "92514119",
+      "value": "103371934",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

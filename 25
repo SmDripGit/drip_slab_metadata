@@ -1,9 +1,9 @@
 {
-  "name": "2010 POKEMON JAPANESE REVIVING LEGENDS UMBREON-HOLO (PSA GEM MT 10)",
-  "description": "2010 POKEMON JAPANESE REVIVING LEGENDS UMBREON-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/73419240.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/73419240.mp4",
-  "external_url": "https://www.dripshop.live/products/iwvOJPOAHIwVz3E7sVPvR",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/CHARIZARD V (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/CHARIZARD V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/65489921_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/65489921.mp4",
+  "external_url": "https://www.dripshop.live/products/p3NNyFAR5RNXJQz3PwAwq",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "73419240",
+      "value": "65489921",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2010",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD STAR BIRTH",
       "display_type": "string"
     }
   ]

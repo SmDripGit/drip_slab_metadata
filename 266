@@ -1,9 +1,9 @@
 {
-  "name": "2020 POKEMON JAPANESE S PROMO FA/EEVEE VMAX (PSA GEM MT 10)",
-  "description": "2020 POKEMON JAPANESE S PROMO FA/EEVEE VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371887.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371887.mp4",
-  "external_url": "https://www.dripshop.live/products/CNF6sZOubw3lZyjqmq8d_",
+  "name": "2000 POKEMON JAPANESE NEO 2 PROMO UMBREON (PSA EX 5)",
+  "description": "2000 POKEMON JAPANESE NEO 2 PROMO UMBREON (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556471_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556471.mp4",
+  "external_url": "https://www.dripshop.live/products/AErMSzZQMP1igtR3KmOEN",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103371887",
+      "value": "116556471",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2020",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 2 PROMO",
       "display_type": "string"
     }
   ]

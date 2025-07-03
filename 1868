@@ -1,0 +1,39 @@
+{
+  "name": "2000 Original Series Ponyta (CGC 9)",
+  "description": "2000 Original Series Ponyta (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3763982139_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3763982139.mp4",
+  "external_url": "https://www.dripshop.live/products/79lbuvbZPS9pz7X-OqKWx",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3763982139",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

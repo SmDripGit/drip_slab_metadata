@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV3a-RAGING SURF GROUDON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV3a-RAGING SURF GROUDON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107831702.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107831702.mp4",
-  "external_url": "https://www.dripshop.live/products/IX9xtti2PYttRRNYP1JAh",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310255_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310255.mp4",
+  "external_url": "https://www.dripshop.live/products/rW9gE3q60RJfmn4rBO6q2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107831702",
+      "value": "109310255",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177002.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177002.mp4",
-  "external_url": "https://www.dripshop.live/products/0W2q9KOFBC3aBjuEtRnVi",
+  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061923_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061923.mp4",
+  "external_url": "https://www.dripshop.live/products/FgQYIJSc-vHSNygJ3Z1PZ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106177002",
+      "value": "109061923",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION",
       "display_type": "string"
     }
   ]

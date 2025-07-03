@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON SKYRIDGE MACHAMP-REV.FOIL (PSA MINT 9)",
-  "description": "2003 POKEMON SKYRIDGE MACHAMP-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381915.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381915.mp4",
-  "external_url": "https://www.dripshop.live/products/NMB8KtVBPlZxiLZL2T4Kq",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex TOTODILE (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex TOTODILE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103577585_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103577585.mp4",
+  "external_url": "https://www.dripshop.live/products/F2rFdTdHSGCUZAT3pvNL9",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381915",
+      "value": "103577585",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

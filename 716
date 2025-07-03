@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL GENGAR (PSA EX-MT 6)",
-  "description": "1999 POKEMON FOSSIL GENGAR (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100211955.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100211955.mp4",
-  "external_url": "https://www.dripshop.live/products/6TjpP8H9iJ-736-OdEU4w",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062703_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062703.mp4",
+  "external_url": "https://www.dripshop.live/products/TWKkDQz_vfI6mtB3xGAMb",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100211955",
+      "value": "101062703",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

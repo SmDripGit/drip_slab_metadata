@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM 7)",
-  "description": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556483.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556483.mp4",
-  "external_url": "https://www.dripshop.live/products/kV_nDWG7Q-sMip6UFwgvz",
+  "name": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARMANDER (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARMANDER (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371830_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371830.mp4",
+  "external_url": "https://www.dripshop.live/products/3l1g1WMgHP2fJG32Q_iN_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556483",
+      "value": "103371830",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV4a-SHINY TREASURE ex",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925270.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925270.mp4",
-  "external_url": "https://www.dripshop.live/products/ouFV8-INKwrkARBmQzAD4",
+  "name": "2024 Pokemon Scarlet & Violet Kieran (CGC GEM MINT 10)",
+  "description": "2024 Pokemon Scarlet & Violet Kieran (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401042149211_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401042149211.mp4",
+  "external_url": "https://www.dripshop.live/products/8JHfG_CMesDj255cmhRpf",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107925270",
+      "value": "1401042149211",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

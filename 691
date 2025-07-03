@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750942.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750942.mp4",
-  "external_url": "https://www.dripshop.live/products/3klnb08_-ik6vBBQo4yBY",
+  "name": "2016 POKEMON JAPANESE PREMIUM CHAMPION PACK RAICHU (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE PREMIUM CHAMPION PACK RAICHU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195081_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195081.mp4",
+  "external_url": "https://www.dripshop.live/products/2YH3ZZPAaNs01gUBAZYxr",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750942",
+      "value": "102195081",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE PREMIUM CHAMPION PACK",
       "display_type": "string"
     }
   ]

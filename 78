@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JAPANESE GYM 2 KOGA'S NINJA TRICK (PSA MINT 9)",
-  "description": "1999 POKEMON JAPANESE GYM 2 KOGA'S NINJA TRICK (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/75766323.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/75766323.mp4",
-  "external_url": "https://www.dripshop.live/products/ZQS7yq4UUgSmatQ6tDsT2",
+  "name": "2024 POKEMON SCR EN-STELLAR CROWN RABOOT (PSA GEM MT 10)",
+  "description": "2024 POKEMON SCR EN-STELLAR CROWN RABOOT (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98817831_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98817831.mp4",
+  "external_url": "https://www.dripshop.live/products/IlUfeHDuc9OXZHd7GhNJu",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "75766323",
+      "value": "98817831",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SCR EN-STELLAR CROWN",
       "display_type": "string"
     }
   ]

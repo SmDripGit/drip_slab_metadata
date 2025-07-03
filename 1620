@@ -1,0 +1,39 @@
+{
+  "name": "2008 Diamond & Pearl Machoke (CGC 8)",
+  "description": "2008 Diamond & Pearl Machoke (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588030_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588030.mp4",
+  "external_url": "https://www.dripshop.live/products/LNwJpvHF2k5VWbmo4SiBi",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588030",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2008",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Diamond & Pearl",
+      "display_type": "string"
+    }
+  ]
+}

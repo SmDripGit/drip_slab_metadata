@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "description": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111701721.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111701721.mp4",
-  "external_url": "https://www.dripshop.live/products/GA32OzfPrBLr2dg74uxH3",
+  "name": "2023 POKEMON PAR EN-PARADOX RIFT GARCHOMP ex (PSA NM-MT 8)",
+  "description": "2023 POKEMON PAR EN-PARADOX RIFT GARCHOMP ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101264189_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101264189.mp4",
+  "external_url": "https://www.dripshop.live/products/HtjhlJIxIztahkkg1xiGo",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111701721",
+      "value": "101264189",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAR EN-PARADOX RIFT",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS WAILORD (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS WAILORD (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750936.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750936.mp4",
-  "external_url": "https://www.dripshop.live/products/LQaV_rsFyVUyzqRJI6RYV",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177004.mp4",
+  "external_url": "https://www.dripshop.live/products/OFtgo6pwedb6TRzlPj5u4",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750936",
+      "value": "106177004",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

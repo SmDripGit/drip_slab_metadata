@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/ZEKROM (PSA GEM MT 10)",
-  "description": "2021 POKEMON CELEBRATIONS CLASSIC COLLECTION FA/ZEKROM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82523129.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82523129.mp4",
-  "external_url": "https://www.dripshop.live/products/pfeSXAXi3zp325VmFmCkC",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107010169_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107010169.mp4",
+  "external_url": "https://www.dripshop.live/products/vDJ_NG3nhGS5v6IWLgerM",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82523129",
+      "value": "107010169",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

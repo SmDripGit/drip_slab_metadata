@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310300.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310300.mp4",
-  "external_url": "https://www.dripshop.live/products/ztn0kZY1b5xNZ4s1ZtNuZ",
+  "name": "2016 POKEMON JAPANESE SM PROMO ALOLAN VULPIX (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE SM PROMO ALOLAN VULPIX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061849_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061849.mp4",
+  "external_url": "https://www.dripshop.live/products/U88wP7CLrwdoMyNO-ssSw",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310300",
+      "value": "109061849",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SM PROMO",
       "display_type": "string"
     }
   ]

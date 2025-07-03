@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062664.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062664.mp4",
-  "external_url": "https://www.dripshop.live/products/UbqMZoP40kXZGo-N1sZYZ",
+  "name": "2022 POKEMON SWSH BLACK STAR PROMO UMBREON V (PSA MINT 9)",
+  "description": "2022 POKEMON SWSH BLACK STAR PROMO UMBREON V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/92769408_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/92769408.mp4",
+  "external_url": "https://www.dripshop.live/products/cpAyk1J5L9jfz-yNa0NiR",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062664",
+      "value": "92769408",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWSH BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

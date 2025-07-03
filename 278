@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA MINT 9)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97537364.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97537364.mp4",
-  "external_url": "https://www.dripshop.live/products/6lAOvHEz3G6pkW0Cn55tQ",
+  "name": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
+  "description": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711460_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711460.mp4",
+  "external_url": "https://www.dripshop.live/products/nbVBKd3_fM8JSfDS-Xj-8",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97537364",
+      "value": "116711460",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX RUBY & SAPPHIRE",
       "display_type": "string"
     }
   ]

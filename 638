@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex PACHIRISU (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex PACHIRISU (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415467.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415467.mp4",
-  "external_url": "https://www.dripshop.live/products/H2sb_ZGeFSUDXLtmEu9EY",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110277414_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110277414.mp4",
+  "external_url": "https://www.dripshop.live/products/K5wGTvBWLxm8LXoMSyW1y",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415467",
+      "value": "110277414",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107158589.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107158589.mp4",
-  "external_url": "https://www.dripshop.live/products/tWU65ja1V9dV_EyoR-MeD",
+  "name": "2024 POKEMON SFA EN-SHROUDED FABLE DUSCLOPS (PSA MINT 9)",
+  "description": "2024 POKEMON SFA EN-SHROUDED FABLE DUSCLOPS (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233931_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233931.mp4",
+  "external_url": "https://www.dripshop.live/products/LqyVTc_o4_CV1mu1UTPnX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107158589",
+      "value": "104233931",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SFA EN-SHROUDED FABLE",
       "display_type": "string"
     }
   ]

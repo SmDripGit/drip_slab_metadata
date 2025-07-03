@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS WAILORD (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS WAILORD (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750937.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750937.mp4",
-  "external_url": "https://www.dripshop.live/products/kx6fwj9lHsI6rqoYEmG6k",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104448232_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104448232.mp4",
+  "external_url": "https://www.dripshop.live/products/YSW0qZJR8JtfzwCw2UZl-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750937",
+      "value": "104448232",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

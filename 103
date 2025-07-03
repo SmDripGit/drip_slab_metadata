@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78048991.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78048991.mp4",
-  "external_url": "https://www.dripshop.live/products/kM4ctgk5JBL6WYCJIz_cV",
+  "name": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex WIGGLYTUFF (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex WIGGLYTUFF (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101877245_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101877245.mp4",
+  "external_url": "https://www.dripshop.live/products/x0WWFZM9SYwXmqIEEhRxO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78048991",
+      "value": "101877245",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV4a-SHINY TREASURE ex",
       "display_type": "string"
     }
   ]

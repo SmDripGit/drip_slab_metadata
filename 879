@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON SUN & MOON CRIMSON INVASION FA/ALN.EXEGGUTOR GX (PSA NM-MT 8)",
-  "description": "2017 POKEMON SUN & MOON CRIMSON INVASION FA/ALN.EXEGGUTOR GX (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97596303.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97596303.mp4",
-  "external_url": "https://www.dripshop.live/products/FF8MP0O9zqm8w_kcsalMY",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750942_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750942.mp4",
+  "external_url": "https://www.dripshop.live/products/3klnb08_-ik6vBBQo4yBY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97596303",
+      "value": "107750942",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126012.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126012.mp4",
-  "external_url": "https://www.dripshop.live/products/wabrtv5mraipT93dIaKTH",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES SCIZOR (PSA GEM MT 10)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES SCIZOR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/89996102_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/89996102.mp4",
+  "external_url": "https://www.dripshop.live/products/qLFWgiF3ktH9wAV-pvWzk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126012",
+      "value": "89996102",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

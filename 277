@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Erika's Invitation (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Scarlet & Violet Erika's Invitation (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760001.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760001.mp4",
-  "external_url": "https://www.dripshop.live/products/cKLfNV7BBF4LUwI6kfsoH",
+  "name": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
+  "description": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711471_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711471.mp4",
+  "external_url": "https://www.dripshop.live/products/Wabh49nmLSXXY23vBnjhr",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4306760001",
+      "value": "116711471",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2001 Neo Quagsire (CGC 8)",
+  "description": "2001 Neo Quagsire (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035587202_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035587202.mp4",
+  "external_url": "https://www.dripshop.live/products/frkhelRP25VRlylSSxopB",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035587202",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Neo",
+      "display_type": "string"
+    }
+  ]
+}

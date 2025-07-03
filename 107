@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77942440.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77942440.mp4",
-  "external_url": "https://www.dripshop.live/products/x9z7f3hi2JiW6Ou7lunDV",
+  "name": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
+  "description": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102912261_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102912261.mp4",
+  "external_url": "https://www.dripshop.live/products/CDiyWSZKzFTYs1AKKGxrm",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77942440",
+      "value": "102912261",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "1997",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE FOSSIL",
       "display_type": "string"
     }
   ]

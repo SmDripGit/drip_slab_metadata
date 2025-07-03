@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD PARADIGM TRIGGER FA/REGIDRAGO V (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD PARADIGM TRIGGER FA/REGIDRAGO V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101428314.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101428314.mp4",
-  "external_url": "https://www.dripshop.live/products/qz-79rdhh6otvfNnC3myF",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS SURFER (PSA MINT 9)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS SURFER (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106276835_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106276835.mp4",
+  "external_url": "https://www.dripshop.live/products/QqruFfqXub5uYJr4mvhh3",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101428314",
+      "value": "106276835",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

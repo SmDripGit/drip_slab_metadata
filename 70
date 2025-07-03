@@ -1,9 +1,9 @@
 {
-  "name": "2018 POKEMON JAPANESE SUN & MOON TAG BOLT GENGAR & MIMIKYU GX (PSA GEM MT 10)",
-  "description": "2018 POKEMON JAPANESE SUN & MOON TAG BOLT GENGAR & MIMIKYU GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/70288184.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/70288184.mp4",
-  "external_url": "https://www.dripshop.live/products/QlkQ9VeeeCcNYJuq5D--N",
+  "name": "2000 POKEMON GYM CHALLENGE MISTY'S GOLDUCK (PSA MINT 9)",
+  "description": "2000 POKEMON GYM CHALLENGE MISTY'S GOLDUCK (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/96160152_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/96160152.mp4",
+  "external_url": "https://www.dripshop.live/products/UfcF6xZBhRPaN276fzHd0",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "70288184",
+      "value": "96160152",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2018",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM CHALLENGE",
       "display_type": "string"
     }
   ]

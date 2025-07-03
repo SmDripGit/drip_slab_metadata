@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/LEAFEON V (PSA NM-MT 8)",
-  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/LEAFEON V (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111268787.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111268787.mp4",
-  "external_url": "https://www.dripshop.live/products/7A7WGTHClr5Ilc75mj3NA",
+  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE PINSIR (PSA GEM MT 10)",
+  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE PINSIR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981398_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981398.mp4",
+  "external_url": "https://www.dripshop.live/products/tG-apauAX0OwZU5deR6zE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111268787",
+      "value": "111981398",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TWM EN-TWILIGHT MASQUERADE",
       "display_type": "string"
     }
   ]

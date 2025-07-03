@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE S PROMO ARCANINE (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE S PROMO ARCANINE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060520.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060520.mp4",
-  "external_url": "https://www.dripshop.live/products/MPSvYGI8WEb3TNrZvKae-",
+  "name": "2018 POKEMON JAPANESE SUN & MOON SUPER-BURST IMPACT FA/WHITNEY (PSA GEM MT 10)",
+  "description": "2018 POKEMON JAPANESE SUN & MOON SUPER-BURST IMPACT FA/WHITNEY (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/74657246_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/74657246.mp4",
+  "external_url": "https://www.dripshop.live/products/f1V_xcXwCNiCellafVxno",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060520",
+      "value": "74657246",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2018",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SUN & MOON SUPER-BURST IMPACT",
       "display_type": "string"
     }
   ]

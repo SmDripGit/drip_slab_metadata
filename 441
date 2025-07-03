@@ -1,33 +1,38 @@
 {
-  "name": "2001 Pokemon Neo Dark Ampharos (CGC GEM MINT 10)",
-  "description": "2001 Pokemon Neo Dark Ampharos (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4043575249.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4043575249.mp4",
-  "external_url": "https://www.dripshop.live/products/qox47i8AqQCrCo3Z2ScwB",
+  "name": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97596305_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97596305.mp4",
+  "external_url": "https://www.dripshop.live/products/sr829rjB9Y3YeL2lWQZa4",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4043575249",
+      "value": "97596305",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO",
       "display_type": "string"
     }
   ]

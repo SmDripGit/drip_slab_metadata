@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON XY EVOLUTIONS BLASTOISE EX (PSA GEM MT 10)",
-  "description": "2016 POKEMON XY EVOLUTIONS BLASTOISE EX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/61192698.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/61192698.mp4",
-  "external_url": "https://www.dripshop.live/products/qmgdLbj9kZXG1pbObDQzY",
+  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GIRATINA VSTAR (PSA MINT 9)",
+  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GIRATINA VSTAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981425_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981425.mp4",
+  "external_url": "https://www.dripshop.live/products/tvN8zo-vnvbZVuyPtXF_3",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "61192698",
+      "value": "111981425",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD LOST ORIGIN",
       "display_type": "string"
     }
   ]

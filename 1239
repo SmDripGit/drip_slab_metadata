@@ -1,0 +1,39 @@
+{
+  "name": "1998 All Horsea (CGC 8)",
+  "description": "1998 All Horsea (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001854287_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001854287.mp4",
+  "external_url": "https://www.dripshop.live/products/KCTxUM_qliH99wRvRJSKL",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001854287",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1998",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "All",
+      "display_type": "string"
+    }
+  ]
+}

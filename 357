@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/CELEBI V (PSA MINT 9)",
-  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/CELEBI V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/96945231.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/96945231.mp4",
-  "external_url": "https://www.dripshop.live/products/LskAzhsodbCrkg_lDJWOD",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537245_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537245.mp4",
+  "external_url": "https://www.dripshop.live/products/iy6L5WhgdZgyYWztZMPAs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "96945231",
+      "value": "114537245",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

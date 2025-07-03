@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV6a-NIGHT WANDERER HORSEA (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV6a-NIGHT WANDERER HORSEA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104698227.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104698227.mp4",
-  "external_url": "https://www.dripshop.live/products/2E6Q-ggby9Euye9C-71Eq",
+  "name": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION ROCKET'S ZAPDOS-HOLO (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION ROCKET'S ZAPDOS-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110377658_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110377658.mp4",
+  "external_url": "https://www.dripshop.live/products/DgGvflmAdO_J3JwHcKHei",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104698227",
+      "value": "110377658",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION",
       "display_type": "string"
     }
   ]

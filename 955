@@ -1,23 +1,23 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 3 PROMO SKARMORY (PSA NM-MT 8)",
-  "description": "2000 POKEMON JAPANESE NEO 3 PROMO SKARMORY (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556465.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556465.mp4",
-  "external_url": "https://www.dripshop.live/products/cD37V1St9eJXDP8TG-qWP",
+  "name": "2000 Pokemon Neo Kingdra (CGC 8)",
+  "description": "2000 Pokemon Neo Kingdra (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4132443284_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4132443284.mp4",
+  "external_url": "https://www.dripshop.live/products/baqjqB1VOL-3ycItLR3Gh",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556465",
+      "value": "4132443284",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "8",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Neo",
       "display_type": "string"
     }
   ]

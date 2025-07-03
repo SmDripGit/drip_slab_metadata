@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX FIRE RED & LEAF GREEN PIKACHU-REV.FOIL (PSA MINT 9)",
-  "description": "2004 POKEMON EX FIRE RED & LEAF GREEN PIKACHU-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381864.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381864.mp4",
-  "external_url": "https://www.dripshop.live/products/7GITJA-x210iCxgiZgZoa",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA DRAYTON (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA DRAYTON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100407081_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100407081.mp4",
+  "external_url": "https://www.dripshop.live/products/N4gF4C97mzWWuMoiPwJTk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381864",
+      "value": "100407081",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

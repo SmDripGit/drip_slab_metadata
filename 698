@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750894.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750894.mp4",
-  "external_url": "https://www.dripshop.live/products/JiQzaVMR4EwGhrRT_TVWh",
+  "name": "2016 POKEMON JAPANESE EXPANSION 20TH ANNIVERSARY ZAPDOS-HOLO (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE EXPANSION 20TH ANNIVERSARY ZAPDOS-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061908_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061908.mp4",
+  "external_url": "https://www.dripshop.live/products/8J4UqtFUk3VwfAb-2_xN2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750894",
+      "value": "109061908",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE EXPANSION 20TH ANNIVERSARY",
       "display_type": "string"
     }
   ]

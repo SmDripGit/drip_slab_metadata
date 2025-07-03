@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SM BLACK STAR PROMO GYARADOS GX (PSA GEM MT 10)",
-  "description": "2019 POKEMON SM BLACK STAR PROMO GYARADOS GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310266.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310266.mp4",
-  "external_url": "https://www.dripshop.live/products/cKXT2qh-J8J2Q2Hzu00CR",
+  "name": "2024 POKEMON MEW EN-151 CHARMELEON (PSA GEM MT 10)",
+  "description": "2024 POKEMON MEW EN-151 CHARMELEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/112803449_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/112803449.mp4",
+  "external_url": "https://www.dripshop.live/products/cZGHZ5gcHDqgfxmF7QnJ4",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310266",
+      "value": "112803449",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

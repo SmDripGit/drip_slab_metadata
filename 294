@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL DITTO-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON FOSSIL DITTO-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111328610.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111328610.mp4",
-  "external_url": "https://www.dripshop.live/products/0qPo0hEDikN5XgOVbNP_E",
+  "name": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM 7)",
+  "description": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556483_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556483.mp4",
+  "external_url": "https://www.dripshop.live/products/kV_nDWG7Q-sMip6UFwgvz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111328610",
+      "value": "116556483",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

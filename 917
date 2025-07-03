@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
-  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109141523.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109141523.mp4",
-  "external_url": "https://www.dripshop.live/products/fcD3p79zgOdUk1azof2Gz",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750910_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750910.mp4",
+  "external_url": "https://www.dripshop.live/products/oA3puXf7ofD6X0XSTfinc",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109141523",
+      "value": "107750910",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

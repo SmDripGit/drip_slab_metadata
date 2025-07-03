@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747687.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747687.mp4",
-  "external_url": "https://www.dripshop.live/products/kNdo_atxgFju-qTVSEuW4",
+  "name": "2003 POKEMON SKYRIDGE RAICHU-REV.FOIL (PSA NM-MT 8)",
+  "description": "2003 POKEMON SKYRIDGE RAICHU-REV.FOIL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381907_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381907.mp4",
+  "external_url": "https://www.dripshop.live/products/0Dm4kuRpIBMt7jBlo_O71",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "76747687",
+      "value": "108381907",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SKYRIDGE",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "1999 Pokemon Original Series Bulbasaur (CGC 8)",
-  "description": "1999 Pokemon Original Series Bulbasaur (CGC 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6038950021.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6038950021.mp4",
-  "external_url": "https://www.dripshop.live/products/1x-ra6pIYFsF1ilmmdhi7",
+  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW VMAX (PSA GEM MT 10)",
+  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94448557_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94448557.mp4",
+  "external_url": "https://www.dripshop.live/products/mEi-6ws8Y6gdl0qrzixsv",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6038950021",
+      "value": "94448557",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD FUSION STRIKE",
       "display_type": "string"
     }
   ]

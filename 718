@@ -1,33 +1,38 @@
 {
-  "name": "2000 Pokemon Neo Crobat (CGC 9)",
-  "description": "2000 Pokemon Neo Crobat (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4170710214.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4170710214.mp4",
-  "external_url": "https://www.dripshop.live/products/ELHEcGRrDxAYpqa2qN1kf",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX ADVENTURER'S DSCVRY. (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX ADVENTURER'S DSCVRY. (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747693_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747693.mp4",
+  "external_url": "https://www.dripshop.live/products/1akn7hpYlb3bqPx4J90IX",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4170710214",
+      "value": "76747693",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ERIKA'S INVITATION (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ERIKA'S INVITATION (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/96700391.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/96700391.mp4",
-  "external_url": "https://www.dripshop.live/products/xIUp56nbEnCpIvNGMuw0I",
+  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE TERAPAGOS ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE TERAPAGOS ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/99159839_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/99159839.mp4",
+  "external_url": "https://www.dripshop.live/products/WDEWQ6txwU6hY0YuLAB81",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "96700391",
+      "value": "99159839",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7-STELLAR MIRACLE",
       "display_type": "string"
     }
   ]

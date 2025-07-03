@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310305.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310305.mp4",
-  "external_url": "https://www.dripshop.live/products/geDy-6oSvZPq1XmHvhOR3",
+  "name": "2015 POKEMON JAPANESE XY PROMO BLAZIKEN EX (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY PROMO BLAZIKEN EX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257159_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257159.mp4",
+  "external_url": "https://www.dripshop.live/products/EpKAi3v1F46CjjvK-RG-F",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310305",
+      "value": "109257159",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY PROMO",
       "display_type": "string"
     }
   ]

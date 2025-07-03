@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
-  "description": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126699.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126699.mp4",
-  "external_url": "https://www.dripshop.live/products/VB3u4secRsE0sofJAcjmI",
+  "name": "2024 POKEMON TEF EN-TEMPORAL FORCES GENGAR ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON TEF EN-TEMPORAL FORCES GENGAR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102788147_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102788147.mp4",
+  "external_url": "https://www.dripshop.live/products/Wsn6U4XSCjytBAApqI0TH",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126699",
+      "value": "102788147",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TEF EN-TEMPORAL FORCES",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWSH BLACK STAR PROMO ARCEUS V (PSA MINT 9)",
-  "description": "2022 POKEMON SWSH BLACK STAR PROMO ARCEUS V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/112116349.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/112116349.mp4",
-  "external_url": "https://www.dripshop.live/products/6JDcjrjjcqt_TPlQVjQ6C",
+  "name": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
+  "description": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195087_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195087.mp4",
+  "external_url": "https://www.dripshop.live/products/PSbT60kHe9vj3Sa2z9fQF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "112116349",
+      "value": "102195087",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2018",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SM PROMO",
       "display_type": "string"
     }
   ]

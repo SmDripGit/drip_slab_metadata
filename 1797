@@ -1,0 +1,39 @@
+{
+  "name": "2009 Platinum Dome Fossil (CGC 8.5)",
+  "description": "2009 Platinum Dome Fossil (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001873113_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001873113.mp4",
+  "external_url": "https://www.dripshop.live/products/UbqIeYPCs_3dNQfE5NwfJ",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001873113",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Platinum",
+      "display_type": "string"
+    }
+  ]
+}

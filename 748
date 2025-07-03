@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON OLD MAID SQUIRTLE (PSA GEM MT 10)",
-  "description": "2019 POKEMON OLD MAID SQUIRTLE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102706086.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102706086.mp4",
-  "external_url": "https://www.dripshop.live/products/PxuwnNGq86OlFpbr7xvAq",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101597169_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101597169.mp4",
+  "external_url": "https://www.dripshop.live/products/oWhn-qV2-RUByREejUlOr",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102706086",
+      "value": "101597169",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

@@ -1,23 +1,23 @@
 {
-  "name": "2024 POKEMON SCR EN-STELLAR CROWN CINDERACE ex (PSA NM-MT 8)",
-  "description": "2024 POKEMON SCR EN-STELLAR CROWN CINDERACE ex (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116331577.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116331577.mp4",
-  "external_url": "https://www.dripshop.live/products/qkX9TS436wQ2_eEhN_5Co",
+  "name": "2024 Pokemon Scarlet & Violet Eevee (CGC GEM MINT 10)",
+  "description": "2024 Pokemon Scarlet & Violet Eevee (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016947176_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016947176.mp4",
+  "external_url": "https://www.dripshop.live/products/6Y4gL0fK5z6H2BgywiTwm",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "116331577",
+      "value": "6016947176",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA GEM MT 10)",
-  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107550910.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107550910.mp4",
-  "external_url": "https://www.dripshop.live/products/zEz9GFWG-V1R3H4kzCPUv",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060536_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060536.mp4",
+  "external_url": "https://www.dripshop.live/products/jVDpy1iKcYPkVeRTvI8Zr",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107550910",
+      "value": "109060536",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

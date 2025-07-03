@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME CLEFAIRY-HOLO (PSA EX-MT 6)",
-  "description": "1999 POKEMON GAME CLEFAIRY-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494184.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494184.mp4",
-  "external_url": "https://www.dripshop.live/products/H-6z2FxcOu2K44TPHm0t7",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236176_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236176.mp4",
+  "external_url": "https://www.dripshop.live/products/jVANpD5KIBinadK5o6kUm",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494184",
+      "value": "106236176",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

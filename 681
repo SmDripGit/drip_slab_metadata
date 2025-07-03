@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103347660.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103347660.mp4",
-  "external_url": "https://www.dripshop.live/products/MFgSBz5su4kUQWNAZjIdH",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOLTUND V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOLTUND V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415472_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415472.mp4",
+  "external_url": "https://www.dripshop.live/products/5aAj-KZXHtQC864evD3pR",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103347660",
+      "value": "102415472",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "2000 Pokemon Neo Kingdra (CGC 8)",
-  "description": "2000 Pokemon Neo Kingdra (CGC 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4132443284.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4132443284.mp4",
-  "external_url": "https://www.dripshop.live/products/baqjqB1VOL-3ycItLR3Gh",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA MINT 9)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103347636_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103347636.mp4",
+  "external_url": "https://www.dripshop.live/products/a0ZHa-Ug3fZvMLT3XVhQC",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4132443284",
+      "value": "103347636",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

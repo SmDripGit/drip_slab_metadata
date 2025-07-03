@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II PIDGEOT-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON GAME BASE II PIDGEOT-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108431015.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108431015.mp4",
-  "external_url": "https://www.dripshop.live/products/OzlkTc7SZR6lprC1eSjF9",
+  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
+  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310297_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310297.mp4",
+  "external_url": "https://www.dripshop.live/products/TINFBaW7RaIJ_zMMNSfqL",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108431015",
+      "value": "109310297",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON UNIFIED MINDS",
       "display_type": "string"
     }
   ]

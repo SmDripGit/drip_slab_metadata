@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO PARADISE RESORT (PSA MINT 9)",
-  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO PARADISE RESORT (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101710527.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101710527.mp4",
-  "external_url": "https://www.dripshop.live/products/ZB89Pv-k7Jc6oZr6FQIgQ",
+  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/HISUIAN ARCANINE V (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/HISUIAN ARCANINE V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71011047_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71011047.mp4",
+  "external_url": "https://www.dripshop.live/products/MeITpS4DbvKAQicIpSE1q",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101710527",
+      "value": "71011047",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD SILVER TEMPEST",
       "display_type": "string"
     }
   ]

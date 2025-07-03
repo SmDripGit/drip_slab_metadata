@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Charizard ex Premium Collection Charizard ex (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Charizard ex Premium Collection Charizard ex (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401032379084.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401032379084.mp4",
-  "external_url": "https://www.dripshop.live/products/xkTxlOvs_OYv8GvPIlyE_",
+  "name": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
+  "description": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381874_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381874.mp4",
+  "external_url": "https://www.dripshop.live/products/SNYQ5ELxT8nuZK00W6rbf",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "1401032379084",
+      "value": "108381874",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX RUBY & SAPPHIRE",
       "display_type": "string"
     }
   ]

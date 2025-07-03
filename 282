@@ -1,33 +1,38 @@
 {
-  "name": "2021 Pokemon Pikachu & Zekrom GX Premium Collection Pikachu & Zekrom GX (CGC GEM MINT 10)",
-  "description": "2021 Pokemon Pikachu & Zekrom GX Premium Collection Pikachu & Zekrom GX (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/3980409083.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/3980409083.mp4",
-  "external_url": "https://www.dripshop.live/products/VO1UJ25rkcWd0itbOOtH4",
+  "name": "1999 POKEMON GAME VENUSAUR-HOLO (PSA EX-MT 6)",
+  "description": "1999 POKEMON GAME VENUSAUR-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97715370_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97715370.mp4",
+  "external_url": "https://www.dripshop.live/products/_EQogjxbLwR5tYHTgNCUT",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "3980409083",
+      "value": "97715370",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
-  "description": "2003 POKEMON EX RUBY & SAPPHIRE HITMONCHAN EX-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381874.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381874.mp4",
-  "external_url": "https://www.dripshop.live/products/SNYQ5ELxT8nuZK00W6rbf",
+  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO IRON BUNDLE (PSA MINT 9)",
+  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO IRON BUNDLE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108988207_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108988207.mp4",
+  "external_url": "https://www.dripshop.live/products/TukhbMyWmSTHLb2NKiNd4",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381874",
+      "value": "108988207",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

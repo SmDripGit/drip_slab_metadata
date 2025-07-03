@@ -1,23 +1,23 @@
 {
-  "name": "2024 Pokemon Scarlet & Violet Sinistcha ex (CGC GEM MINT 10)",
-  "description": "2024 Pokemon Scarlet & Violet Sinistcha ex (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6007057055.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6007057055.mp4",
-  "external_url": "https://www.dripshop.live/products/RcZBtAJWDSK77SJY0fsFS",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111253092_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111253092.mp4",
+  "external_url": "https://www.dripshop.live/products/ylZymD1bMkmxP1NRfarPV",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6007057055",
+      "value": "111253092",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

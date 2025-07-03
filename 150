@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106053265.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106053265.mp4",
-  "external_url": "https://www.dripshop.live/products/e32Anhqj2w6xppEwPFzR8",
+  "name": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/113710707_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/113710707.mp4",
+  "external_url": "https://www.dripshop.live/products/fiUo_FBL1lkNXGTAHEzpE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106053265",
+      "value": "113710707",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON KOREAN SV-P PROMO",
       "display_type": "string"
     }
   ]

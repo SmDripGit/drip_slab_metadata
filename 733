@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II WIGGLYTUFF-HOLO (PSA NM 7)",
-  "description": "2000 POKEMON GAME BASE II WIGGLYTUFF-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711442.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711442.mp4",
-  "external_url": "https://www.dripshop.live/products/a8i-EYhYLyyPZ7KmgcaYF",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062669_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062669.mp4",
+  "external_url": "https://www.dripshop.live/products/WpB6NLuC6546IILCZctrV",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711442",
+      "value": "101062669",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

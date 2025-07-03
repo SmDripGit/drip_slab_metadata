@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/ALTARIA (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/ALTARIA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/76750380.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/76750380.mp4",
-  "external_url": "https://www.dripshop.live/products/-vqzBRsb9GVLla2OkIoPg",
+  "name": "2004 POKEMON EX FIRE RED & LEAF GREEN CHARMANDER-REV.FOIL (PSA MINT 9)",
+  "description": "2004 POKEMON EX FIRE RED & LEAF GREEN CHARMANDER-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381851_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381851.mp4",
+  "external_url": "https://www.dripshop.live/products/Ftbbee3UTmnG-0uv1xTjD",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "76750380",
+      "value": "108381851",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2004",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX FIRE RED & LEAF GREEN",
       "display_type": "string"
     }
   ]

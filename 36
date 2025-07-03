@@ -1,9 +1,9 @@
 {
-  "name": "2018 POKEMON SUN & MOON ULTRA PRISM FA/CYNTHIA (PSA MINT 9)",
-  "description": "2018 POKEMON SUN & MOON ULTRA PRISM FA/CYNTHIA (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108692279.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108692279.mp4",
-  "external_url": "https://www.dripshop.live/products/S0-7-oXz_7kyNkcjbPHgl",
+  "name": "2015 POKEMON XY ROARING SKIES M RAYQUAZA EX (PSA MINT 9)",
+  "description": "2015 POKEMON XY ROARING SKIES M RAYQUAZA EX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/72842809_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/72842809.mp4",
+  "external_url": "https://www.dripshop.live/products/Fh859yfFmy2cJ__lr2Wlf",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108692279",
+      "value": "72842809",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2018",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON XY ROARING SKIES",
       "display_type": "string"
     }
   ]

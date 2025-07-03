@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON PROMO BLACK STAR MEW-HOLO (PSA MINT 9)",
-  "description": "2000 POKEMON PROMO BLACK STAR MEW-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381896.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381896.mp4",
-  "external_url": "https://www.dripshop.live/products/da2fuevHhUylqCY5cHwNo",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO PARADISE RESORT (PSA MINT 9)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO PARADISE RESORT (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101710527_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101710527.mp4",
+  "external_url": "https://www.dripshop.live/products/ZB89Pv-k7Jc6oZr6FQIgQ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381896",
+      "value": "101710527",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

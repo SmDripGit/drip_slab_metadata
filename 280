@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME VENUSAUR-HOLO (PSA VG-EX 4)",
-  "description": "1999 POKEMON GAME VENUSAUR-HOLO (PSA VG-EX 4)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537251.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537251.mp4",
-  "external_url": "https://www.dripshop.live/products/HMFoOxfLENYN0Bj_dO4n6",
+  "name": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA EX-MT 6)",
+  "description": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556479_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556479.mp4",
+  "external_url": "https://www.dripshop.live/products/PVWIQmtzmI8gfVOvF6t4S",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "114537251",
+      "value": "116556479",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "VG-EX 4",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

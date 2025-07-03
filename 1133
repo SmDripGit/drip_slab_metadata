@@ -1,0 +1,39 @@
+{
+  "name": "2010 HeartGold & SoulSilver Sage's Training (CGC MINT+ 9.5)",
+  "description": "2010 HeartGold & SoulSilver Sage's Training (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036574081_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036574081.mp4",
+  "external_url": "https://www.dripshop.live/products/RLLrI8mp3S5yqd-aW8K0K",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036574081",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2010",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "HeartGold & SoulSilver",
+      "display_type": "string"
+    }
+  ]
+}

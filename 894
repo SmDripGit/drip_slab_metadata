@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL GOLBAT (PSA NM 7)",
-  "description": "1999 POKEMON FOSSIL GOLBAT (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711459.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711459.mp4",
-  "external_url": "https://www.dripshop.live/products/gB3FprsEfHJ4rH2ZoJGki",
+  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/SYLVEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/SYLVEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108984720_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108984720.mp4",
+  "external_url": "https://www.dripshop.live/products/5WT13aQMgfDi2uyIykhXJ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711459",
+      "value": "108984720",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD EVOLVING SKIES",
       "display_type": "string"
     }
   ]

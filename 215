@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111946009.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111946009.mp4",
-  "external_url": "https://www.dripshop.live/products/28mMq_3j-oDQ5A93jJnS9",
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VMAX (PSA GEM MT 10)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226326_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226326.mp4",
+  "external_url": "https://www.dripshop.live/products/0jWdHwsujB3Wk6siUxSjW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111946009",
+      "value": "111226326",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD AND SHIELD CROWN ZENITH",
       "display_type": "string"
     }
   ]

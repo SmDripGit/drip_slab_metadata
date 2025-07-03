@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/EEVEE (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/EEVEE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061879.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061879.mp4",
-  "external_url": "https://www.dripshop.live/products/rj1wU0tsTtLUPku4Pptyz",
+  "name": "2015 POKEMON JAPANESE GOLDUCK BREAK + PALKIA EX COMBO DECK GOLDUCK BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE GOLDUCK BREAK + PALKIA EX COMBO DECK GOLDUCK BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061845_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061845.mp4",
+  "external_url": "https://www.dripshop.live/products/U5HS5LG9KHZa2v4x4Vk6E",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061879",
+      "value": "109061845",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE GOLDUCK BREAK + PALKIA EX COMBO DECK",
       "display_type": "string"
     }
   ]

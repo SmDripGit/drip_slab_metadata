@@ -1,9 +1,9 @@
 {
-  "name": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
-  "description": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982526.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982526.mp4",
-  "external_url": "https://www.dripshop.live/products/RwE_aUCDfaOT_o1RvFI-g",
+  "name": "2016 POKEMON XY FATES COLLIDE FA/M ALAKAZAM EX (PSA NM-MT 8)",
+  "description": "2016 POKEMON XY FATES COLLIDE FA/M ALAKAZAM EX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/87602871_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/87602871.mp4",
+  "external_url": "https://www.dripshop.live/products/w-FKWxHxKjA5tlviKzBfj",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116982526",
+      "value": "87602871",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON XY FATES COLLIDE",
       "display_type": "string"
     }
   ]

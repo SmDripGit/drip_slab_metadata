@@ -1,9 +1,9 @@
 {
-  "name": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
-  "description": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381878.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381878.mp4",
-  "external_url": "https://www.dripshop.live/products/sqX-UBOww9GPrHeH_ZcBu",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310264_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310264.mp4",
+  "external_url": "https://www.dripshop.live/products/6blF02GFF7KP0QzeMHS6o",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381878",
+      "value": "109310264",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

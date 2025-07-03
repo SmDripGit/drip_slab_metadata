@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177006.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177006.mp4",
-  "external_url": "https://www.dripshop.live/products/rJt2rVuqo49GPh1S6-WxK",
+  "name": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION GARCHOMP C LV.X-HOLO (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION GARCHOMP C LV.X-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101398660_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101398660.mp4",
+  "external_url": "https://www.dripshop.live/products/nNAMWP-PMKUwpJXKVaTnt",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106177006",
+      "value": "101398660",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION",
       "display_type": "string"
     }
   ]

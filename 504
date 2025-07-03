@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
-  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108362594.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108362594.mp4",
-  "external_url": "https://www.dripshop.live/products/PPZLUpVOHDkPjk_HkI8WT",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126050_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126050.mp4",
+  "external_url": "https://www.dripshop.live/products/wnwdsDzyOqkRvCe_JtlwI",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108362594",
+      "value": "109126050",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

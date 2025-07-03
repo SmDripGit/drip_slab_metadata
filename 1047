@@ -1,0 +1,39 @@
+{
+  "name": "2010 HeartGold & SoulSilver Hitmonlee (CGC 8.5)",
+  "description": "2010 HeartGold & SoulSilver Hitmonlee (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401011386169_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401011386169.mp4",
+  "external_url": "https://www.dripshop.live/products/Z9RHsYYv7NaRZDcEvVCpv",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401011386169",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2010",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "HeartGold & SoulSilver",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343596.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343596.mp4",
-  "external_url": "https://www.dripshop.live/products/jQg3P1XjLw1c8Ms3u6_9C",
+  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED SABLEYE (PSA GEM MT 10)",
+  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED SABLEYE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126677_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126677.mp4",
+  "external_url": "https://www.dripshop.live/products/DU7YBbUVvPIf2-747RjMa",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343596",
+      "value": "109126677",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAL EN-PALDEA EVOLVED",
       "display_type": "string"
     }
   ]

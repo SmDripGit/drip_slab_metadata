@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062669.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062669.mp4",
-  "external_url": "https://www.dripshop.live/products/WpB6NLuC6546IILCZctrV",
+  "name": "2023 POKEMON PAR EN-PARADOX RIFT GOLISOPOD ex (PSA MINT 9)",
+  "description": "2023 POKEMON PAR EN-PARADOX RIFT GOLISOPOD ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494300_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494300.mp4",
+  "external_url": "https://www.dripshop.live/products/2dUv6pgo_X3TvLUkWZaUB",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062669",
+      "value": "115494300",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAR EN-PARADOX RIFT",
       "display_type": "string"
     }
   ]

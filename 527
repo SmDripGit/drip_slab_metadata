@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 2 POLIWRATH-HOLO (PSA MINT 9)",
-  "description": "2000 POKEMON JAPANESE NEO 2 POLIWRATH-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102912265.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102912265.mp4",
-  "external_url": "https://www.dripshop.live/products/GhO3uPobXuC6Je6QIPFgu",
+  "name": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "description": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310254_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310254.mp4",
+  "external_url": "https://www.dripshop.live/products/eG90IHLWYFKRnt5WQHv5u",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102912265",
+      "value": "109310254",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SM BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW V (PSA MINT 9)",
-  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/112147696.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/112147696.mp4",
-  "external_url": "https://www.dripshop.live/products/FntLXLrKp4EDthllZEd9a",
+  "name": "1997 POKEMON JAPANESE FOSSIL LAPRAS-HOLO (PSA EX 5)",
+  "description": "1997 POKEMON JAPANESE FOSSIL LAPRAS-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972004.mp4",
+  "external_url": "https://www.dripshop.live/products/8rV3lIR70u5uthXYD3FoM",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "112147696",
+      "value": "82972004",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "1997",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE FOSSIL",
       "display_type": "string"
     }
   ]

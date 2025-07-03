@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77942439.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77942439.mp4",
-  "external_url": "https://www.dripshop.live/products/IHiAGQxhymSc4LnCJ5FJa",
+  "name": "2000 POKEMON JAPANESE NEO 2 POLIWRATH-HOLO (PSA MINT 9)",
+  "description": "2000 POKEMON JAPANESE NEO 2 POLIWRATH-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102912265_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102912265.mp4",
+  "external_url": "https://www.dripshop.live/products/GhO3uPobXuC6Je6QIPFgu",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77942439",
+      "value": "102912265",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 2",
       "display_type": "string"
     }
   ]

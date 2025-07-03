@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/MEW VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/MEW VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111138804.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111138804.mp4",
-  "external_url": "https://www.dripshop.live/products/6Skn4NG8Y74Ez_qekV4ux",
+  "name": "1999 POKEMON GAME RAICHU-HOLO (PSA NM-MT 8)",
+  "description": "1999 POKEMON GAME RAICHU-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972034_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972034.mp4",
+  "external_url": "https://www.dripshop.live/products/49yohtCChYrY_o6Q-mhb0",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111138804",
+      "value": "82972034",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

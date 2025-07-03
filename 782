@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED SQUAWKABILLY ex (PSA MINT 9)",
-  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED SQUAWKABILLY ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97390304.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97390304.mp4",
-  "external_url": "https://www.dripshop.live/products/o9xormvIUt7tyw1NPMDF-",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106053259_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106053259.mp4",
+  "external_url": "https://www.dripshop.live/products/8IvJMiV0P2d5DLymkE0aA",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97390304",
+      "value": "106053259",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

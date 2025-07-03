@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
-  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310265.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310265.mp4",
-  "external_url": "https://www.dripshop.live/products/j3bWpNE3bk9a4rAX5uJE-",
+  "name": "1999 POKEMON FOSSIL ENERGY SEARCH (PSA MINT 9)",
+  "description": "1999 POKEMON FOSSIL ENERGY SEARCH (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711439_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711439.mp4",
+  "external_url": "https://www.dripshop.live/products/6faIjyldivMlaQRCcxdIi",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310265",
+      "value": "116711439",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

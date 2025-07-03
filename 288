@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION MOLTRES-HOLO (PSA GEM MT 10)",
-  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION MOLTRES-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343619.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343619.mp4",
-  "external_url": "https://www.dripshop.live/products/4-XnwNDeO45FyDnBtKocd",
+  "name": "1999 POKEMON FOSSIL GOLBAT (PSA NM 7)",
+  "description": "1999 POKEMON FOSSIL GOLBAT (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711459_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711459.mp4",
+  "external_url": "https://www.dripshop.live/products/gB3FprsEfHJ4rH2ZoJGki",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343619",
+      "value": "116711459",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

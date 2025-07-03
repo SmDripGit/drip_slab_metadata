@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177011.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177011.mp4",
-  "external_url": "https://www.dripshop.live/products/-r1h0j0b4JAIQnyhv4FMX",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343594_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343594.mp4",
+  "external_url": "https://www.dripshop.live/products/KJlMFsCpzUN1RzK8ctyFM",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106177011",
+      "value": "109343594",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

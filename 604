@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060597.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060597.mp4",
-  "external_url": "https://www.dripshop.live/products/QUYVFm0nViIWmcSlJxHZ2",
+  "name": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARIZARD ex (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARIZARD ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103272098_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103272098.mp4",
+  "external_url": "https://www.dripshop.live/products/ZR9K6yzToqzXIwm7AvxUu",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060597",
+      "value": "103272098",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV4a-SHINY TREASURE ex",
       "display_type": "string"
     }
   ]

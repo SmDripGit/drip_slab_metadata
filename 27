@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS ROWLET & ALN.EXGTR.GX (PSA GEM MT 10)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS ROWLET & ALN.EXGTR.GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/112515004.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/112515004.mp4",
-  "external_url": "https://www.dripshop.live/products/H7s4v5ppaiu0JlLweXNUN",
+  "name": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
+  "description": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/69062235_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/69062235.mp4",
+  "external_url": "https://www.dripshop.live/products/RaziJkEa_e--ZyEcGkrhC",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "112515004",
+      "value": "69062235",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM HEROES",
       "display_type": "string"
     }
   ]

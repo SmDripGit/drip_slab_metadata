@@ -1,9 +1,9 @@
 {
-  "name": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
-  "description": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/94164129.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/94164129.mp4",
-  "external_url": "https://www.dripshop.live/products/QD4BpP4o_34wBYd4a5b2z",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177003_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177003.mp4",
+  "external_url": "https://www.dripshop.live/products/2hEBaxc-Hkrdm8wafqoD1",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "94164129",
+      "value": "106177003",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2009",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

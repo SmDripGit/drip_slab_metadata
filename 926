@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SSP EN-SURGING SPARKS SURFER (PSA MINT 9)",
-  "description": "2024 POKEMON SSP EN-SURGING SPARKS SURFER (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106276835.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106276835.mp4",
-  "external_url": "https://www.dripshop.live/products/QqruFfqXub5uYJr4mvhh3",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110874489_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110874489.mp4",
+  "external_url": "https://www.dripshop.live/products/AZL8X6SSZf4NMB0ng_mKn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106276835",
+      "value": "110874489",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

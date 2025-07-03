@@ -1,0 +1,39 @@
+{
+  "name": "1996 Original Series Revive (CGC 9)",
+  "description": "1996 Original Series Revive (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3916457222_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3916457222.mp4",
+  "external_url": "https://www.dripshop.live/products/6GpfUxLm3f4uNB6aTuASu",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3916457222",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1996",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

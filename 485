@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWSH BLACK STAR PROMO FA/CHARIZARD VSTAR (PSA MINT 9)",
-  "description": "2022 POKEMON SWSH BLACK STAR PROMO FA/CHARIZARD VSTAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/114127457.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/114127457.mp4",
-  "external_url": "https://www.dripshop.live/products/ZsBjmApBd2XwyOPdTKHKe",
+  "name": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
+  "description": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381891_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381891.mp4",
+  "external_url": "https://www.dripshop.live/products/HEo_HbGQXRXpUC7rdIghv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "114127457",
+      "value": "108381891",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO DISCOVERY",
       "display_type": "string"
     }
   ]

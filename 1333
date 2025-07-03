@@ -1,0 +1,39 @@
+{
+  "name": "1998 All Gary (CGC 9)",
+  "description": "1998 All Gary (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016712174_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016712174.mp4",
+  "external_url": "https://www.dripshop.live/products/KAU1l8U7gb9lWsJU6HiiF",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016712174",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1998",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "All",
+      "display_type": "string"
+    }
+  ]
+}

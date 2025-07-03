@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060534.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060534.mp4",
-  "external_url": "https://www.dripshop.live/products/SSoABwl3UHIkUqHB8O1e5",
+  "name": "2024 POKEMON SFA EN-SHROUDED FABLE BEWEAR (PSA MINT 9)",
+  "description": "2024 POKEMON SFA EN-SHROUDED FABLE BEWEAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104810919_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104810919.mp4",
+  "external_url": "https://www.dripshop.live/products/DTBOH9w7zNMh6VBI5qr1s",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060534",
+      "value": "104810919",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SFA EN-SHROUDED FABLE",
       "display_type": "string"
     }
   ]

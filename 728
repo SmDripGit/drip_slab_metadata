@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 GRIMER (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 GRIMER (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100762798.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100762798.mp4",
-  "external_url": "https://www.dripshop.live/products/1iY67XqFg3eEP4t_KZFNm",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLAZIKEN VMAX (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLAZIKEN VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148659_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148659.mp4",
+  "external_url": "https://www.dripshop.live/products/Mg62B4QhEy7D6iQC--Qn8",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100762798",
+      "value": "103148659",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

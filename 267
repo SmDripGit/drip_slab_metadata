@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062663.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062663.mp4",
-  "external_url": "https://www.dripshop.live/products/rLCK9JAWZWvweudeHWL2l",
+  "name": "2000 POKEMON GAME BASE II SCYTHER-HOLO (PSA EX 5)",
+  "description": "2000 POKEMON GAME BASE II SCYTHER-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556487_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556487.mp4",
+  "external_url": "https://www.dripshop.live/products/gntSt7uIzcZj3jTvmUvZF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062663",
+      "value": "116556487",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

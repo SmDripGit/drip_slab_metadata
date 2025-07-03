@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062665.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062665.mp4",
-  "external_url": "https://www.dripshop.live/products/mlzo3FV8R1sGlwCX42Q6A",
+  "name": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
+  "description": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126700_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126700.mp4",
+  "external_url": "https://www.dripshop.live/products/mUN6hI3-DSixmtlT374lj",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062665",
+      "value": "109126700",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

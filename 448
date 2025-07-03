@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061923.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061923.mp4",
-  "external_url": "https://www.dripshop.live/products/FgQYIJSc-vHSNygJ3Z1PZ",
+  "name": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
+  "description": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100315478_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100315478.mp4",
+  "external_url": "https://www.dripshop.live/products/hnGxvpDvpFC6NPVC6rE0C",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061923",
+      "value": "100315478",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2006",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON POP SERIES 3",
       "display_type": "string"
     }
   ]

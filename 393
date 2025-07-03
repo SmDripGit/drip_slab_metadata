@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343555.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343555.mp4",
-  "external_url": "https://www.dripshop.live/products/VUlW3wqbftMhcXhVAQOo1",
+  "name": "2021 POKEMON SWSH BLACK STAR PROMO FA/VAPOREON V (PSA MINT 9)",
+  "description": "2021 POKEMON SWSH BLACK STAR PROMO FA/VAPOREON V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94589654_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94589654.mp4",
+  "external_url": "https://www.dripshop.live/products/ETxp53kLn6kOllzzt1mnF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343555",
+      "value": "94589654",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWSH BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
-  "description": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/71536239.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/71536239.mp4",
-  "external_url": "https://www.dripshop.live/products/AaJQ5P5Q7JNauVUAHvQy8",
+  "name": "2001 POKEMON NEO REVELATION 1ST EDITION HOUNDOOM-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO REVELATION 1ST EDITION HOUNDOOM-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98079152_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98079152.mp4",
+  "external_url": "https://www.dripshop.live/products/CUXhpwSPlXyb1H72eLpkX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "71536239",
+      "value": "98079152",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2007",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION 1ST EDITION",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON SKYRIDGE MAGNETON-REV.FOIL (PSA MINT 9)",
-  "description": "2003 POKEMON SKYRIDGE MAGNETON-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381913.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381913.mp4",
-  "external_url": "https://www.dripshop.live/products/N33tIBXfAmgctVSPumYs6",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES MANKEY (PSA GEM MT 10)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES MANKEY (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233900_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233900.mp4",
+  "external_url": "https://www.dripshop.live/products/wGMNcfHiRhwkpf5CVFF5s",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381913",
+      "value": "104233900",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

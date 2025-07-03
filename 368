@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104448236.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104448236.mp4",
-  "external_url": "https://www.dripshop.live/products/lqSr0y8c-4l0XhmAE7F3Q",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES ABRA (PSA MINT 9)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES ABRA (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233898_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233898.mp4",
+  "external_url": "https://www.dripshop.live/products/9lAD7Hhz8Xtpdbx5QaZh4",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104448236",
+      "value": "104233898",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

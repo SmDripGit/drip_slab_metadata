@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX FIRE RED & LEAF GREEN GROWLITHE-REV.FOIL (PSA MINT 9)",
-  "description": "2004 POKEMON EX FIRE RED & LEAF GREEN GROWLITHE-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381865.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381865.mp4",
-  "external_url": "https://www.dripshop.live/products/CcGh4vkFMNRhfKTZfn-vt",
+  "name": "1999 POKEMON GAME NINETALES-HOLO (PSA MINT 9)",
+  "description": "1999 POKEMON GAME NINETALES-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/52898675_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/52898675.mp4",
+  "external_url": "https://www.dripshop.live/products/_LMFs-lC4rWQBc3wkLr-h",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381865",
+      "value": "52898675",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SCR EN-STELLAR CROWN TERAPAGOS ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON SCR EN-STELLAR CROWN TERAPAGOS ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110162206.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110162206.mp4",
-  "external_url": "https://www.dripshop.live/products/4-2591D4DjkF2RdZ60Qoq",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES BISHARP (PSA MINT 9)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES BISHARP (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101442731_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101442731.mp4",
+  "external_url": "https://www.dripshop.live/products/eqiiuraihqsfzf99Zg5sO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110162206",
+      "value": "101442731",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

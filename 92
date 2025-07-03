@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO MEWTWO (PSA GEM MT 10)",
-  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO MEWTWO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102037812.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102037812.mp4",
-  "external_url": "https://www.dripshop.live/products/uR-HS6B4edYrx0vsU8IRg",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES DRIFLOON (PSA MINT 9)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES DRIFLOON (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101442730_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101442730.mp4",
+  "external_url": "https://www.dripshop.live/products/Xl6VQCckVTxk3t8jCo46E",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102037812",
+      "value": "101442730",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

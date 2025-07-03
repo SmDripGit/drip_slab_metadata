@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750933.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750933.mp4",
-  "external_url": "https://www.dripshop.live/products/dlIsyIDiSPfqvXUO5-BXR",
+  "name": "2020 POKEMON JAPANESE SWORD & SHIELD LEGENDARY HEARTBEAT RAIKOU (PSA GEM MT 10)",
+  "description": "2020 POKEMON JAPANESE SWORD & SHIELD LEGENDARY HEARTBEAT RAIKOU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371894_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371894.mp4",
+  "external_url": "https://www.dripshop.live/products/RjbZVH4AUn1XieBuk1tjf",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750933",
+      "value": "103371894",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2020",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD LEGENDARY HEARTBEAT",
       "display_type": "string"
     }
   ]

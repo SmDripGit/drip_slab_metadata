@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060535.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060535.mp4",
-  "external_url": "https://www.dripshop.live/products/x25ceXa3BS5O6aEs9_Nt9",
+  "name": "2001 POKEMON NEO DISCOVERY HITMONTOP-HOLO (PSA MINT 9)",
+  "description": "2001 POKEMON NEO DISCOVERY HITMONTOP-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381847_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381847.mp4",
+  "external_url": "https://www.dripshop.live/products/_1HF9gwdq1ARGWGxRTy7A",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060535",
+      "value": "108381847",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO DISCOVERY",
       "display_type": "string"
     }
   ]

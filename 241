@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/80416756.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/80416756.mp4",
-  "external_url": "https://www.dripshop.live/products/YIZKQliQz9ax75wdwGVHY",
+  "name": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/SS URSHIFU VMAX (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/SS URSHIFU VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103559342_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103559342.mp4",
+  "external_url": "https://www.dripshop.live/products/sNkL1uvQ04BSuEE4FSABG",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "80416756",
+      "value": "103559342",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD BRILLIANT STARS",
       "display_type": "string"
     }
   ]

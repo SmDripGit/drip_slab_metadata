@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED MEOWSCARADA ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED MEOWSCARADA ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972021.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972021.mp4",
-  "external_url": "https://www.dripshop.live/products/1KxEj_dpx0q2HTGI-I2hv",
+  "name": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254013_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109254013.mp4",
+  "external_url": "https://www.dripshop.live/products/rYGvxAtf4Egw9IQn1wViH",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972021",
+      "value": "109254013",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX",
       "display_type": "string"
     }
   ]

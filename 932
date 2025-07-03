@@ -1,33 +1,38 @@
 {
-  "name": "2005 Pokemon EX Skarmory (CGC 9)",
-  "description": "2005 Pokemon EX Skarmory (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4054861288.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4054861288.mp4",
-  "external_url": "https://www.dripshop.live/products/at1HMiu6F5MkuO9p3lukY",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/80416809_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/80416809.mp4",
+  "external_url": "https://www.dripshop.live/products/Dw1eG1QaFj5JMnoZNsrOd",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4054861288",
+      "value": "80416809",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2005",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

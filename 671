@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ZERAORA VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ZERAORA VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415360.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415360.mp4",
-  "external_url": "https://www.dripshop.live/products/ha-y1tLDR-55puXR45SD3",
+  "name": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061850_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061850.mp4",
+  "external_url": "https://www.dripshop.live/products/JBFzqBqIFTndfgDF7x4sx",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415360",
+      "value": "109061850",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK",
       "display_type": "string"
     }
   ]

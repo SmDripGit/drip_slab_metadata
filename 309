@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD FUSION ARTS FA/GENESECT V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD FUSION ARTS FA/GENESECT V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77973040.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77973040.mp4",
-  "external_url": "https://www.dripshop.live/products/hkaCWUsKERh78opaB_Oi-",
+  "name": "2000 POKEMON GYM HEROES BLAINE'S PONYTA (PSA NM-MT 8)",
+  "description": "2000 POKEMON GYM HEROES BLAINE'S PONYTA (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107813730_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107813730.mp4",
+  "external_url": "https://www.dripshop.live/products/VwrzhwwtlMf6Ldh7bwvZe",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77973040",
+      "value": "107813730",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM HEROES",
       "display_type": "string"
     }
   ]

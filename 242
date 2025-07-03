@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS SYLVEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS SYLVEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111855854.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111855854.mp4",
-  "external_url": "https://www.dripshop.live/products/TOf8GRWfg-coUqb8STfY0",
+  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE IRON THORNS ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE IRON THORNS ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94057383_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94057383.mp4",
+  "external_url": "https://www.dripshop.live/products/zu6B7rwWGxaJo-j_oqXpQ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111855854",
+      "value": "94057383",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TWM EN-TWILIGHT MASQUERADE",
       "display_type": "string"
     }
   ]

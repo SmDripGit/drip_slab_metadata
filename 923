@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
-  "description": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556475.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556475.mp4",
-  "external_url": "https://www.dripshop.live/products/_t_qOJXar0K-fvmN4df3D",
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MEWTWO VSTAR (PSA GEM MT 10)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MEWTWO VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102344680_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102344680.mp4",
+  "external_url": "https://www.dripshop.live/products/33x2dKEpqJJv2RHzpW-4H",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556475",
+      "value": "102344680",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD AND SHIELD CROWN ZENITH",
       "display_type": "string"
     }
   ]

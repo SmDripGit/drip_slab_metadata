@@ -1,0 +1,39 @@
+{
+  "name": "2000 Original Series Misty's Goldeen (CGC MINT+ 9.5)",
+  "description": "2000 Original Series Misty's Goldeen (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016734157_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016734157.mp4",
+  "external_url": "https://www.dripshop.live/products/uSMc0OwshBMr-xHf6fVfa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016734157",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

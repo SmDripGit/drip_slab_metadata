@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750940.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750940.mp4",
-  "external_url": "https://www.dripshop.live/products/QayyMQXHDfnSDf_eIXK4i",
+  "name": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257256_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257256.mp4",
+  "external_url": "https://www.dripshop.live/products/5uPRq3kQItN8QnhWz86Q-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750940",
+      "value": "109257256",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON SKYRIDGE RAICHU-REV.FOIL (PSA NM-MT 8)",
-  "description": "2003 POKEMON SKYRIDGE RAICHU-REV.FOIL (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381907.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381907.mp4",
-  "external_url": "https://www.dripshop.live/products/0Dm4kuRpIBMt7jBlo_O71",
+  "name": "2000 POKEMON GAME BASE II WIGGLYTUFF-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON GAME BASE II WIGGLYTUFF-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711442_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711442.mp4",
+  "external_url": "https://www.dripshop.live/products/a8i-EYhYLyyPZ7KmgcaYF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381907",
+      "value": "116711442",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

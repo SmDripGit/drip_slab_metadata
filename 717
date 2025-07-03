@@ -1,33 +1,38 @@
 {
-  "name": "2024 Pokemon Scarlet & Violet Eevee (CGC GEM MINT 10)",
-  "description": "2024 Pokemon Scarlet & Violet Eevee (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016947176.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016947176.mp4",
-  "external_url": "https://www.dripshop.live/products/6Y4gL0fK5z6H2BgywiTwm",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOSS'S ORDERS (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BOSS'S ORDERS (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71306594_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71306594.mp4",
+  "external_url": "https://www.dripshop.live/products/LmU6xTl5jYS57wKDgFX7Z",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6016947176",
+      "value": "71306594",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

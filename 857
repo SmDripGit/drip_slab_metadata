@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES DRIFLOON (PSA MINT 9)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES DRIFLOON (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101442730.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101442730.mp4",
-  "external_url": "https://www.dripshop.live/products/Xl6VQCckVTxk3t8jCo46E",
+  "name": "2024 POKEMON SFA EN-SHROUDED FABLE PERSIAN (PSA MINT 9)",
+  "description": "2024 POKEMON SFA EN-SHROUDED FABLE PERSIAN (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116892655_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116892655.mp4",
+  "external_url": "https://www.dripshop.live/products/BDf8uJSpr_KxSnp61ELnY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101442730",
+      "value": "116892655",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SFA EN-SHROUDED FABLE",
       "display_type": "string"
     }
   ]

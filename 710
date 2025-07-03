@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110013667.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110013667.mp4",
-  "external_url": "https://www.dripshop.live/products/TYXC9APj7BzfguUBMfjtX",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062671_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062671.mp4",
+  "external_url": "https://www.dripshop.live/products/07hN7zitbTCX9JZbB6gBP",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110013667",
+      "value": "101062671",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

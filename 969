@@ -1,9 +1,9 @@
 {
-  "name": "1999 Pokemon Original Series Potion (CGC 8)",
-  "description": "1999 Pokemon Original Series Potion (CGC 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6009705042.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6009705042.mp4",
-  "external_url": "https://www.dripshop.live/products/QrFpi090nOTDXWt6tlCH_",
+  "name": "2024 Pokemon Surging Sparks Elite Trainer Box Magneton (CGC GEM MINT 10)",
+  "description": "2024 Pokemon Surging Sparks Elite Trainer Box Magneton (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6023284198_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6023284198.mp4",
+  "external_url": "https://www.dripshop.live/products/Xz3DU5J39rCdH0mjhKeY2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "6009705042",
+      "value": "6023284198",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Surging Sparks Elite Trainer Box",
       "display_type": "string"
     }
   ]

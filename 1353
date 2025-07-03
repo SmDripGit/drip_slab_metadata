@@ -1,0 +1,39 @@
+{
+  "name": "2002 e-Series Tyrogue (CGC MINT+ 9.5)",
+  "description": "2002 e-Series Tyrogue (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016723012_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016723012.mp4",
+  "external_url": "https://www.dripshop.live/products/BNokmMy_4-QcbdO0q_PC2",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016723012",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "e-Series",
+      "display_type": "string"
+    }
+  ]
+}

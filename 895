@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES SCIZOR (PSA MINT 9)",
-  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES SCIZOR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494287.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494287.mp4",
-  "external_url": "https://www.dripshop.live/products/Uja2ffBM26-DlmwM6r5rq",
+  "name": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA GEM MT 10)",
+  "description": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101663161_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101663161.mp4",
+  "external_url": "https://www.dripshop.live/products/FN99dQk3ddZjS_QgcnB81",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494287",
+      "value": "101663161",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

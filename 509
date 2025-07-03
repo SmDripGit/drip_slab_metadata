@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343592.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343592.mp4",
-  "external_url": "https://www.dripshop.live/products/KXKPribe0RUd-O8xyERf4",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126055_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126055.mp4",
+  "external_url": "https://www.dripshop.live/products/iTQxljcWMsaC7RTKny7kb",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343592",
+      "value": "109126055",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

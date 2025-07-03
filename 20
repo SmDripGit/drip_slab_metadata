@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX TEAM ROCKET RETURNS DARK DRAGONITE-HOLO (PSA MINT 9)",
-  "description": "2004 POKEMON EX TEAM ROCKET RETURNS DARK DRAGONITE-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116215133.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116215133.mp4",
-  "external_url": "https://www.dripshop.live/products/oyRWhcUQy2OSssu1l6gOv",
+  "name": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
+  "description": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85076505_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85076505.mp4",
+  "external_url": "https://www.dripshop.live/products/5tOp6y2OKEANgucKwQubh",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116215133",
+      "value": "85076505",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Chinese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TRADITIONAL CHINESE SV-P PROMO",
       "display_type": "string"
     }
   ]

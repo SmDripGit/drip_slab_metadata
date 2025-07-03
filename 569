@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060614.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060614.mp4",
-  "external_url": "https://www.dripshop.live/products/ZkVjefSxzuD8fFYbrxVAW",
+  "name": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC GEM MINT 10)",
+  "description": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760010_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760010.mp4",
+  "external_url": "https://www.dripshop.live/products/ojU1pRL5y5NuXP03ZtwXX",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060614",
+      "value": "4306760010",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield",
       "display_type": "string"
     }
   ]

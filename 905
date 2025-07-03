@@ -1,33 +1,38 @@
 {
-  "name": "2000 Pokemon Neo Scizor (CGC 7)",
-  "description": "2000 Pokemon Neo Scizor (CGC 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4159018026.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4159018026.mp4",
-  "external_url": "https://www.dripshop.live/products/ypkZY9zMJIaXR9u3QCty3",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET FA/VAPOREON VMAX (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET FA/VAPOREON VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750982_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750982.mp4",
+  "external_url": "https://www.dripshop.live/products/snfoWfXOeczqg6c1NfGMl",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4159018026",
+      "value": "107750982",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET",
       "display_type": "string"
     }
   ]

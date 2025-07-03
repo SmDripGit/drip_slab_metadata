@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 2 TYRANITAR-HOLO (PSA MINT 9)",
-  "description": "2000 POKEMON JAPANESE NEO 2 TYRANITAR-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381547.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381547.mp4",
-  "external_url": "https://www.dripshop.live/products/R2GtE3JIWmlBLJsmOFOeP",
+  "name": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
+  "description": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115702748_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115702748.mp4",
+  "external_url": "https://www.dripshop.live/products/LZ9HfoW4Z8ij7A2W2iRQz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381547",
+      "value": "115702748",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JTG EN-JOURNEY TOGETHER",
       "display_type": "string"
     }
   ]

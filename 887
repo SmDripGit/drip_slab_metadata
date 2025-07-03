@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GENGAR (PSA NM-MT 8)",
-  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GENGAR (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/99621143.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/99621143.mp4",
-  "external_url": "https://www.dripshop.live/products/AhXfRJ1ro2zNhe5_YzrJr",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062665_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062665.mp4",
+  "external_url": "https://www.dripshop.live/products/mlzo3FV8R1sGlwCX42Q6A",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "99621143",
+      "value": "101062665",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

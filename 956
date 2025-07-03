@@ -1,33 +1,38 @@
 {
-  "name": "2022 POKEMON SWSH BLACK STAR PROMO UMBREON V (PSA MINT 9)",
-  "description": "2022 POKEMON SWSH BLACK STAR PROMO UMBREON V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/92769408.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/92769408.mp4",
-  "external_url": "https://www.dripshop.live/products/cpAyk1J5L9jfz-yNa0NiR",
+  "name": "2000 Pokemon Neo Scizor (CGC 7)",
+  "description": "2000 Pokemon Neo Scizor (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4159018026_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4159018026.mp4",
+  "external_url": "https://www.dripshop.live/products/ypkZY9zMJIaXR9u3QCty3",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "92769408",
+      "value": "4159018026",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Neo",
       "display_type": "string"
     }
   ]

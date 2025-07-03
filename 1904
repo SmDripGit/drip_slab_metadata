@@ -1,0 +1,39 @@
+{
+  "name": "2020 Sword & Shield Charizard (CGC 8)",
+  "description": "2020 Sword & Shield Charizard (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3864486247_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3864486247.mp4",
+  "external_url": "https://www.dripshop.live/products/AfqR9aqycweJA1K9EaW8A",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3864486247",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2020",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sword & Shield",
+      "display_type": "string"
+    }
+  ]
+}

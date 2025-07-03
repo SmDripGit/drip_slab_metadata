@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310297.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310297.mp4",
-  "external_url": "https://www.dripshop.live/products/TINFBaW7RaIJ_zMMNSfqL",
+  "name": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU-HOLO (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343531_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343531.mp4",
+  "external_url": "https://www.dripshop.live/products/3j7pUGiuRng2eoZTHmX-X",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310297",
+      "value": "109343531",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2022 Sword & Shield Machamp VMAX (CGC 8.5)",
+  "description": "2022 Sword & Shield Machamp VMAX (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401026883042_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401026883042.mp4",
+  "external_url": "https://www.dripshop.live/products/4qgMqQuStw2N2ulGtcHXL",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401026883042",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sword & Shield",
+      "display_type": "string"
+    }
+  ]
+}

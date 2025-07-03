@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SSP EN-SURGING SPARKS DRAYTON (PSA NM-MT 8)",
-  "description": "2024 POKEMON SSP EN-SURGING SPARKS DRAYTON (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106276836.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106276836.mp4",
-  "external_url": "https://www.dripshop.live/products/S-kjt7_6TzcqOwc4loAK_",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750940_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750940.mp4",
+  "external_url": "https://www.dripshop.live/products/QayyMQXHDfnSDf_eIXK4i",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106276836",
+      "value": "107750940",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

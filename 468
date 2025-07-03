@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062662.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062662.mp4",
-  "external_url": "https://www.dripshop.live/products/DZK2pb1OJIcr8uXSH1CYS",
+  "name": "2016 POKEMON XY BLACK STAR PROMO FA/CHARIZARD EX (PSA MINT 9)",
+  "description": "2016 POKEMON XY BLACK STAR PROMO FA/CHARIZARD EX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381858_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381858.mp4",
+  "external_url": "https://www.dripshop.live/products/jH-GRi8QyQ7-Fq1s7oJU6",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062662",
+      "value": "108381858",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON XY BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

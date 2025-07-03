@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750895.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750895.mp4",
-  "external_url": "https://www.dripshop.live/products/O8vooM4WL3aByxDnkmArm",
+  "name": "2017 POKEMON JAPANESE SUN & MOON GX BATTLE BOOST PIKACHU (PSA GEM MT 10)",
+  "description": "2017 POKEMON JAPANESE SUN & MOON GX BATTLE BOOST PIKACHU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100675280_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100675280.mp4",
+  "external_url": "https://www.dripshop.live/products/SV1_ciN4ocpUqzTjoRwz9",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750895",
+      "value": "100675280",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SUN & MOON GX BATTLE BOOST",
       "display_type": "string"
     }
   ]

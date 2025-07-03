@@ -1,9 +1,9 @@
 {
-  "name": "1996 POKEMON JAPANESE BASIC NIDOKING-HOLO (PSA MINT 9)",
-  "description": "1996 POKEMON JAPANESE BASIC NIDOKING-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972683.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972683.mp4",
-  "external_url": "https://www.dripshop.live/products/oxi0qLlpyvEEo3OakuAtZ",
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494302_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494302.mp4",
+  "external_url": "https://www.dripshop.live/products/IqtRfOv5qMiz6uqa9OIwH",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972683",
+      "value": "115494302",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1996",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PRE EN-PRISMATIC EVOLUTIONS",
       "display_type": "string"
     }
   ]

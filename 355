@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/RAYQUAZA VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/RAYQUAZA VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/71767481.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/71767481.mp4",
-  "external_url": "https://www.dripshop.live/products/FSHXzUeC6rf1OnHDHslS_",
+  "name": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
+  "description": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107197845_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107197845.mp4",
+  "external_url": "https://www.dripshop.live/products/ASHXERzb_JSCL9YEgEO-f",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "71767481",
+      "value": "107197845",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2009",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PLATINUM RISING RIVALS",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415379.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415379.mp4",
-  "external_url": "https://www.dripshop.live/products/r3izGrdxaibaf1iuIaF6J",
+  "name": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/118189560_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/118189560.mp4",
+  "external_url": "https://www.dripshop.live/products/8DyJ2p4zQqCzwMcrnItWG",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415379",
+      "value": "118189560",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO GENESIS 1ST EDITION",
       "display_type": "string"
     }
   ]

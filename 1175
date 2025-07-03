@@ -1,0 +1,39 @@
+{
+  "name": "2008 Diamond & Pearl Slowbro (CGC 9)",
+  "description": "2008 Diamond & Pearl Slowbro (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4199078042_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4199078042.mp4",
+  "external_url": "https://www.dripshop.live/products/7e1A8Vo2et6CalD4XBbmI",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4199078042",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2008",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Diamond & Pearl",
+      "display_type": "string"
+    }
+  ]
+}

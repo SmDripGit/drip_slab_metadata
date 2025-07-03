@@ -1,0 +1,39 @@
+{
+  "name": "1997 Original Series Magneton (CGC 7.5)",
+  "description": "1997 Original Series Magneton (CGC 7.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001852080_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001852080.mp4",
+  "external_url": "https://www.dripshop.live/products/0ymkqG2tePD49UEu_rVdl",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001852080",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1997",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

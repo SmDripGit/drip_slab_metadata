@@ -1,9 +1,9 @@
 {
-  "name": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
-  "description": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649121.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649121.mp4",
-  "external_url": "https://www.dripshop.live/products/Lb_Ps-KkCcLhzitEP-NE5",
+  "name": "2019 POKEMON SM BLACK STAR PROMO MLTRS/ZPDS/ARTCN.GX (PSA GEM MT 10)",
+  "description": "2019 POKEMON SM BLACK STAR PROMO MLTRS/ZPDS/ARTCN.GX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/54017909_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/54017909.mp4",
+  "external_url": "https://www.dripshop.live/products/MuTVb7K73M-FGr9juRZJX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "117649121",
+      "value": "54017909",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SM BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

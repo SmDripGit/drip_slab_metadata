@@ -1,0 +1,39 @@
+{
+  "name": "2013 Black & White Victini (CGC 8.5)",
+  "description": "2013 Black & White Victini (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588132_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588132.mp4",
+  "external_url": "https://www.dripshop.live/products/X2abIuB7h7ud_yN1nDd6S",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588132",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2013",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Black & White",
+      "display_type": "string"
+    }
+  ]
+}

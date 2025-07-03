@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Miriam (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Scarlet & Violet Miriam (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760004.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760004.mp4",
-  "external_url": "https://www.dripshop.live/products/BCbicvt9x0WDcrWcMcLDr",
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS DUNSPARCE (PSA MINT 9)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS DUNSPARCE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107952469_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107952469.mp4",
+  "external_url": "https://www.dripshop.live/products/YNOmpMJoB0zitV0GXX_pg",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4306760004",
+      "value": "107952469",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PRE EN-PRISMATIC EVOLUTIONS",
       "display_type": "string"
     }
   ]

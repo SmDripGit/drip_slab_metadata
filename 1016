@@ -1,0 +1,39 @@
+{
+  "name": "2000 Pokemon Pokémon League Computer Error (CGC MINT+ 9.5)",
+  "description": "2000 Pokemon Pokémon League Computer Error (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6022898159_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6022898159.mp4",
+  "external_url": "https://www.dripshop.live/products/xpRY4ihxcYtCJEZ-rSjue",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6022898159",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Pokémon League",
+      "display_type": "string"
+    }
+  ]
+}

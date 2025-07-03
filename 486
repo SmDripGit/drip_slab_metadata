@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MELONY (PSA GEM MT 10)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MELONY (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/72929284.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/72929284.mp4",
-  "external_url": "https://www.dripshop.live/products/jbYtUWyx7h9ubDn9PnfrD",
+  "name": "2000 POKEMON NEO GENESIS 1ST EDITION JUMPLUFF-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON NEO GENESIS 1ST EDITION JUMPLUFF-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381892_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381892.mp4",
+  "external_url": "https://www.dripshop.live/products/YIt7iVfBR1OFeYKeSNpXx",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "72929284",
+      "value": "108381892",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO GENESIS 1ST EDITION",
       "display_type": "string"
     }
   ]

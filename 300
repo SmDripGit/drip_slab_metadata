@@ -1,33 +1,38 @@
 {
-  "name": "2011 Pokemon HeartGold & SoulSilver Copycat (CGC GEM MINT 10)",
-  "description": "2011 Pokemon HeartGold & SoulSilver Copycat (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401009707018.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401009707018.mp4",
-  "external_url": "https://www.dripshop.live/products/54HHu5G1I5hefRLgLzGxJ",
+  "name": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM-MT 8)",
+  "description": "1999 POKEMON GAME HITMONCHAN-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494186_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494186.mp4",
+  "external_url": "https://www.dripshop.live/products/wZ_KOg2HWXX5SJRR0qwMU",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "1401009707018",
+      "value": "105494186",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2011",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

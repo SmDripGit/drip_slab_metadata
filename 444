@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343614.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343614.mp4",
-  "external_url": "https://www.dripshop.live/products/c7xb9aFc1yAVJAU9oajhV",
+  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GENGAR (PSA NM-MT 8)",
+  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/GENGAR (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/99621143_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/99621143.mp4",
+  "external_url": "https://www.dripshop.live/products/AhXfRJ1ro2zNhe5_YzrJr",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343614",
+      "value": "99621143",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD LOST ORIGIN",
       "display_type": "string"
     }
   ]

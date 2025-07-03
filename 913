@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LATIAS (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LATIAS (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233917.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233917.mp4",
-  "external_url": "https://www.dripshop.live/products/CrMXcniTH2gZzqc91MCkK",
+  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TORKOAL (PSA GEM MT 10)",
+  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TORKOAL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108295045_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108295045.mp4",
+  "external_url": "https://www.dripshop.live/products/NpBOEcFKIwhkYWDmzA807",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233917",
+      "value": "108295045",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TWM EN-TWILIGHT MASQUERADE",
       "display_type": "string"
     }
   ]

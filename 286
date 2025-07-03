@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON XY EVOLUTIONS MISTY'S DETERMINATION (PSA MINT 9)",
-  "description": "2016 POKEMON XY EVOLUTIONS MISTY'S DETERMINATION (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494293.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494293.mp4",
-  "external_url": "https://www.dripshop.live/products/18WQHvjBVWegiwxQVUcEa",
+  "name": "2000 POKEMON GYM HEROES THE ROCKET'S TRAP (PSA NM 7)",
+  "description": "2000 POKEMON GYM HEROES THE ROCKET'S TRAP (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711454_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711454.mp4",
+  "external_url": "https://www.dripshop.live/products/e81UydBctpQXcjmyt5CTv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494293",
+      "value": "116711454",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM HEROES",
       "display_type": "string"
     }
   ]

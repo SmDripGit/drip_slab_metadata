@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177003.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177003.mp4",
-  "external_url": "https://www.dripshop.live/products/2hEBaxc-Hkrdm8wafqoD1",
+  "name": "2021 Pokemon Sword & Shield - Black Star Promos ____'s Pikachu (CGC GEM MINT 10)",
+  "description": "2021 Pokemon Sword & Shield - Black Star Promos ____'s Pikachu (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4067084173_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4067084173.mp4",
+  "external_url": "https://www.dripshop.live/products/rXcBnIh1Ock0nW_o-l-kT",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "106177003",
+      "value": "4067084173",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield - Black Star Promos",
       "display_type": "string"
     }
   ]

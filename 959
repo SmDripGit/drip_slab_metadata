@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH RAYQUAZA V (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH RAYQUAZA V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537246.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537246.mp4",
-  "external_url": "https://www.dripshop.live/products/4BYQma7MTbPFX8ovS9Jk1",
+  "name": "2016 Pokemon XY Venusaur EX (CGC 8.5)",
+  "description": "2016 Pokemon XY Venusaur EX (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4237104029_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4237104029.mp4",
+  "external_url": "https://www.dripshop.live/products/-Dd5juWlcPGTzrJfGMBaw",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "114537246",
+      "value": "4237104029",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "8.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon XY",
       "display_type": "string"
     }
   ]

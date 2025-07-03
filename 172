@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
-  "description": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/69062234.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/69062234.mp4",
-  "external_url": "https://www.dripshop.live/products/eJxuHoDs23NWIW-MAW2FY",
+  "name": "2001 POKEMON JAPANESE VS MORTY'S HYPNO (PSA GEM MT 10)",
+  "description": "2001 POKEMON JAPANESE VS MORTY'S HYPNO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/72342969_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/72342969.mp4",
+  "external_url": "https://www.dripshop.live/products/Jf4fFSVZdxfzuTV1qOHqa",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "69062234",
+      "value": "72342969",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE VS",
       "display_type": "string"
     }
   ]

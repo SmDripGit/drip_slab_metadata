@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU-HOLO (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE RAICHU BREAK EVOLUTION PACK RAICHU-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343531.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343531.mp4",
-  "external_url": "https://www.dripshop.live/products/3j7pUGiuRng2eoZTHmX-X",
+  "name": "2000 POKEMON PROMO BLACK STAR ARTICUNO (PSA EX 5)",
+  "description": "2000 POKEMON PROMO BLACK STAR ARTICUNO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711497_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711497.mp4",
+  "external_url": "https://www.dripshop.live/products/ucRblWT9fOkyOtetbqCe-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343531",
+      "value": "116711497",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PROMO BLACK STAR",
       "display_type": "string"
     }
   ]

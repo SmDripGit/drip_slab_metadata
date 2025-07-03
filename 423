@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126053.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126053.mp4",
-  "external_url": "https://www.dripshop.live/products/cxZiun8hBGKp37IbCUOyL",
+  "name": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA GEM MT 10)",
+  "description": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/70262597_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/70262597.mp4",
+  "external_url": "https://www.dripshop.live/products/EwQZC2F-JeK57ctFNyCax",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126053",
+      "value": "70262597",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO",
       "display_type": "string"
     }
   ]

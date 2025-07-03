@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME POPPY (PSA MINT 9)",
-  "description": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME POPPY (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82403740.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82403740.mp4",
-  "external_url": "https://www.dripshop.live/products/CklIznO8ll7Z17gY57lZt",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109253976_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109253976.mp4",
+  "external_url": "https://www.dripshop.live/products/cjaeNcwPkbpCYfKdEZQA2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82403740",
+      "value": "109253976",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

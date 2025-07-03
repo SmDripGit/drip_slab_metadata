@@ -1,33 +1,38 @@
 {
-  "name": "2004 POKEMON JAPANESE PLAY PROMO ____'s JIRACHI-HOLO (PSA MINT 9)",
-  "description": "2004 POKEMON JAPANESE PLAY PROMO ____'s JIRACHI-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/67889421.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/67889421.mp4",
-  "external_url": "https://www.dripshop.live/products/w_E_J3Pao1SXQcbzwTs33",
+  "name": "2021 Pokemon Jet-Black Spirit Box Purchase Celebi V (CGC GEM MINT 10)",
+  "description": "2021 Pokemon Jet-Black Spirit Box Purchase Celebi V (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3861200010_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3861200010.mp4",
+  "external_url": "https://www.dripshop.live/products/tFGfl1mOTCyutpOlWlilV",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "67889421",
+      "value": "3861200010",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Jet-Black Spirit Box Purchase",
       "display_type": "string"
     }
   ]

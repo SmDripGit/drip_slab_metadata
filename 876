@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TATSUGIRI (PSA MINT 9)",
-  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TATSUGIRI (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108726000.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108726000.mp4",
-  "external_url": "https://www.dripshop.live/products/pfcshnO6c5wibrBeyJ1Cg",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/78048994_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/78048994.mp4",
+  "external_url": "https://www.dripshop.live/products/B7dhYSEUDBFFEXj0uRnp1",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108726000",
+      "value": "78048994",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

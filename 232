@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II VENUSAUR-HOLO (PSA NM 7)",
-  "description": "2000 POKEMON GAME BASE II VENUSAUR-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/71294670.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/71294670.mp4",
-  "external_url": "https://www.dripshop.live/products/SjxMBwVf3hgG3s3emNMdE",
+  "name": "2024 POKEMON JAPANESE SV-P PROMO PALDEAN WOOPER (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV-P PROMO PALDEAN WOOPER (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108762838_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108762838.mp4",
+  "external_url": "https://www.dripshop.live/products/rTiQg2wNEYO7vw9If8DCw",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "71294670",
+      "value": "108762838",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
-  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116215126.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116215126.mp4",
-  "external_url": "https://www.dripshop.live/products/inleYCd1MyDlJ0QxkUxe8",
+  "name": "2000 POKEMON GYM CHALLENGE SABRINA'S PSYDUCK (PSA MINT 9)",
+  "description": "2000 POKEMON GYM CHALLENGE SABRINA'S PSYDUCK (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/69062633_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/69062633.mp4",
+  "external_url": "https://www.dripshop.live/products/kzfbjjtJCXsFKRz5civIn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116215126",
+      "value": "69062633",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2012",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM CHALLENGE",
       "display_type": "string"
     }
   ]

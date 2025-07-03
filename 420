@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE TERAPAGOS ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE TERAPAGOS ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/99159839.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/99159839.mp4",
-  "external_url": "https://www.dripshop.live/products/WDEWQ6txwU6hY0YuLAB81",
+  "name": "2005 POKEMON EX DELTA SPECIES CROBAT-REV.FOIL (PSA MINT 9)",
+  "description": "2005 POKEMON EX DELTA SPECIES CROBAT-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/86887072_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/86887072.mp4",
+  "external_url": "https://www.dripshop.live/products/df_e4XnmA8p8oN2llMP8V",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "99159839",
+      "value": "86887072",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2005",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX DELTA SPECIES",
       "display_type": "string"
     }
   ]

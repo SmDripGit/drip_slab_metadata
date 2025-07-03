@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
-  "description": "1999 POKEMON FOSSIL RAICHU (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711471.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711471.mp4",
-  "external_url": "https://www.dripshop.live/products/Wabh49nmLSXXY23vBnjhr",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS HOP'S ZACIAN ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS HOP'S ZACIAN ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751004.mp4",
+  "external_url": "https://www.dripshop.live/products/5rFY9Tnxd05WT6A112o3C",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711471",
+      "value": "107751004",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

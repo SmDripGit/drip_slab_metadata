@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SCR EN-STELLAR CROWN CINDERACE ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON SCR EN-STELLAR CROWN CINDERACE ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226320.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226320.mp4",
-  "external_url": "https://www.dripshop.live/products/4NTCt5ZybfF3sM_an4-pG",
+  "name": "2016 POKEMON JAPANESE XY AWAKENING PSYCHIC KING DELPHOX BREAK (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE XY AWAKENING PSYCHIC KING DELPHOX BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061854_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061854.mp4",
+  "external_url": "https://www.dripshop.live/products/MzEy2OSk7kdLV5Nu2COAi",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111226320",
+      "value": "109061854",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY AWAKENING PSYCHIC KING",
       "display_type": "string"
     }
   ]

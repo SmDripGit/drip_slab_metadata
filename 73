@@ -1,9 +1,9 @@
 {
-  "name": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA MINT 9)",
-  "description": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/90876253.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/90876253.mp4",
-  "external_url": "https://www.dripshop.live/products/to5ujS8rMkhn0Or2rzxKm",
+  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/CELEBI V (PSA MINT 9)",
+  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/CELEBI V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/96945231_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/96945231.mp4",
+  "external_url": "https://www.dripshop.live/products/LskAzhsodbCrkg_lDJWOD",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "90876253",
+      "value": "96945231",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD FUSION STRIKE",
       "display_type": "string"
     }
   ]

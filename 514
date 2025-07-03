@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371934.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371934.mp4",
-  "external_url": "https://www.dripshop.live/products/SA4oSDh1wPEJSCTQJZ8Yc",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126060_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126060.mp4",
+  "external_url": "https://www.dripshop.live/products/-v9OdqXvo3pfV4ne3JTNW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103371934",
+      "value": "109126060",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

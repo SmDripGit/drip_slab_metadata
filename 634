@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/KRICKETUNE (PSA GEM MT 10)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/KRICKETUNE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226324.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226324.mp4",
-  "external_url": "https://www.dripshop.live/products/zmqhretP3X5rXv_mbvjTB",
+  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415404_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415404.mp4",
+  "external_url": "https://www.dripshop.live/products/lLKT42rV_1snyN3WQNxkM",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111226324",
+      "value": "102415404",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7-STELLAR MIRACLE",
       "display_type": "string"
     }
   ]

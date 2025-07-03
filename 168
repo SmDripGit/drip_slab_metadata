@@ -1,33 +1,38 @@
 {
-  "name": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
-  "description": "2009 POKEMON PLATINUM RISING RIVALS DARKRAI G-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107197845.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107197845.mp4",
-  "external_url": "https://www.dripshop.live/products/ASHXERzb_JSCL9YEgEO-f",
+  "name": "2023 Pokemon Scarlet & Violet Mew ex (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Mew ex (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760003_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760003.mp4",
+  "external_url": "https://www.dripshop.live/products/HMi0FuAItQZEld3Cv73KA",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107197845",
+      "value": "4306760003",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2009",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

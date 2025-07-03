@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925571.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925571.mp4",
-  "external_url": "https://www.dripshop.live/products/awkF-7-jTDOa2YkolBp-L",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747692_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747692.mp4",
+  "external_url": "https://www.dripshop.live/products/yoUtlzrI1zkos2fvwfPmZ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107925571",
+      "value": "76747692",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

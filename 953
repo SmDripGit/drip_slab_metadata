@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES REVAVROOM ex (PSA MINT 9)",
-  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES REVAVROOM ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82523124.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82523124.mp4",
-  "external_url": "https://www.dripshop.live/products/-BO5CZvnTOOPUjnKeUCBv",
+  "name": "2023 POKEMON SVI EN-SCARLET & VIOLET KIRLIA (PSA MINT 9)",
+  "description": "2023 POKEMON SVI EN-SCARLET & VIOLET KIRLIA (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110444412_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110444412.mp4",
+  "external_url": "https://www.dripshop.live/products/uOA-T7Na7TYSsXpyWrPQs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82523124",
+      "value": "110444412",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVI EN-SCARLET & VIOLET",
       "display_type": "string"
     }
   ]

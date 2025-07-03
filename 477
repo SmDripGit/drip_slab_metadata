@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TEF EN-TEMPORAL FORCES WALKING WAKE ex (PSA MINT 9)",
-  "description": "2024 POKEMON TEF EN-TEMPORAL FORCES WALKING WAKE ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97537367.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97537367.mp4",
-  "external_url": "https://www.dripshop.live/products/hQgo9YpxDMA2XenmoJ3hh",
+  "name": "2002 POKEMON EXPEDITION SKARMORY-HOLO (PSA MINT 9)",
+  "description": "2002 POKEMON EXPEDITION SKARMORY-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381876_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381876.mp4",
+  "external_url": "https://www.dripshop.live/products/qNtNdchsqj1SXHVskAqeo",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97537367",
+      "value": "108381876",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EXPEDITION",
       "display_type": "string"
     }
   ]

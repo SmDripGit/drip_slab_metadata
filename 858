@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON EX RUBY & SAPPHIRE GARDEVOIR-REV.FOIL (PSA EX-MT 6)",
-  "description": "2003 POKEMON EX RUBY & SAPPHIRE GARDEVOIR-REV.FOIL (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911238.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911238.mp4",
-  "external_url": "https://www.dripshop.live/products/Em8fz1DQ2iJO8CQg6tuNE",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77942440_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77942440.mp4",
+  "external_url": "https://www.dripshop.live/products/x9z7f3hi2JiW6Ou7lunDV",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115911238",
+      "value": "77942440",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

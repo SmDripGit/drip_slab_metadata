@@ -1,0 +1,39 @@
+{
+  "name": "2023 Scarlet & Violet Professor Oak (CGC GEM MINT 10)",
+  "description": "2023 Scarlet & Violet Professor Oak (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401014162007_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401014162007.mp4",
+  "external_url": "https://www.dripshop.live/products/K8Qc_LVVq1d6Nz5cQOKbQ",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401014162007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

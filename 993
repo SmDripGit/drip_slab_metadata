@@ -1,0 +1,39 @@
+{
+  "name": "2023 Pokemon Scarlet & Violet Ninetales ex (CGC PRISTINE 10)",
+  "description": "2023 Pokemon Scarlet & Violet Ninetales ex (CGC PRISTINE 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401045610016_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401045610016.mp4",
+  "external_url": "https://www.dripshop.live/products/xsTSHNtZu9PlioTXN7CvA",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401045610016",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "PRISTINE 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

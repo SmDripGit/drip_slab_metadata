@@ -1,0 +1,39 @@
+{
+  "name": "1998 Original Series Max Revive (CGC GEM MINT 10)",
+  "description": "1998 Original Series Max Revive (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4079907073_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4079907073.mp4",
+  "external_url": "https://www.dripshop.live/products/VtLPg4LsieSe0BLh3LtuC",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4079907073",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1998",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

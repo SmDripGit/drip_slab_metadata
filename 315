@@ -1,23 +1,23 @@
 {
-  "name": "1999 Pokemon Original Series Blaine's Arcanine (CGC 8.5)",
-  "description": "1999 Pokemon Original Series Blaine's Arcanine (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/3813485001.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/3813485001.mp4",
-  "external_url": "https://www.dripshop.live/products/calf5ldPl4t4ojZASFx_z",
+  "name": "1999 POKEMON FOSSIL TENTACRUEL (PSA NM-MT 8)",
+  "description": "1999 POKEMON FOSSIL TENTACRUEL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711461_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711461.mp4",
+  "external_url": "https://www.dripshop.live/products/DRuBEeiDvPfzeaBQH-hPY",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "3813485001",
+      "value": "116711461",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

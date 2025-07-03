@@ -1,0 +1,39 @@
+{
+  "name": "2023 Scarlet & Violet Mr. Mime (CGC 7)",
+  "description": "2023 Scarlet & Violet Mr. Mime (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001876174_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001876174.mp4",
+  "external_url": "https://www.dripshop.live/products/NDd0ZQkcT_eKu2-3EZbOM",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001876174",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

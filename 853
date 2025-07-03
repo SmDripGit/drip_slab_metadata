@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES CHARIZARD ex (PSA MINT 9)",
-  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES CHARIZARD ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110991186.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110991186.mp4",
-  "external_url": "https://www.dripshop.live/products/o9303ujpFqrg-QKx7_Kon",
+  "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex PAWMOT (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex PAWMOT (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/87521432_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/87521432.mp4",
+  "external_url": "https://www.dripshop.live/products/vwOQrs1fM0TAEWTiS26MB",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110991186",
+      "value": "87521432",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1V-VIOLET ex",
       "display_type": "string"
     }
   ]

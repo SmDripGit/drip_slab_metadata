@@ -1,9 +1,9 @@
 {
-  "name": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
-  "description": "2001 POKEMON NEO DISCOVERY POLIWRATH-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381891.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381891.mp4",
-  "external_url": "https://www.dripshop.live/products/HEo_HbGQXRXpUC7rdIghv",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex ALAKAZAM (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex ALAKAZAM (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108988224_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108988224.mp4",
+  "external_url": "https://www.dripshop.live/products/kf_aKmZUQh4C36ExUz_I6",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381891",
+      "value": "108988224",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

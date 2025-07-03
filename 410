@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON SKYRIDGE STARMIE-REV.FOIL (PSA MINT 9)",
-  "description": "2003 POKEMON SKYRIDGE STARMIE-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381906.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381906.mp4",
-  "external_url": "https://www.dripshop.live/products/1hpTD0Uz3s8V5dM6t8Gmh",
+  "name": "1999 POKEMON FOSSIL EKANS (PSA MINT 9)",
+  "description": "1999 POKEMON FOSSIL EKANS (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711436_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711436.mp4",
+  "external_url": "https://www.dripshop.live/products/h6TCGH0Q1MvpEI8k1ZJMI",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381906",
+      "value": "116711436",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102379383.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102379383.mp4",
-  "external_url": "https://www.dripshop.live/products/ugjbqrToSdi8-E4s4dnro",
+  "name": "2000 Pokemon Pokémon League Eevee (CGC 7)",
+  "description": "2000 Pokemon Pokémon League Eevee (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6008815077_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6008815077.mp4",
+  "external_url": "https://www.dripshop.live/products/2vurEPLQFMc_IfOdguIfY",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "102379383",
+      "value": "6008815077",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Pokémon League",
       "display_type": "string"
     }
   ]

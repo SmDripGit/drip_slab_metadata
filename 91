@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JTG EN-JOURNEY TOGETHER N'S ZOROARK ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JTG EN-JOURNEY TOGETHER N'S ZOROARK ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116108123.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116108123.mp4",
-  "external_url": "https://www.dripshop.live/products/3VhyRbWYzfEXtkdjvkYVC",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MIMIKYU (PSA MINT 9)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MIMIKYU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101442708_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101442708.mp4",
+  "external_url": "https://www.dripshop.live/products/4CVezrY5AGAOTTDDm5Z5W",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116108123",
+      "value": "101442708",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

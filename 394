@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA MINT 9)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78039146.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78039146.mp4",
-  "external_url": "https://www.dripshop.live/products/t1ABGlLvkUJggXo6lrTNP",
+  "name": "2021 POKEMON INDONESIAN S PROMO FA/PIKACHU (PSA MINT 9)",
+  "description": "2021 POKEMON INDONESIAN S PROMO FA/PIKACHU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107580373_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107580373.mp4",
+  "external_url": "https://www.dripshop.live/products/X5tDevkBGrU4F4ZerYT7T",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78039146",
+      "value": "107580373",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON INDONESIAN S PROMO",
       "display_type": "string"
     }
   ]

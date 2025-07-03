@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/ORBEETLE V (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/ORBEETLE V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108362579.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108362579.mp4",
-  "external_url": "https://www.dripshop.live/products/bBxkcRVH-ZIc_EiAJ25XP",
+  "name": "2001 POKEMON NEO REVELATION 1ST EDITION SHINING MAGIKARP-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO REVELATION 1ST EDITION SHINING MAGIKARP-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116341034_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116341034.mp4",
+  "external_url": "https://www.dripshop.live/products/dlM8p-RYO9KFPLlaQbXMd",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108362579",
+      "value": "116341034",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION 1ST EDITION",
       "display_type": "string"
     }
   ]

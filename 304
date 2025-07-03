@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWSH BLACK STAR PROMO FA/LUCARIO V (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWSH BLACK STAR PROMO FA/LUCARIO V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104129412.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104129412.mp4",
-  "external_url": "https://www.dripshop.live/products/k2v4ke9sLP3MJCFQ8_Uln",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA NM-MT 8)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100571997_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100571997.mp4",
+  "external_url": "https://www.dripshop.live/products/HlDW_xvGIOGwp2_Myn1Qz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104129412",
+      "value": "100571997",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

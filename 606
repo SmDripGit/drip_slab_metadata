@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON MEW EN-151 VENUSAUR ex (PSA NM-MT 8)",
-  "description": "2023 POKEMON MEW EN-151 VENUSAUR ex (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/83770038.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/83770038.mp4",
-  "external_url": "https://www.dripshop.live/products/V7KXQQgne5_EaBRrVBOq5",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415440_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415440.mp4",
+  "external_url": "https://www.dripshop.live/products/Hwo5-zIi1OSE4wJ3vneKg",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "83770038",
+      "value": "102415440",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

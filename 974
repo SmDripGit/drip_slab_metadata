@@ -1,9 +1,9 @@
 {
-  "name": "2024 Pokemon Scarlet & Violet Cramorant (CGC 9)",
-  "description": "2024 Pokemon Scarlet & Violet Cramorant (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6020111129.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6020111129.mp4",
-  "external_url": "https://www.dripshop.live/products/nFqi5lJqIr1_h_9efevTx",
+  "name": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
+  "description": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4292238007_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4292238007.mp4",
+  "external_url": "https://www.dripshop.live/products/FJv8bgruuBHgDVRv-U_au",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "6020111129",
+      "value": "4292238007",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sun & Moon",
       "display_type": "string"
     }
   ]

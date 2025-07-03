@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Promotional Snorlax (CGC 8.5)",
-  "description": "2023 Pokemon Promotional Snorlax (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6013546237.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6013546237.mp4",
-  "external_url": "https://www.dripshop.live/products/varR4wvL1qqVZArmuhYm4",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750930_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750930.mp4",
+  "external_url": "https://www.dripshop.live/products/TyWbYaL5FzczMc35P2BFe",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6013546237",
+      "value": "107750930",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

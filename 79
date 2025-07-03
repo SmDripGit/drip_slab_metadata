@@ -1,9 +1,9 @@
 {
-  "name": "2018 POKEMON JAPANESE SUN & MOON SUPER-BURST IMPACT FA/WHITNEY (PSA GEM MT 10)",
-  "description": "2018 POKEMON JAPANESE SUN & MOON SUPER-BURST IMPACT FA/WHITNEY (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/74657246.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/74657246.mp4",
-  "external_url": "https://www.dripshop.live/products/f1V_xcXwCNiCellafVxno",
+  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS MEWTWO & MEW GX (PSA MINT 9)",
+  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS MEWTWO & MEW GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98848598_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98848598.mp4",
+  "external_url": "https://www.dripshop.live/products/vB_wZX1tNKN-Fmdoyko0-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "74657246",
+      "value": "98848598",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2018",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON UNIFIED MINDS",
       "display_type": "string"
     }
   ]

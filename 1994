@@ -1,0 +1,39 @@
+{
+  "name": "2022 Sword & Shield Professor's Research (CGC GEM MINT 10)",
+  "description": "2022 Sword & Shield Professor's Research (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036712157_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036712157.mp4",
+  "external_url": "https://www.dripshop.live/products/dJkFWmwrfKT3NWiueGnQr",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036712157",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sword & Shield",
+      "display_type": "string"
+    }
+  ]
+}

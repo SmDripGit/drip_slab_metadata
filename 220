@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126014.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126014.mp4",
-  "external_url": "https://www.dripshop.live/products/X7TdMlRJX84UZJEu1W_Hc",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/PROF'S.RESEARCH (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/PROF'S.RESEARCH (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972003_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972003.mp4",
+  "external_url": "https://www.dripshop.live/products/DHFUIpRDW3SUiQNoAJvm0",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126014",
+      "value": "82972003",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

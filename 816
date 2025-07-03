@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVI EN-SCARLET & VIOLET KIRLIA (PSA MINT 9)",
-  "description": "2023 POKEMON SVI EN-SCARLET & VIOLET KIRLIA (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110444412.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110444412.mp4",
-  "external_url": "https://www.dripshop.live/products/uOA-T7Na7TYSsXpyWrPQs",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108087468_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108087468.mp4",
+  "external_url": "https://www.dripshop.live/products/j25tJ-kiyVsgmTmlEn2CE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110444412",
+      "value": "108087468",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

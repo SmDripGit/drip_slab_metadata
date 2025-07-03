@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES SCIZOR (PSA GEM MT 10)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES SCIZOR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/89996102.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/89996102.mp4",
-  "external_url": "https://www.dripshop.live/products/qLFWgiF3ktH9wAV-pvWzk",
+  "name": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA MINT 9)",
+  "description": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116341035_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116341035.mp4",
+  "external_url": "https://www.dripshop.live/products/ha_wkChXAYuPPppvX_6CJ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "89996102",
+      "value": "116341035",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION 1ST EDITION",
       "display_type": "string"
     }
   ]

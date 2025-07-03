@@ -1,9 +1,9 @@
 {
-  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
-  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537242.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537242.mp4",
-  "external_url": "https://www.dripshop.live/products/GHvwuqX8htSARjj1lASBj",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/112208365_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/112208365.mp4",
+  "external_url": "https://www.dripshop.live/products/7zYB3Gf9b4_oYZr3NdVAY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "114537242",
+      "value": "112208365",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2012",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
-  "description": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310253.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310253.mp4",
-  "external_url": "https://www.dripshop.live/products/OPKCYVrnr5O5N4-oMrEKR",
+  "name": "2020 POKEMON SWORD & SHIELD DARKNESS ABLAZE FA/SCIZOR VMAX (PSA GEM MT 10)",
+  "description": "2020 POKEMON SWORD & SHIELD DARKNESS ABLAZE FA/SCIZOR VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/54572004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/54572004.mp4",
+  "external_url": "https://www.dripshop.live/products/dSgITGY8YYEypKLyn8QWa",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310253",
+      "value": "54572004",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "2020",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD DARKNESS ABLAZE",
       "display_type": "string"
     }
   ]

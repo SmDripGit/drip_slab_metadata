@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
-  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310259.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310259.mp4",
-  "external_url": "https://www.dripshop.live/products/Ti1trfdLCHqcCnZp5F0ei",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415379_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415379.mp4",
+  "external_url": "https://www.dripshop.live/products/r3izGrdxaibaf1iuIaF6J",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310259",
+      "value": "102415379",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAR EN-PARADOX RIFT GARCHOMP ex (PSA NM-MT 8)",
-  "description": "2023 POKEMON PAR EN-PARADOX RIFT GARCHOMP ex (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101264189.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101264189.mp4",
-  "external_url": "https://www.dripshop.live/products/HtjhlJIxIztahkkg1xiGo",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77942439_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77942439.mp4",
+  "external_url": "https://www.dripshop.live/products/IHiAGQxhymSc4LnCJ5FJa",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101264189",
+      "value": "77942439",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

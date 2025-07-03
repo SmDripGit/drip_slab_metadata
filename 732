@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/HSN.ZOROARK VSTAR (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/HSN.ZOROARK VSTAR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102163458.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102163458.mp4",
-  "external_url": "https://www.dripshop.live/products/PXu-c2_NrKljMSoWciXM5",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148728_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148728.mp4",
+  "external_url": "https://www.dripshop.live/products/wXbsZz8s-TlN_ovHlAsBs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102163458",
+      "value": "103148728",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

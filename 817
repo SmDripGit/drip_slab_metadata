@@ -1,33 +1,38 @@
 {
-  "name": "2020 Pokemon Cosmos Holo Rayquaza (CGC GEM MINT 10)",
-  "description": "2020 Pokemon Cosmos Holo Rayquaza (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019629121.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019629121.mp4",
-  "external_url": "https://www.dripshop.live/products/FkhS91ADAWH8ivISSMimq",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110406285_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110406285.mp4",
+  "external_url": "https://www.dripshop.live/products/iD3e5P0vKGlm3Ra9Lft1Z",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6019629121",
+      "value": "110406285",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2020",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

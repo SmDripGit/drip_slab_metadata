@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110874468.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110874468.mp4",
-  "external_url": "https://www.dripshop.live/products/ZdwTQXMB_5CAPE7ehaCPI",
+  "name": "2024 POKEMON JAPANESE SV5a-CRIMSON HAZE EEVEE (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV5a-CRIMSON HAZE EEVEE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107550902_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107550902.mp4",
+  "external_url": "https://www.dripshop.live/products/_ZPEeuoNCfZEjv6qoW55a",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110874468",
+      "value": "107550902",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV5a-CRIMSON HAZE",
       "display_type": "string"
     }
   ]

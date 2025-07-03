@@ -1,9 +1,9 @@
 {
-  "name": "2020 POKEMON JAPANESE SWORD & SHIELD LEGENDARY HEARTBEAT RAIKOU (PSA GEM MT 10)",
-  "description": "2020 POKEMON JAPANESE SWORD & SHIELD LEGENDARY HEARTBEAT RAIKOU (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371894.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371894.mp4",
-  "external_url": "https://www.dripshop.live/products/RjbZVH4AUn1XieBuk1tjf",
+  "name": "2020 POKEMON JAPANESE S PROMO FA/EEVEE VMAX (PSA GEM MT 10)",
+  "description": "2020 POKEMON JAPANESE S PROMO FA/EEVEE VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371887_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371887.mp4",
+  "external_url": "https://www.dripshop.live/products/CNF6sZOubw3lZyjqmq8d_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103371894",
+      "value": "103371887",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE S PROMO",
       "display_type": "string"
     }
   ]

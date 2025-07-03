@@ -1,7 +1,7 @@
 {
   "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex MIRIAM (PSA GEM MT 10)",
   "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex MIRIAM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97563879.jpg",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97563879_front_v1.jpg",
   "video": "https://cdn.dripshop.live/dripnfts/slabs/97563879.mp4",
   "external_url": "https://www.dripshop.live/products/e0DgMQKcZx-2Z6tGS9uDx",
   "attributes": [
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1V-VIOLET ex",
       "display_type": "string"
     }
   ]

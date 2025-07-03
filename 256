@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON KOREAN SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA NM-MT 8)",
-  "description": "2021 POKEMON KOREAN SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/80179978.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/80179978.mp4",
-  "external_url": "https://www.dripshop.live/products/urrqAUwmMXzricEDxvVbx",
+  "name": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA VG-EX 4)",
+  "description": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA VG-EX 4)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556467_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556467.mp4",
+  "external_url": "https://www.dripshop.live/products/m2482tueRx3jhACyNiC2h",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "80179978",
+      "value": "116556467",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "VG-EX 4",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JUNGLE",
       "display_type": "string"
     }
   ]

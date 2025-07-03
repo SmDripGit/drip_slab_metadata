@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106714816.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106714816.mp4",
-  "external_url": "https://www.dripshop.live/products/VX2vnOwQ9GlaVqbDJUMZX",
+  "name": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO REVELATION CELEBI-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982526_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982526.mp4",
+  "external_url": "https://www.dripshop.live/products/RwE_aUCDfaOT_o1RvFI-g",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106714816",
+      "value": "116982526",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION",
       "display_type": "string"
     }
   ]

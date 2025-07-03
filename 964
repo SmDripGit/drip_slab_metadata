@@ -1,23 +1,23 @@
 {
-  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED EISCUE (PSA NM-MT 8)",
-  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED EISCUE (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101855930.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101855930.mp4",
-  "external_url": "https://www.dripshop.live/products/TXNMNSXBiq6CFMnfSxOCE",
+  "name": "2023 Pokemon Scarlet & Violet Clefable (CGC PRISTINE 10)",
+  "description": "2023 Pokemon Scarlet & Violet Clefable (CGC PRISTINE 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6015584013_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6015584013.mp4",
+  "external_url": "https://www.dripshop.live/products/8rirIEidBFrrK2oVrXP1I",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "101855930",
+      "value": "6015584013",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "PRISTINE 10",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

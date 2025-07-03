@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/113521418.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/113521418.mp4",
-  "external_url": "https://www.dripshop.live/products/2EFRfkNp12ixRkK5fwbjk",
+  "name": "2000 POKEMON JAPANESE NEO 2 PROMO ENTEI (PSA GEM MT 10)",
+  "description": "2000 POKEMON JAPANESE NEO 2 PROMO ENTEI (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85127204_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85127204.mp4",
+  "external_url": "https://www.dripshop.live/products/E641rAX9AMR-_Bh-mJztU",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "113521418",
+      "value": "85127204",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 2 PROMO",
       "display_type": "string"
     }
   ]

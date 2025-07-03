@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LILLIE'S CLEFAIRY ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LILLIE'S CLEFAIRY ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751006.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751006.mp4",
-  "external_url": "https://www.dripshop.live/products/XkN2aN_gSuvleYc4mkq3g",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD PARADIGM TRIGGER FA/REGIDRAGO V (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD PARADIGM TRIGGER FA/REGIDRAGO V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101428314_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101428314.mp4",
+  "external_url": "https://www.dripshop.live/products/qz-79rdhh6otvfNnC3myF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107751006",
+      "value": "101428314",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD PARADIGM TRIGGER",
       "display_type": "string"
     }
   ]

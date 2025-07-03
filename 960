@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA MINT 9)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/79476012.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/79476012.mp4",
-  "external_url": "https://www.dripshop.live/products/3jdTiZpw270iOHL6YBdr5",
+  "name": "2019 Pokemon Friendly Shop Purchase Campaign Eevee (CGC GEM MINT 10)",
+  "description": "2019 Pokemon Friendly Shop Purchase Campaign Eevee (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001321297_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001321297.mp4",
+  "external_url": "https://www.dripshop.live/products/WhVqfkiaMZxbi42DdaYni",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "79476012",
+      "value": "6001321297",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Friendly Shop Purchase Campaign",
       "display_type": "string"
     }
   ]

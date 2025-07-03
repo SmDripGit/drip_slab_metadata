@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
-  "description": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494185.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494185.mp4",
-  "external_url": "https://www.dripshop.live/products/C8KRq56F6BtUUgv07veuV",
+  "name": "2000 POKEMON GYM HEROES BLAINE'S MAGMAR (PSA MINT 9)",
+  "description": "2000 POKEMON GYM HEROES BLAINE'S MAGMAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107813731_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107813731.mp4",
+  "external_url": "https://www.dripshop.live/products/X2RFbPlkP5OsfOOif6EHs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494185",
+      "value": "107813731",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM HEROES",
       "display_type": "string"
     }
   ]

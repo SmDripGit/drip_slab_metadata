@@ -1,0 +1,39 @@
+{
+  "name": "2024 Scarlet & Violet Eevee (CGC 8)",
+  "description": "2024 Scarlet & Violet Eevee (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001876004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001876004.mp4",
+  "external_url": "https://www.dripshop.live/products/li_RVnnwQQ3Nbtwt1tt1Z",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001876004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

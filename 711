@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH REGIGIGAS VSTAR (PSA GEM MT 10)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH REGIGIGAS VSTAR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233914.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233914.mp4",
-  "external_url": "https://www.dripshop.live/products/7pKpYxm2aqFybJobDBJvt",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/SYLVEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062664_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062664.mp4",
+  "external_url": "https://www.dripshop.live/products/UbqMZoP40kXZGo-N1sZYZ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233914",
+      "value": "101062664",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

@@ -1,23 +1,23 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Clefable (CGC PRISTINE 10)",
-  "description": "2023 Pokemon Scarlet & Violet Clefable (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6015584013.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6015584013.mp4",
-  "external_url": "https://www.dripshop.live/products/8rirIEidBFrrK2oVrXP1I",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/83791919_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/83791919.mp4",
+  "external_url": "https://www.dripshop.live/products/FeiJKKcpYYam_8QV6CoQC",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6015584013",
+      "value": "83791919",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

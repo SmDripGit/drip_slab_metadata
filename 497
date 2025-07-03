@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101597172.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101597172.mp4",
-  "external_url": "https://www.dripshop.live/products/g5g0XmYZ3UH941mr0ZgTd",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO SYLVEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126014_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126014.mp4",
+  "external_url": "https://www.dripshop.live/products/X7TdMlRJX84UZJEu1W_Hc",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101597172",
+      "value": "109126014",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

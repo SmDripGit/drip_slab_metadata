@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/MACHAMP VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/MACHAMP VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108368222.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108368222.mp4",
-  "external_url": "https://www.dripshop.live/products/FK7rGlVXBrLQKSqgIqI0A",
+  "name": "2000 POKEMON JAPANESE NEO 3 PROMO SKARMORY (PSA NM-MT 8)",
+  "description": "2000 POKEMON JAPANESE NEO 3 PROMO SKARMORY (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556465_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556465.mp4",
+  "external_url": "https://www.dripshop.live/products/cD37V1St9eJXDP8TG-qWP",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108368222",
+      "value": "116556465",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 3 PROMO",
       "display_type": "string"
     }
   ]

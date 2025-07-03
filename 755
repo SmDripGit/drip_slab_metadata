@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 2 POLITOED-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON JAPANESE NEO 2 POLITOED-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972005.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972005.mp4",
-  "external_url": "https://www.dripshop.live/products/S4UFRgtW_VQhF3ai1BlpK",
+  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925271_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925271.mp4",
+  "external_url": "https://www.dripshop.live/products/mZX6UAP8GVrb0FKA58166",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972005",
+      "value": "107925271",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

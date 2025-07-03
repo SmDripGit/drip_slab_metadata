@@ -1,9 +1,9 @@
 {
-  "name": "1996 POKEMON JAPANESE BASIC GYARADOS-HOLO (PSA GEM MT 10)",
-  "description": "1996 POKEMON JAPANESE BASIC GYARADOS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/83261603.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/83261603.mp4",
-  "external_url": "https://www.dripshop.live/products/aJ0lCKMYt0OskB8RriJqW",
+  "name": "2000 POKEMON GYM CHALLENGE GIOVANNI'S MEOWTH (PSA MINT 9)",
+  "description": "2000 POKEMON GYM CHALLENGE GIOVANNI'S MEOWTH (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/69062438_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/69062438.mp4",
+  "external_url": "https://www.dripshop.live/products/JbtgkXcWtRYB6x6mwyeyL",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "83261603",
+      "value": "69062438",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1996",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM CHALLENGE",
       "display_type": "string"
     }
   ]

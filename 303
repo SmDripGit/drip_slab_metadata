@@ -1,9 +1,9 @@
 {
-  "name": "2005 POKEMON JAPANESE MIRAGE FOREST AGGRON-HOLO (PSA GEM MT 10)",
-  "description": "2005 POKEMON JAPANESE MIRAGE FOREST AGGRON-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/88318793.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/88318793.mp4",
-  "external_url": "https://www.dripshop.live/products/aDF3qanNk0mBEeZpDt1fX",
+  "name": "2000 POKEMON ROCKET DARK WEEZING-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON ROCKET DARK WEEZING-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981403_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981403.mp4",
+  "external_url": "https://www.dripshop.live/products/5sfJfrFysDhhYAaaWBlTf",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "88318793",
+      "value": "111981403",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2005",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON ROCKET",
       "display_type": "string"
     }
   ]

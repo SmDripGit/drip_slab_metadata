@@ -1,0 +1,39 @@
+{
+  "name": "1997 Original Series Horsea (CGC MINT+ 9.5)",
+  "description": "1997 Original Series Horsea (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401016007260_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401016007260.mp4",
+  "external_url": "https://www.dripshop.live/products/XfUGf894-fIAzKXqbnKie",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401016007260",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1997",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

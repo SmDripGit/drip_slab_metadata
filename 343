@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148728.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148728.mp4",
-  "external_url": "https://www.dripshop.live/products/wXbsZz8s-TlN_ovHlAsBs",
+  "name": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
+  "description": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109827990_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109827990.mp4",
+  "external_url": "https://www.dripshop.live/products/3RKIWBzIo8UPQeMy1GAwg",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103148728",
+      "value": "109827990",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVI EN-SCARLET & VIOLET",
       "display_type": "string"
     }
   ]

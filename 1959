@@ -1,0 +1,39 @@
+{
+  "name": "1996 Original Series Nidoran Ð (CGC 8)",
+  "description": "1996 Original Series Nidoran Ð (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4199073220_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4199073220.mp4",
+  "external_url": "https://www.dripshop.live/products/N_Keez4NdwIi1oc4xOYG4",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "4199073220",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1996",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

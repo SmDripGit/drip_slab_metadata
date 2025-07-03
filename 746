@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO AMPHAROS-HOLO (PSA MINT 9)",
-  "description": "2000 POKEMON JAPANESE NEO AMPHAROS-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381549.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381549.mp4",
-  "external_url": "https://www.dripshop.live/products/PFfVPH1rkqprxA13yLVvx",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/74657263_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/74657263.mp4",
+  "external_url": "https://www.dripshop.live/products/sT6YeAD8xtl3Ogk-J5NO-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381549",
+      "value": "74657263",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION",
       "display_type": "string"
     }
   ]

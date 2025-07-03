@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126055.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126055.mp4",
-  "external_url": "https://www.dripshop.live/products/iTQxljcWMsaC7RTKny7kb",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/HSN.ZOROARK VSTAR (PSA MINT 9)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/HSN.ZOROARK VSTAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/72045516_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/72045516.mp4",
+  "external_url": "https://www.dripshop.live/products/6sVIW8FrcDovgD91QOQgx",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126055",
+      "value": "72045516",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/TORKOAL (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/TORKOAL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494295.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494295.mp4",
-  "external_url": "https://www.dripshop.live/products/qNh0FgzZ2lmZuFxGZ0c-i",
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VSTAR (PSA GEM MT 10)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/DEOXYS VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115060494_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115060494.mp4",
+  "external_url": "https://www.dripshop.live/products/42xQ3bd7M0_EpVg1uZaEt",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494295",
+      "value": "115060494",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD AND SHIELD CROWN ZENITH",
       "display_type": "string"
     }
   ]

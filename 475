@@ -1,9 +1,9 @@
 {
-  "name": "2001 POKEMON NEO DISCOVERY UNOWN A-HOLO (PSA MINT 9)",
-  "description": "2001 POKEMON NEO DISCOVERY UNOWN A-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381846.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381846.mp4",
-  "external_url": "https://www.dripshop.live/products/u7hXSUtnNfFQTR2SoUQ9R",
+  "name": "2005 POKEMON EX EMERALD FARFETCH'D-HOLO (PSA GEM MT 10)",
+  "description": "2005 POKEMON EX EMERALD FARFETCH'D-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381871_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381871.mp4",
+  "external_url": "https://www.dripshop.live/products/7eQV68wGAZyjeyakjYaZh",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381846",
+      "value": "108381871",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2005",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX EMERALD",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177010.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177010.mp4",
-  "external_url": "https://www.dripshop.live/products/JkxEfCVpooWEF1hs4pRq-",
+  "name": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343558_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343558.mp4",
+  "external_url": "https://www.dripshop.live/products/_8zlel05nH7Cf0pDhe24D",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106177010",
+      "value": "109343558",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

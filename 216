@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex TOTODILE (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex TOTODILE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103577585.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103577585.mp4",
-  "external_url": "https://www.dripshop.live/products/F2rFdTdHSGCUZAT3pvNL9",
+  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/PIKACHU VMAX (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/PIKACHU VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97019183_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97019183.mp4",
+  "external_url": "https://www.dripshop.live/products/9PIPseWnew4xSfzEgkehz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103577585",
+      "value": "97019183",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD LOST ORIGIN",
       "display_type": "string"
     }
   ]

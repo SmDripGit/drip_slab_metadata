@@ -1,9 +1,9 @@
 {
-  "name": "2011 POKEMON CALL OF LEGENDS HO-OH-HOLO (PSA NM-MT 8)",
-  "description": "2011 POKEMON CALL OF LEGENDS HO-OH-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649125.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649125.mp4",
-  "external_url": "https://www.dripshop.live/products/mVR1GZxnUUfDAs73dDNB2",
+  "name": "2003 POKEMON SKYRIDGE CROBAT-HOLO (PSA EX-MT 6)",
+  "description": "2003 POKEMON SKYRIDGE CROBAT-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73627929_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73627929.mp4",
+  "external_url": "https://www.dripshop.live/products/hgiNbezfqkL9G--FsCLRk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "117649125",
+      "value": "73627929",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2011",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SKYRIDGE",
       "display_type": "string"
     }
   ]

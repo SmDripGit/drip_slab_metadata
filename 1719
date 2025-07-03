@@ -1,0 +1,39 @@
+{
+  "name": "2019 Sun & Moon Zapdos (CGC 9)",
+  "description": "2019 Sun & Moon Zapdos (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036573279_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036573279.mp4",
+  "external_url": "https://www.dripshop.live/products/k7Dk1LXz2Jk6iert_Qqz3",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036573279",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2019",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sun & Moon",
+      "display_type": "string"
+    }
+  ]
+}

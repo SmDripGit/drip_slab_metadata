@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LEAFEON VSTAR (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LEAFEON VSTAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104864063.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104864063.mp4",
-  "external_url": "https://www.dripshop.live/products/uDG6GTOu740jyhiXppRNL",
+  "name": "2003 POKEMON AQUAPOLIS NIDOKING-HOLO (PSA MINT 9)",
+  "description": "2003 POKEMON AQUAPOLIS NIDOKING-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115469657_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115469657.mp4",
+  "external_url": "https://www.dripshop.live/products/tve7MHdP0E_s5Z9sJIv_m",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104864063",
+      "value": "115469657",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON AQUAPOLIS",
       "display_type": "string"
     }
   ]

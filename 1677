@@ -1,0 +1,39 @@
+{
+  "name": "2013 Black & White Victini (CGC MINT+ 9.5)",
+  "description": "2013 Black & White Victini (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588130_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588130.mp4",
+  "external_url": "https://www.dripshop.live/products/ECkGxvIXTiF88LSJ4Ghr3",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588130",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2013",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Black & White",
+      "display_type": "string"
+    }
+  ]
+}

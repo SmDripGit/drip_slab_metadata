@@ -1,0 +1,39 @@
+{
+  "name": "2007 EX Lightning Energy (CGC 8.5)",
+  "description": "2007 EX Lightning Energy (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001852183_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001852183.mp4",
+  "external_url": "https://www.dripshop.live/products/34kjL7XF3OHlakzkGoOxZ",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001852183",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "EX",
+      "display_type": "string"
+    }
+  ]
+}

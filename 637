@@ -1,33 +1,38 @@
 {
-  "name": "2024 Pokemon Scarlet & Violet Umbreon (CGC PRISTINE 10)",
-  "description": "2024 Pokemon Scarlet & Violet Umbreon (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6036811236.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6036811236.mp4",
-  "external_url": "https://www.dripshop.live/products/jKDyRZm49YFpq24ly5tov",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195120_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195120.mp4",
+  "external_url": "https://www.dripshop.live/products/bHD_BWPyT94XI8g7rRC94",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6036811236",
+      "value": "102195120",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

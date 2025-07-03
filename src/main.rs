@@ -6,38 +6,26 @@ use tokio::fs;
 
 #[derive(Debug, Deserialize)]
 struct CsvRecord {
-    #[serde(rename = "TITLE")]
-    title: String,
-    #[serde(rename = "PLAYER/CHARACTER")]
-    player_character: String,
     #[serde(rename = "SERIAL NUMBER")]
     serial_number: String,
-    #[serde(rename = "SET")]
-    set: String,
-    #[serde(rename = "GRADE")]
-    grade: String,
     #[serde(rename = "GRADER")]
     grader: String,
-    #[serde(rename = "VARIANT")]
-    variant: String,
-    #[serde(rename = "AUTOGRAPH")]
-    autograph: String,
+    #[serde(rename = "TITLE")]
+    title: String,
     #[serde(rename = "YEAR")]
     year: String,
     #[serde(rename = "LANGUAGE")]
     language: String,
-    #[serde(rename = "PRICE")]
-    price: String,
-    #[serde(rename = "CATEGORY")]
-    category: String,
-    #[serde(rename = "OTHER META")]
-    other_meta: String,
-    #[serde(rename = "MP4 URL")]
-    mp4_url: String,
-    #[serde(rename = "IMAGE URL")]
-    image_url: String,
-    #[serde(rename = "URL TO PRODUCT")]
-    url_to_product: String,
+    #[serde(rename = "SET")]
+    set: String,
+    #[serde(rename = "GRADE")]
+    grade: String,
+    #[serde(rename = "video")]
+    video: String,
+    #[serde(rename = "image")]
+    image: String,
+    #[serde(rename = "external_url")]
+    external_url: String,
 }
 
 #[derive(Debug, Serialize)]
@@ -108,22 +96,31 @@ impl From<CsvRecord> for Metadata {
             });
         }
 
-        let video = if record.mp4_url.trim().is_empty() {
+        // Add Set attribute if not empty
+        if !record.set.trim().is_empty() {
+            attributes.push(Attribute {
+                trait_type: "Set".to_string(),
+                value: Value::String(record.set.trim().to_string()),
+                display_type: "string".to_string(),
+            });
+        }
+
+        let video = if record.video.trim().is_empty() {
             None
         } else {
-            Some(record.mp4_url.trim().to_string())
+            Some(record.video.trim().to_string())
         };
 
-        let external_url = if record.url_to_product.trim().is_empty() {
+        let external_url = if record.external_url.trim().is_empty() {
             None
         } else {
-            Some(record.url_to_product.trim().to_string())
+            Some(record.external_url.trim().to_string())
         };
 
         Metadata {
             name: record.title.clone(),
             description: record.title,
-            image: record.image_url.trim().to_string(),
+            image: record.image.trim().to_string(),
             video,
             external_url,
             attributes,
@@ -136,20 +133,19 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("Starting CSV parsing and metadata generation...");
 
     // First, count the total number of records in the CSV file
-    let file_for_counting = File::open("batch_one.csv")?;
+    let file_for_counting = File::open("final.csv")?;
     let mut rdr_for_counting = Reader::from_reader(file_for_counting);
     let total_records = rdr_for_counting.deserialize::<CsvRecord>().count();
     println!("Found {} records in CSV file", total_records);
 
     // Open and read the CSV file for processing
-    let file = File::open("batch_one.csv")?;
+    let file = File::open("final.csv")?;
     let mut rdr = Reader::from_reader(file);
 
     let mut count = 1;
 
     // Process each record
     for result in rdr.deserialize() {
-
         let record: CsvRecord = result?;
         let metadata: Metadata = record.into();
 

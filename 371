@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON NEO GENESIS SLOWKING-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON NEO GENESIS SLOWKING-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381881.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381881.mp4",
-  "external_url": "https://www.dripshop.live/products/HnjOin7dXKTlqlbcFlOUl",
+  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED SQUAWKABILLY ex (PSA MINT 9)",
+  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED SQUAWKABILLY ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97390304_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97390304.mp4",
+  "external_url": "https://www.dripshop.live/products/o9xormvIUt7tyw1NPMDF-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381881",
+      "value": "97390304",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAL EN-PALDEA EVOLVED",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II BLASTOISE-HOLO (PSA EX-MT 6)",
-  "description": "2000 POKEMON GAME BASE II BLASTOISE-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108368221.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108368221.mp4",
-  "external_url": "https://www.dripshop.live/products/OPVRvXICdW10nS4zaAHhn",
+  "name": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER PIKACHU ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER PIKACHU ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494296_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494296.mp4",
+  "external_url": "https://www.dripshop.live/products/BhlLHZ3B_cGdefVMAKest",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108368221",
+      "value": "115494296",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON XY EVOLUTIONS M PIDGEOT EX (PSA MINT 9)",
-  "description": "2016 POKEMON XY EVOLUTIONS M PIDGEOT EX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494303.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494303.mp4",
-  "external_url": "https://www.dripshop.live/products/AkTaDFWRmsMDCYITOqd-S",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110874488_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110874488.mp4",
+  "external_url": "https://www.dripshop.live/products/lPAuDajtmphJeEq7c7FmO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494303",
+      "value": "110874488",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

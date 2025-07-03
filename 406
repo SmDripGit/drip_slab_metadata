@@ -1,33 +1,38 @@
 {
-  "name": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
-  "description": "2019 Pokemon Sun & Moon Espeon & Deoxys GX (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4292238007.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4292238007.mp4",
-  "external_url": "https://www.dripshop.live/products/FJv8bgruuBHgDVRv-U_au",
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH ORGN.FRM.PALKIA VSTAR (PSA MINT 9)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH ORGN.FRM.PALKIA VSTAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233923_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233923.mp4",
+  "external_url": "https://www.dripshop.live/products/EHClOJP8uGM5AsZ9fXjrf",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4292238007",
+      "value": "104233923",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD AND SHIELD CROWN ZENITH",
       "display_type": "string"
     }
   ]

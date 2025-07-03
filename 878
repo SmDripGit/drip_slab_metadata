@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL WEEZING (PSA MINT 9)",
-  "description": "1999 POKEMON FOSSIL WEEZING (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711463.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711463.mp4",
-  "external_url": "https://www.dripshop.live/products/eBLchXoPNIcCU9x3EqKbJ",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S KILOWATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177009_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177009.mp4",
+  "external_url": "https://www.dripshop.live/products/y8gdBBtgdBMuZYmFzK5eB",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711463",
+      "value": "106177009",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

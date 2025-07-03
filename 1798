@@ -1,0 +1,39 @@
+{
+  "name": "2009 Platinum Seel (CGC 8)",
+  "description": "2009 Platinum Seel (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001873114_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001873114.mp4",
+  "external_url": "https://www.dripshop.live/products/AfKQSkl9veVxL_C8StvJ-",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001873114",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2009",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Platinum",
+      "display_type": "string"
+    }
+  ]
+}

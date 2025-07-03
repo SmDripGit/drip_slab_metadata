@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON KOREAN SV-P PROMO UMBREON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/113521419.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/113521419.mp4",
-  "external_url": "https://www.dripshop.live/products/OYc1VvamHe2l8lDniQI1u",
+  "name": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA EX-MT 6)",
+  "description": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/86936497_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/86936497.mp4",
+  "external_url": "https://www.dripshop.live/products/BaVl2TCvh9FhijzTQDxVL",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "113521419",
+      "value": "86936497",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EXPEDITION",
       "display_type": "string"
     }
   ]

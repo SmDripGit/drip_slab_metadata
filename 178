@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON JAPANESE SM PROMO ALOLAN VULPIX (PSA GEM MT 10)",
-  "description": "2016 POKEMON JAPANESE SM PROMO ALOLAN VULPIX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061849.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061849.mp4",
-  "external_url": "https://www.dripshop.live/products/U88wP7CLrwdoMyNO-ssSw",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS JASMINE'S GAZE (PSA GEM MT 10)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS JASMINE'S GAZE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111855847_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111855847.mp4",
+  "external_url": "https://www.dripshop.live/products/s1ewBxvV_7VPCQ5RGK25M",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061849",
+      "value": "111855847",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

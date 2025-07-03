@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWSH BLACK STAR PROMO FA/LUCARIO VSTAR (PSA GEM MT 10)",
-  "description": "2023 POKEMON SWSH BLACK STAR PROMO FA/LUCARIO VSTAR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/84830755.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/84830755.mp4",
-  "external_url": "https://www.dripshop.live/products/EAUL-GcLDz1HJFEikOzBS",
+  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES PIDGEY (PSA MINT 9)",
+  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES PIDGEY (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97390300_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97390300.mp4",
+  "external_url": "https://www.dripshop.live/products/4CFdwiQg74WdDVtTlAxU-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "84830755",
+      "value": "97390300",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON OBF EN-OBSIDIAN FLAMES",
       "display_type": "string"
     }
   ]

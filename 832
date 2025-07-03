@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON MEW EN-151 ERIKA'S INVITATION (PSA MINT 9)",
-  "description": "2023 POKEMON MEW EN-151 ERIKA'S INVITATION (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/84439373.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/84439373.mp4",
-  "external_url": "https://www.dripshop.live/products/0AV8sQcEMoRg5ToRhYxv2",
+  "name": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME HOUNDOUR (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME HOUNDOUR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108900718_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108900718.mp4",
+  "external_url": "https://www.dripshop.live/products/bxwfPdXgTsjHmUoT8zijv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "84439373",
+      "value": "108900718",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV3-RULER OF THE BLACK FLAME",
       "display_type": "string"
     }
   ]

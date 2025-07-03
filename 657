@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex BLOODMOON URSALUNA ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex BLOODMOON URSALUNA ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109244752.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109244752.mp4",
-  "external_url": "https://www.dripshop.live/products/6jkrQ7BDs7pNJskmZgiR3",
+  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION MOLTRES-HOLO (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION MOLTRES-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343620_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343620.mp4",
+  "external_url": "https://www.dripshop.live/products/FqCLqjXKGVncIDic_aPjb",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109244752",
+      "value": "109343620",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION",
       "display_type": "string"
     }
   ]

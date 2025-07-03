@@ -1,33 +1,38 @@
 {
-  "name": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC PRISTINE 10)",
-  "description": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401009866273.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401009866273.mp4",
-  "external_url": "https://www.dripshop.live/products/j3-OJKIIeWjPXDE9WeFjS",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/78048995_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/78048995.mp4",
+  "external_url": "https://www.dripshop.live/products/DyEc9gf4S_oDloeseuGxC",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "1401009866273",
+      "value": "78048995",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

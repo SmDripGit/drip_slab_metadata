@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON NEO GENESIS 1ST EDITION JUMPLUFF-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON NEO GENESIS 1ST EDITION JUMPLUFF-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381892.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381892.mp4",
-  "external_url": "https://www.dripshop.live/products/YIt7iVfBR1OFeYKeSNpXx",
+  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
+  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310301_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310301.mp4",
+  "external_url": "https://www.dripshop.live/products/SnCiTwJf9lM2IM0T8ZFsU",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381892",
+      "value": "109310301",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON UNIFIED MINDS",
       "display_type": "string"
     }
   ]

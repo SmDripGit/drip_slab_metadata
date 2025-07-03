@@ -1,9 +1,9 @@
 {
-  "name": "1997 POKEMON JAPANESE JUNGLE FLAREON-HOLO (PSA NM-MT 8)",
-  "description": "1997 POKEMON JAPANESE JUNGLE FLAREON-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/70262641.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/70262641.mp4",
-  "external_url": "https://www.dripshop.live/products/HNpBgrj14_OCjrxPk5aqs",
+  "name": "2004 POKEMON EX FIRE RED & LEAF GREEN BULBASAUR-REV.FOIL (PSA MINT 9)",
+  "description": "2004 POKEMON EX FIRE RED & LEAF GREEN BULBASAUR-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381866_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381866.mp4",
+  "external_url": "https://www.dripshop.live/products/UiHBkxewJoGowEt-PAT1W",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "70262641",
+      "value": "108381866",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1997",
+      "value": "2004",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX FIRE RED & LEAF GREEN",
       "display_type": "string"
     }
   ]

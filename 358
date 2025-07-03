@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/LEAFEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062658.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062658.mp4",
-  "external_url": "https://www.dripshop.live/products/51m4a9CXUL5_AWV--s7gO",
+  "name": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA MINT 9)",
+  "description": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103306781_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103306781.mp4",
+  "external_url": "https://www.dripshop.live/products/YIUqq5hPJSsiKVO3DMV-o",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062658",
+      "value": "103306781",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

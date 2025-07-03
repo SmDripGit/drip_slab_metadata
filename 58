@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON XY BLACK STAR PROMO FA/CHARIZARD EX (PSA MINT 9)",
-  "description": "2016 POKEMON XY BLACK STAR PROMO FA/CHARIZARD EX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381858.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381858.mp4",
-  "external_url": "https://www.dripshop.live/products/jH-GRi8QyQ7-Fq1s7oJU6",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ONIX (PSA MINT 9)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ONIX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85125573_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85125573.mp4",
+  "external_url": "https://www.dripshop.live/products/PiZolpjXuOqkyQvtq6iwv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381858",
+      "value": "85125573",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

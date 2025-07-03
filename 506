@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION GARCHOMP C LV.X-HOLO (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION GARCHOMP C LV.X-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101398660.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101398660.mp4",
-  "external_url": "https://www.dripshop.live/products/nNAMWP-PMKUwpJXKVaTnt",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126052_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126052.mp4",
+  "external_url": "https://www.dripshop.live/products/sXhLhma4qKynXYTThlAgX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101398660",
+      "value": "109126052",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

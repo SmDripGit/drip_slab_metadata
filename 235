@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME RAICHU-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON GAME RAICHU-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972034.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972034.mp4",
-  "external_url": "https://www.dripshop.live/products/49yohtCChYrY_o6Q-mhb0",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105979966_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105979966.mp4",
+  "external_url": "https://www.dripshop.live/products/S5yBrv5KlrpXjJFwveL9z",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972034",
+      "value": "105979966",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

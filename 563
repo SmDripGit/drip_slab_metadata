@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195013.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195013.mp4",
-  "external_url": "https://www.dripshop.live/products/c4JFpJzSj2NwyOROefGpc",
+  "name": "2000 POKEMON GYM HEROES ROCKET'S SCYTHER (PSA MINT 9)",
+  "description": "2000 POKEMON GYM HEROES ROCKET'S SCYTHER (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649126_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649126.mp4",
+  "external_url": "https://www.dripshop.live/products/g-VPUnjn13DgcJv3967Lx",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102195013",
+      "value": "117649126",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM HEROES",
       "display_type": "string"
     }
   ]

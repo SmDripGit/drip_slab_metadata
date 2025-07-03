@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES BROCK'S RHYDON (PSA MINT 9)",
-  "description": "2000 POKEMON GYM HEROES BROCK'S RHYDON (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981402.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981402.mp4",
-  "external_url": "https://www.dripshop.live/products/WMEGwu5RzKQlImWRGB0ya",
+  "name": "1999 POKEMON GAME CLEFAIRY-HOLO (PSA EX-MT 6)",
+  "description": "1999 POKEMON GAME CLEFAIRY-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494184_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494184.mp4",
+  "external_url": "https://www.dripshop.live/products/H-6z2FxcOu2K44TPHm0t7",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111981402",
+      "value": "105494184",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

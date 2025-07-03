@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES BLAINE'S MAGMAR (PSA MINT 9)",
-  "description": "2000 POKEMON GYM HEROES BLAINE'S MAGMAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107813731.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107813731.mp4",
-  "external_url": "https://www.dripshop.live/products/X2RFbPlkP5OsfOOif6EHs",
+  "name": "1999 POKEMON FOSSIL WEEZING (PSA MINT 9)",
+  "description": "1999 POKEMON FOSSIL WEEZING (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711463_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711463.mp4",
+  "external_url": "https://www.dripshop.live/products/eBLchXoPNIcCU9x3EqKbJ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107813731",
+      "value": "116711463",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

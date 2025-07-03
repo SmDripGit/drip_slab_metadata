@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
-  "description": "2000 POKEMON NEO GENESIS 1ST EDITION LUGIA-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/118189560.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/118189560.mp4",
-  "external_url": "https://www.dripshop.live/products/8DyJ2p4zQqCzwMcrnItWG",
+  "name": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
+  "description": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85076478_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85076478.mp4",
+  "external_url": "https://www.dripshop.live/products/YMCq9DetSPirhdsa7D2cA",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "118189560",
+      "value": "85076478",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Chinese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TRADITIONAL CHINESE SV-P PROMO",
       "display_type": "string"
     }
   ]

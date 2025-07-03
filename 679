@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101597180.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101597180.mp4",
-  "external_url": "https://www.dripshop.live/products/UnR8wl75o6-ds2r0WBeer",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060614_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060614.mp4",
+  "external_url": "https://www.dripshop.live/products/ZkVjefSxzuD8fFYbrxVAW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101597180",
+      "value": "109060614",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

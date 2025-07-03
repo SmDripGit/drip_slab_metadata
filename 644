@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS VOLCANION ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS VOLCANION ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751017.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751017.mp4",
-  "external_url": "https://www.dripshop.live/products/DiLinEOSUPfGXacsCf625",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ARCHALUDON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ARCHALUDON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101034767_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101034767.mp4",
+  "external_url": "https://www.dripshop.live/products/w7aBhlGvS9-jsI4bSDajS",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107751017",
+      "value": "101034767",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

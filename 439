@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JUNGLE KANGASKHAN-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON JUNGLE KANGASKHAN-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82511788.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82511788.mp4",
-  "external_url": "https://www.dripshop.live/products/U_rTXt-08RYV6QG3r6o_A",
+  "name": "2016 POKEMON XY STEAM SIEGE FA/PROF. SYCAMORE (PSA MINT 9)",
+  "description": "2016 POKEMON XY STEAM SIEGE FA/PROF. SYCAMORE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/96995908_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/96995908.mp4",
+  "external_url": "https://www.dripshop.live/products/62cHY-VQdpXV251UQe1ec",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82511788",
+      "value": "96995908",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON XY STEAM SIEGE",
       "display_type": "string"
     }
   ]

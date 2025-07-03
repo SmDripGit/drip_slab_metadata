@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS DUNSPARCE (PSA MINT 9)",
-  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS DUNSPARCE (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107952469.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107952469.mp4",
-  "external_url": "https://www.dripshop.live/products/YNOmpMJoB0zitV0GXX_pg",
+  "name": "2021 Pokemon Sword & Shield Gengar (CGC GEM MINT 10)",
+  "description": "2021 Pokemon Sword & Shield Gengar (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6015384020_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6015384020.mp4",
+  "external_url": "https://www.dripshop.live/products/U4y3nOxBX8isCGNNV3Soe",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107952469",
+      "value": "6015384020",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield",
       "display_type": "string"
     }
   ]

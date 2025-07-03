@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
-  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115573710.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115573710.mp4",
-  "external_url": "https://www.dripshop.live/products/sL7GrI2ASjnLiLfaeLGRY",
+  "name": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION CHARIZARD (PSA MINT 9)",
+  "description": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION CHARIZARD (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73933027_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73933027.mp4",
+  "external_url": "https://www.dripshop.live/products/0GtVlrQjU7Hr5dCEmE7ve",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115573710",
+      "value": "73933027",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION",
       "display_type": "string"
     }
   ]

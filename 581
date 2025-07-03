@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925272.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925272.mp4",
-  "external_url": "https://www.dripshop.live/products/_-FlqGFur7it-wk-XYr7d",
+  "name": "2000 Pokemon Original Series Dark Alakazam (CGC 8.5)",
+  "description": "2000 Pokemon Original Series Dark Alakazam (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3853103012_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3853103012.mp4",
+  "external_url": "https://www.dripshop.live/products/zUFKxH2BSm-gGTCyPHqiz",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107925272",
+      "value": "3853103012",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "8.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Original Series",
       "display_type": "string"
     }
   ]

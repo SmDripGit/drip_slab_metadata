@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102134255.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102134255.mp4",
-  "external_url": "https://www.dripshop.live/products/jDr0yyvk8O0AXBIXWnmml",
+  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TATSUGIRI (PSA MINT 9)",
+  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TATSUGIRI (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537247_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537247.mp4",
+  "external_url": "https://www.dripshop.live/products/B8fK3o0XMiWrUWbOhEqqO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102134255",
+      "value": "114537247",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON TWM EN-TWILIGHT MASQUERADE",
       "display_type": "string"
     }
   ]

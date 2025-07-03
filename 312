@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION ROCKET'S ZAPDOS-HOLO (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE PROMO CARD PACK 25TH ANNIVERSARY EDITION ROCKET'S ZAPDOS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110377658.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110377658.mp4",
-  "external_url": "https://www.dripshop.live/products/DgGvflmAdO_J3JwHcKHei",
+  "name": "2024 POKEMON SCR EN-STELLAR CROWN GALVANTULA ex (PSA NM-MT 8)",
+  "description": "2024 POKEMON SCR EN-STELLAR CROWN GALVANTULA ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101428389_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101428389.mp4",
+  "external_url": "https://www.dripshop.live/products/g-FwGlFV3n-lzsO9UCeLG",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110377658",
+      "value": "101428389",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SCR EN-STELLAR CROWN",
       "display_type": "string"
     }
   ]

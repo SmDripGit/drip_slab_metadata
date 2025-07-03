@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA GEM MT 10)",
-  "description": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/70262597.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/70262597.mp4",
-  "external_url": "https://www.dripshop.live/products/EwQZC2F-JeK57ctFNyCax",
+  "name": "2024 POKEMON SCR EN-STELLAR CROWN TERAPAGOS ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON SCR EN-STELLAR CROWN TERAPAGOS ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110162206_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110162206.mp4",
+  "external_url": "https://www.dripshop.live/products/4-2591D4DjkF2RdZ60Qoq",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "70262597",
+      "value": "110162206",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SCR EN-STELLAR CROWN",
       "display_type": "string"
     }
   ]

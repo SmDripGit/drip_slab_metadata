@@ -1,0 +1,39 @@
+{
+  "name": "2002 e-Series Lickitung (CGC 7)",
+  "description": "2002 e-Series Lickitung (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036717295_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036717295.mp4",
+  "external_url": "https://www.dripshop.live/products/UNyPbS0TzMtXXBCELxYQa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036717295",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "e-Series",
+      "display_type": "string"
+    }
+  ]
+}

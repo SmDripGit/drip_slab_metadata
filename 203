@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108545379.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108545379.mp4",
-  "external_url": "https://www.dripshop.live/products/d79Ve4ye_umupDwx0d__E",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO EEVEE (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO EEVEE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107550903_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107550903.mp4",
+  "external_url": "https://www.dripshop.live/products/ln3Nopva4It1IvEh8e2MD",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108545379",
+      "value": "107550903",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

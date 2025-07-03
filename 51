@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
-  "description": "2023 POKEMON TRADITIONAL CHINESE SV-P PROMO TAIPEI'S PIKACHU (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/85076502.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/85076502.mp4",
-  "external_url": "https://www.dripshop.live/products/GMZNoU7Ggiw15eQPDiI_a",
+  "name": "2019 POKEMON SM BLACK STAR PROMO FA/CELEBI & VENUSR.GX (PSA MINT 9)",
+  "description": "2019 POKEMON SM BLACK STAR PROMO FA/CELEBI & VENUSR.GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/83564263_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/83564263.mp4",
+  "external_url": "https://www.dripshop.live/products/F6AI5lL3pFyqqjipNzaXQ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "85076502",
+      "value": "83564263",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Chinese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SM BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

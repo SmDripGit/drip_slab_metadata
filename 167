@@ -1,33 +1,38 @@
 {
-  "name": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
-  "description": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108901051.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108901051.mp4",
-  "external_url": "https://www.dripshop.live/products/g7aHQlDUfcEnF77BudNKc",
+  "name": "2023 Pokemon Scarlet & Violet Erika's Invitation (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Erika's Invitation (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760001_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760001.mp4",
+  "external_url": "https://www.dripshop.live/products/cKLfNV7BBF4LUwI6kfsoH",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "108901051",
+      "value": "4306760001",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

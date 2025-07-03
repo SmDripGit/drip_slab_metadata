@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
-  "description": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/73713218.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/73713218.mp4",
-  "external_url": "https://www.dripshop.live/products/VqsRcTrhqMcr2uyKDYSNt",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/ZEKROM (PSA MINT 9)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/ZEKROM (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148722_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148722.mp4",
+  "external_url": "https://www.dripshop.live/products/8uBx4CO3vjmDlFmgRIMlK",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "73713218",
+      "value": "103148722",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2017 Sun & Moon Giratina◇ (CGC 8)",
+  "description": "2017 Sun & Moon Giratina◇ (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016742038_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016742038.mp4",
+  "external_url": "https://www.dripshop.live/products/sxvqZxH1L-9AmXS5UjHVd",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016742038",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2017",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sun & Moon",
+      "display_type": "string"
+    }
+  ]
+}

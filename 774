@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2P-SNOW HAZARD BAXCALIBUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2P-SNOW HAZARD BAXCALIBUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100847704.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100847704.mp4",
-  "external_url": "https://www.dripshop.live/products/myIuK2WfqW3Lb45hmfNMS",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET FA/FLAREON VMAX (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET FA/FLAREON VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750981_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750981.mp4",
+  "external_url": "https://www.dripshop.live/products/xENw73fsf0ReOXZPexgey",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100847704",
+      "value": "107750981",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES VMAX SPECIAL SET",
       "display_type": "string"
     }
   ]

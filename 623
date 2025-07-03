@@ -1,33 +1,38 @@
 {
-  "name": "2019 Pokemon Sun & Moon Togepi & Cleffa & Igglybuff GX (CGC GEM MINT 10)",
-  "description": "2019 Pokemon Sun & Moon Togepi & Cleffa & Igglybuff GX (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4183957045.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4183957045.mp4",
-  "external_url": "https://www.dripshop.live/products/4PKLK1iitwKDdg9Sbq7v7",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/ARCEUS VSTAR (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/ARCEUS VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101398685_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101398685.mp4",
+  "external_url": "https://www.dripshop.live/products/mGixi2DoLkOgl1GW-JxZy",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4183957045",
+      "value": "101398685",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD STAR BIRTH",
       "display_type": "string"
     }
   ]

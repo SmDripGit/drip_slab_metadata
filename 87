@@ -1,9 +1,9 @@
 {
-  "name": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
-  "description": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100315478.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100315478.mp4",
-  "external_url": "https://www.dripshop.live/products/hnGxvpDvpFC6NPVC6rE0C",
+  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/99478366_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/99478366.mp4",
+  "external_url": "https://www.dripshop.live/products/ZNE_o_k4jdtWVjKcYuM9R",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100315478",
+      "value": "99478366",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2006",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

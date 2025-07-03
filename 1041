@@ -1,0 +1,39 @@
+{
+  "name": "2023 Scarlet & Violet Starmie (CGC MINT+ 9.5)",
+  "description": "2023 Scarlet & Violet Starmie (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588054_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588054.mp4",
+  "external_url": "https://www.dripshop.live/products/MbleSpB-GECR7WnUCux9S",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588054",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "MINT+ 9.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

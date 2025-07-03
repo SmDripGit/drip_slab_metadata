@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS HOP'S ZACIAN ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS HOP'S ZACIAN ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751004.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751004.mp4",
-  "external_url": "https://www.dripshop.live/products/5rFY9Tnxd05WT6A112o3C",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236641_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236641.mp4",
+  "external_url": "https://www.dripshop.live/products/hpU6YVUPUj5NNmEA8DJlB",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107751004",
+      "value": "106236641",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

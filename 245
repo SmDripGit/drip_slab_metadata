@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/CHARIZARD V (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/CHARIZARD V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/76808436.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/76808436.mp4",
-  "external_url": "https://www.dripshop.live/products/6zQXs7lCgi6vUg--a4Xzp",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ADAMAN (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ADAMAN (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73229008_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73229008.mp4",
+  "external_url": "https://www.dripshop.live/products/rr3My4z2G0TFa_B7aTFAo",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "76808436",
+      "value": "73229008",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

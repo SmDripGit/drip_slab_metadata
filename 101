@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78048995.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78048995.mp4",
-  "external_url": "https://www.dripshop.live/products/DyEc9gf4S_oDloeseuGxC",
+  "name": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER DURANT ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER DURANT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101876489_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101876489.mp4",
+  "external_url": "https://www.dripshop.live/products/Zm3u65Ni4QiJ0h69H0qjh",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78048995",
+      "value": "101876489",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER",
       "display_type": "string"
     }
   ]

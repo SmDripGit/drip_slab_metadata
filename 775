@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE LEDIAN (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE LEDIAN (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105159035.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105159035.mp4",
-  "external_url": "https://www.dripshop.live/products/j4l5gIpghlaEgj5QEz2an",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/113973460_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/113973460.mp4",
+  "external_url": "https://www.dripshop.live/products/CrYR-RYZXTNw6EQ3Z95yl",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105159035",
+      "value": "113973460",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

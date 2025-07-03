@@ -1,23 +1,23 @@
 {
-  "name": "2022 Pokemon Sword & Shield Mew VMAX (CGC PRISTINE 10)",
-  "description": "2022 Pokemon Sword & Shield Mew VMAX (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4205960020.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4205960020.mp4",
-  "external_url": "https://www.dripshop.live/products/3w3znW-ua6felVgNigZ0F",
+  "name": "2022 POKEMON JAPANESE S PROMO MEWTWO V (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE S PROMO MEWTWO V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061891_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061891.mp4",
+  "external_url": "https://www.dripshop.live/products/DQWfkml9dH9GOr_WwUKP_",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4205960020",
+      "value": "109061891",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE S PROMO",
       "display_type": "string"
     }
   ]

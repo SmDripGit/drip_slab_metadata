@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZACIAN V (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZACIAN V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233925.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233925.mp4",
-  "external_url": "https://www.dripshop.live/products/F6kiySw36gwnB5ivKcGOB",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/DUNSPARCE (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/DUNSPARCE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85713470_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85713470.mp4",
+  "external_url": "https://www.dripshop.live/products/ynzsHFcuyaT9LprV1IuHK",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233925",
+      "value": "85713470",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

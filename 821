@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON ROCKET DARK DRAGONITE (PSA NM 7)",
-  "description": "2000 POKEMON ROCKET DARK DRAGONITE (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494181.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494181.mp4",
-  "external_url": "https://www.dripshop.live/products/-fkprZF7AwChNOx6iiEj3",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177005_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177005.mp4",
+  "external_url": "https://www.dripshop.live/products/NoUgHjD9UddVBW9vB3fvv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494181",
+      "value": "106177005",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

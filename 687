@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750932.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750932.mp4",
-  "external_url": "https://www.dripshop.live/products/_A8UzULftisOgZ5sb_RzU",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 PIKACHU (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 PIKACHU (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195123_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195123.mp4",
+  "external_url": "https://www.dripshop.live/products/2rh3pf7dwUHZ9F6b47gFn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750932",
+      "value": "102195123",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

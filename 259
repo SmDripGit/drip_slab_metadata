@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL HORSEA (PSA GEM MT 10)",
-  "description": "1999 POKEMON FOSSIL HORSEA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711438.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711438.mp4",
-  "external_url": "https://www.dripshop.live/products/KWFQSDJqhTgE3VYk30UUB",
+  "name": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
+  "description": "2009 POKEMON PLATINUM PALKIA G LV.X-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94164129_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94164129.mp4",
+  "external_url": "https://www.dripshop.live/products/QD4BpP4o_34wBYd4a5b2z",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711438",
+      "value": "94164129",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2009",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PLATINUM",
       "display_type": "string"
     }
   ]

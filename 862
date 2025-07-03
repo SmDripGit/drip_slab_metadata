@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TEF EN-TEMPORAL FORCES ERI (PSA MINT 9)",
-  "description": "2024 POKEMON TEF EN-TEMPORAL FORCES ERI (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102483951.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102483951.mp4",
-  "external_url": "https://www.dripshop.live/products/oSHGGSVUS-xeSeza42Js2",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77942419_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77942419.mp4",
+  "external_url": "https://www.dripshop.live/products/pMiV_sLOOiy8l0mT0nygr",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102483951",
+      "value": "77942419",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78048992.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78048992.mp4",
-  "external_url": "https://www.dripshop.live/products/MsrNjfK0VYDta4szBMUsf",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES LAPRAS (PSA MINT 9)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES LAPRAS (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101877249_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101877249.mp4",
+  "external_url": "https://www.dripshop.live/products/EIzqXk_znI4z8pIqLITvd",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78048992",
+      "value": "101877249",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

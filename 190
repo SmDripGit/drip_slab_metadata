@@ -1,33 +1,38 @@
 {
-  "name": "2021 Pokemon Jet-Black Spirit Box Purchase Celebi V (CGC GEM MINT 10)",
-  "description": "2021 Pokemon Jet-Black Spirit Box Purchase Celebi V (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/3861200010.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/3861200010.mp4",
-  "external_url": "https://www.dripshop.live/products/tFGfl1mOTCyutpOlWlilV",
+  "name": "2024 POKEMON JAPANESE SV6-TRANSFORMATION MASK SUNFLORA (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV6-TRANSFORMATION MASK SUNFLORA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100833607_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100833607.mp4",
+  "external_url": "https://www.dripshop.live/products/Ipu61crHB2QWve_nzPCza",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "3861200010",
+      "value": "100833607",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV6-TRANSFORMATION MASK",
       "display_type": "string"
     }
   ]

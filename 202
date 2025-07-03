@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PIKACHU V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PIKACHU V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77472255.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77472255.mp4",
-  "external_url": "https://www.dripshop.live/products/_m-066SXaIV5xp5mD__dR",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA GEM MT 10)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO MAGNETON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107550910_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107550910.mp4",
+  "external_url": "https://www.dripshop.live/products/zEz9GFWG-V1R3H4kzCPUv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77472255",
+      "value": "107550910",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

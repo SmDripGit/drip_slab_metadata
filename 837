@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX ADVENTURER'S DSCVRY. (PSA MINT 9)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX ADVENTURER'S DSCVRY. (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747693.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747693.mp4",
-  "external_url": "https://www.dripshop.live/products/1akn7hpYlb3bqPx4J90IX",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236174_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236174.mp4",
+  "external_url": "https://www.dripshop.live/products/aCPKonvG7j1kBUnT8wB_k",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "76747693",
+      "value": "106236174",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

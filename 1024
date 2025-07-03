@@ -1,0 +1,39 @@
+{
+  "name": "2002 Original Series Charmander (CGC 7)",
+  "description": "2002 Original Series Charmander (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035585261_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035585261.mp4",
+  "external_url": "https://www.dripshop.live/products/VB8q1L9RNd4z3qm5bN-tb",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035585261",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

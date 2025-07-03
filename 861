@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZERAORA VSTAR (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/ZERAORA VSTAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911167.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911167.mp4",
-  "external_url": "https://www.dripshop.live/products/IV92Kg0Q0LcnFZrVM3PWy",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO UMBREON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/80416797_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/80416797.mp4",
+  "external_url": "https://www.dripshop.live/products/Prx3uPxvdCO8ELjrdmP9Z",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115911167",
+      "value": "80416797",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

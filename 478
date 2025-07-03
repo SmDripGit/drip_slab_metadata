@@ -1,9 +1,9 @@
 {
-  "name": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
-  "description": "1997 POKEMON JAPANESE FOSSIL ZAPDOS-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102912261.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102912261.mp4",
-  "external_url": "https://www.dripshop.live/products/CDiyWSZKzFTYs1AKKGxrm",
+  "name": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
+  "description": "2002 POKEMON NEO DESTINY DARK DONPHAN-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381878_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381878.mp4",
+  "external_url": "https://www.dripshop.live/products/sqX-UBOww9GPrHeH_ZcBu",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102912261",
+      "value": "108381878",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "1997",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO DESTINY",
       "display_type": "string"
     }
   ]

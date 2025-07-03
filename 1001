@@ -1,0 +1,39 @@
+{
+  "name": "2023 Pokemon Sword & Shield Magmortar (CGC 9)",
+  "description": "2023 Pokemon Sword & Shield Magmortar (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401009912259_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401009912259.mp4",
+  "external_url": "https://www.dripshop.live/products/R__9Vwizd69IPDeRq3PqK",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401009912259",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II POLIWRATH-HOLO (PSA EX-MT 6)",
-  "description": "2000 POKEMON GAME BASE II POLIWRATH-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711444.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711444.mp4",
-  "external_url": "https://www.dripshop.live/products/C4qxYXCnAcM_V8jNHp6hm",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254041_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109254041.mp4",
+  "external_url": "https://www.dripshop.live/products/epxOuIMREYCXKIbdJqPkk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711444",
+      "value": "109254041",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

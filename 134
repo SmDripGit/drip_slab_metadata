@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
-  "description": "2025 POKEMON JTG EN-JOURNEY TOGETHER LILLIE'S CLEFAIRY ex (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115702748.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115702748.mp4",
-  "external_url": "https://www.dripshop.live/products/LZ9HfoW4Z8ij7A2W2iRQz",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110035112_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110035112.mp4",
+  "external_url": "https://www.dripshop.live/products/FUlN59nKqxIgLFZ_21qhj",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115702748",
+      "value": "110035112",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

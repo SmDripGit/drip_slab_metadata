@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II CLEFABLE-HOLO (PSA EX 5)",
-  "description": "2000 POKEMON GAME BASE II CLEFABLE-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556480.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556480.mp4",
-  "external_url": "https://www.dripshop.live/products/_ssPQIlptoqjYqaNXDoZa",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060597_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060597.mp4",
+  "external_url": "https://www.dripshop.live/products/QUYVFm0nViIWmcSlJxHZ2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556480",
+      "value": "109060597",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

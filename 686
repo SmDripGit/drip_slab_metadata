@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750930.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750930.mp4",
-  "external_url": "https://www.dripshop.live/products/TyWbYaL5FzczMc35P2BFe",
+  "name": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061857_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061857.mp4",
+  "external_url": "https://www.dripshop.live/products/cZy0FOihl24lTIq-Y-6Ny",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750930",
+      "value": "109061857",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY BLUE SHOCK",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON JAPANESE NEO TYPHLOSION-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97596305.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97596305.mp4",
-  "external_url": "https://www.dripshop.live/products/sr829rjB9Y3YeL2lWQZa4",
+  "name": "2000 POKEMON JAPANESE NEO 2 POLITOED-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON JAPANESE NEO 2 POLITOED-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972005_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972005.mp4",
+  "external_url": "https://www.dripshop.live/products/S4UFRgtW_VQhF3ai1BlpK",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97596305",
+      "value": "82972005",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 2",
       "display_type": "string"
     }
   ]

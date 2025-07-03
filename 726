@@ -1,23 +1,23 @@
 {
-  "name": "2021 Pokemon Celebrations Elite Trainer Box Greninja â (CGC 9)",
-  "description": "2021 Pokemon Celebrations Elite Trainer Box Greninja â (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4169004019.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4169004019.mp4",
-  "external_url": "https://www.dripshop.live/products/_xubKmKhHbe4RDrwY3rPV",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062670_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062670.mp4",
+  "external_url": "https://www.dripshop.live/products/MNA2UtsJctYSMUq4vhWuD",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4169004019",
+      "value": "101062670",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

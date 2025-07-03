@@ -1,0 +1,39 @@
+{
+  "name": "2000 Pokemon Pokémon League Eevee (CGC 9)",
+  "description": "2000 Pokemon Pokémon League Eevee (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401027846030_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401027846030.mp4",
+  "external_url": "https://www.dripshop.live/products/6pLfukFNhX63PMtEB_qrK",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401027846030",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Pokémon League",
+      "display_type": "string"
+    }
+  ]
+}

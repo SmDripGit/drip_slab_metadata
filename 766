@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ADAMAN (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/ADAMAN (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/73229008.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/73229008.mp4",
-  "external_url": "https://www.dripshop.live/products/rr3My4z2G0TFa_B7aTFAo",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD BATTLE REGION FA/ROXANNE (PSA MINT 9)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD BATTLE REGION FA/ROXANNE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/76747697_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/76747697.mp4",
+  "external_url": "https://www.dripshop.live/products/AV2uQ635WMhRxoNoctjFh",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "73229008",
+      "value": "76747697",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD BATTLE REGION",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2005 All Grimer (CGC 9)",
+  "description": "2005 All Grimer (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016722218_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016722218.mp4",
+  "external_url": "https://www.dripshop.live/products/CFNUvMv0t3-I8X13DTJlK",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016722218",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2005",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "All",
+      "display_type": "string"
+    }
+  ]
+}

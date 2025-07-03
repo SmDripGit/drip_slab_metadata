@@ -1,33 +1,38 @@
 {
-  "name": "2003 Pokemon EX Cacturne (CGC 8.5)",
-  "description": "2003 Pokemon EX Cacturne (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4102392152.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4102392152.mp4",
-  "external_url": "https://www.dripshop.live/products/ltXIQq34a0gUZb53JWld8",
+  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO CHARMANDER (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116892653_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116892653.mp4",
+  "external_url": "https://www.dripshop.live/products/LCiaAWov9Dgr4sdtNm8Nk",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4102392152",
+      "value": "116892653",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

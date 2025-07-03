@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED TYRANITAR (PSA GEM MT 10)",
-  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED TYRANITAR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126681.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126681.mp4",
-  "external_url": "https://www.dripshop.live/products/5_MoLmOk86gR_f4KqaaCr",
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA NM-MT 8)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108988240_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108988240.mp4",
+  "external_url": "https://www.dripshop.live/products/4uBmINpHYyIIUqhXW-nzW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126681",
+      "value": "108988240",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PRE EN-PRISMATIC EVOLUTIONS",
       "display_type": "string"
     }
   ]

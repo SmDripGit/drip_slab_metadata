@@ -1,9 +1,9 @@
 {
-  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED AMPHAROS-HOLO (PSA GEM MT 10)",
-  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED AMPHAROS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381919.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381919.mp4",
-  "external_url": "https://www.dripshop.live/products/MozYsbPGAHwS6uv1g4zmK",
+  "name": "1999 POKEMON JAPANESE SQUIRTLE DECK SQUIRTLE (PSA GEM MT 10)",
+  "description": "1999 POKEMON JAPANESE SQUIRTLE DECK SQUIRTLE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73380249_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73380249.mp4",
+  "external_url": "https://www.dripshop.live/products/U31oeiBKqNDsAqyZ95dRW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381919",
+      "value": "73380249",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2012",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SQUIRTLE DECK",
       "display_type": "string"
     }
   ]

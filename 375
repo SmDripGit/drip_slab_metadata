@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415440.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415440.mp4",
-  "external_url": "https://www.dripshop.live/products/Hwo5-zIi1OSE4wJ3vneKg",
+  "name": "1999 POKEMON JAPANESE GYM 2 KOGA'S NINJA TRICK (PSA MINT 9)",
+  "description": "1999 POKEMON JAPANESE GYM 2 KOGA'S NINJA TRICK (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/75766323_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/75766323.mp4",
+  "external_url": "https://www.dripshop.live/products/ZQS7yq4UUgSmatQ6tDsT2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415440",
+      "value": "75766323",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE GYM 2",
       "display_type": "string"
     }
   ]

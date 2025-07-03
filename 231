@@ -1,9 +1,9 @@
 {
-  "name": "2010 POKEMON HEARTGOLD & SOULSILVER PROMO ENTEI-HOLO (PSA NM-MT 8)",
-  "description": "2010 POKEMON HEARTGOLD & SOULSILVER PROMO ENTEI-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107756757.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107756757.mp4",
-  "external_url": "https://www.dripshop.live/products/la6fSUikTx6MqzGRPKXEN",
+  "name": "2024 POKEMON SCR EN-STELLAR CROWN LAPRAS ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON SCR EN-STELLAR CROWN LAPRAS ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226323_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226323.mp4",
+  "external_url": "https://www.dripshop.live/products/LMVeMfjLKTn6EORTaUCMk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107756757",
+      "value": "111226323",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2010",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SCR EN-STELLAR CROWN",
       "display_type": "string"
     }
   ]

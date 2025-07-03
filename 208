@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111052170.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111052170.mp4",
-  "external_url": "https://www.dripshop.live/products/ww5LDTVX_HZHp6IqQPWBu",
+  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226316_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226316.mp4",
+  "external_url": "https://www.dripshop.live/products/kl31e_-Ac1q0qkYEu6AXn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111052170",
+      "value": "111226316",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD SILVER TEMPEST",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 3 CELEBI-HOLO (PSA GEM MT 10)",
-  "description": "2000 POKEMON JAPANESE NEO 3 CELEBI-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/98712165.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/98712165.mp4",
-  "external_url": "https://www.dripshop.live/products/9yeuNLe1TfIYBfP9q3I6c",
+  "name": "1999 POKEMON GERMAN BISAFLOR-HOLO (PSA GEM MT 10)",
+  "description": "1999 POKEMON GERMAN BISAFLOR-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/94300622_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/94300622.mp4",
+  "external_url": "https://www.dripshop.live/products/asfYGHrzpaaWz5GBWcqK_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "98712165",
+      "value": "94300622",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GERMAN",
       "display_type": "string"
     }
   ]

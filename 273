@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
-  "description": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/98935531.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/98935531.mp4",
-  "external_url": "https://www.dripshop.live/products/iU7nQW_xCqbwvAysz18Z7",
+  "name": "2002 POKEMON LEGENDARY COLLECTION GYARADOS-HOLO (PSA EX-MT 6)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION GYARADOS-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101825344_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101825344.mp4",
+  "external_url": "https://www.dripshop.live/products/R1EZEVZdFxLvQZVuaeR1e",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "98935531",
+      "value": "101825344",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON LEGENDARY COLLECTION",
       "display_type": "string"
     }
   ]

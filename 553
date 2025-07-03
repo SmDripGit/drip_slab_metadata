@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107010169.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107010169.mp4",
-  "external_url": "https://www.dripshop.live/products/vDJ_NG3nhGS5v6IWLgerM",
+  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
+  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED FA/HO-OH EX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116215126_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116215126.mp4",
+  "external_url": "https://www.dripshop.live/products/inleYCd1MyDlJ0QxkUxe8",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107010169",
+      "value": "116215126",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2012",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON BLACK & WHITE DRAGONS EXALTED",
       "display_type": "string"
     }
   ]

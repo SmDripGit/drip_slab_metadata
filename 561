@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 IVYSAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195057.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195057.mp4",
-  "external_url": "https://www.dripshop.live/products/iwRhpkWcpbAwlOP0tCcPo",
+  "name": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION VENUSAUR-REV.FOIL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/117649121_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/117649121.mp4",
+  "external_url": "https://www.dripshop.live/products/Lb_Ps-KkCcLhzitEP-NE5",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102195057",
+      "value": "117649121",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON LEGENDARY COLLECTION",
       "display_type": "string"
     }
   ]

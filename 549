@@ -1,33 +1,38 @@
 {
-  "name": "2025 Pokemon Scarlet & Violet Blaziken (CGC PRISTINE 10)",
-  "description": "2025 Pokemon Scarlet & Violet Blaziken (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6050080262.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6050080262.mp4",
-  "external_url": "https://www.dripshop.live/products/IbVxI318i1YqDdYj5dTfT",
+  "name": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA MINT 9)",
+  "description": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/113822934_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/113822934.mp4",
+  "external_url": "https://www.dripshop.live/products/HAqXpcUAVlrN6w2N_U_Bl",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6050080262",
+      "value": "113822934",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION 1ST EDITION",
       "display_type": "string"
     }
   ]

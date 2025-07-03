@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD CHILLING REIGN FA/BLAZIKEN VMAX (PSA GEM MT 10)",
-  "description": "2021 POKEMON SWORD & SHIELD CHILLING REIGN FA/BLAZIKEN VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103379817.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103379817.mp4",
-  "external_url": "https://www.dripshop.live/products/ofIgMemLhBYSlSJizmZ7O",
+  "name": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/RS URSHIFU VMAX (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/RS URSHIFU VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233934_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233934.mp4",
+  "external_url": "https://www.dripshop.live/products/4wFKyH191a-vc8lq2RcLE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103379817",
+      "value": "104233934",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD BRILLIANT STARS",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARMANDER (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARMANDER (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103371830.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103371830.mp4",
-  "external_url": "https://www.dripshop.live/products/3l1g1WMgHP2fJG32Q_iN_",
+  "name": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO REVELATION 1ST EDITION HO-OH-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101158041_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101158041.mp4",
+  "external_url": "https://www.dripshop.live/products/GcbXw_ESNQNlc-28eioP5",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103371830",
+      "value": "101158041",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO REVELATION 1ST EDITION",
       "display_type": "string"
     }
   ]

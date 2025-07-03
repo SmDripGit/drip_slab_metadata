@@ -1,33 +1,38 @@
 {
-  "name": "1999 Pokemon Original Series Blaine's Moltres (CGC 8.5)",
-  "description": "1999 Pokemon Original Series Blaine's Moltres (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4012989041.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4012989041.mp4",
-  "external_url": "https://www.dripshop.live/products/OyUYjfEnwsMU0f7HzHSNg",
+  "name": "2003 POKEMON SKYRIDGE MAGNETON-REV.FOIL (PSA MINT 9)",
+  "description": "2003 POKEMON SKYRIDGE MAGNETON-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381913_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381913.mp4",
+  "external_url": "https://www.dripshop.live/products/N33tIBXfAmgctVSPumYs6",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4012989041",
+      "value": "108381913",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SKYRIDGE",
       "display_type": "string"
     }
   ]

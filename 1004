@@ -1,0 +1,39 @@
+{
+  "name": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 9)",
+  "description": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019640117_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019640117.mp4",
+  "external_url": "https://www.dripshop.live/products/Y6yLxib3cSN1rbu7nBJbV",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6019640117",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Spell of the Unown: Entei",
+      "display_type": "string"
+    }
+  ]
+}

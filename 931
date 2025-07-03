@@ -1,23 +1,23 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Heracross (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Scarlet & Violet Heracross (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6010565081.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6010565081.mp4",
-  "external_url": "https://www.dripshop.live/products/eZ4iOH4w32M-HF3goITVH",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/78557943_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/78557943.mp4",
+  "external_url": "https://www.dripshop.live/products/k9oI2owo7rUtp9gVlq3GF",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6010565081",
+      "value": "78557943",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

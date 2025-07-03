@@ -1,33 +1,38 @@
 {
-  "name": "2006 Pokemon EX Raichu δ (CGC 8.5)",
-  "description": "2006 Pokemon EX Raichu δ (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4110436054.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4110436054.mp4",
-  "external_url": "https://www.dripshop.live/products/0nXTki1eLb3poAxJyRpet",
+  "name": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER CERULEDGE (PSA MINT 9)",
+  "description": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER CERULEDGE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062621_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062621.mp4",
+  "external_url": "https://www.dripshop.live/products/a0v0M7uxLz4norNz6JMTW",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4110436054",
+      "value": "101062621",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2006",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER",
       "display_type": "string"
     }
   ]

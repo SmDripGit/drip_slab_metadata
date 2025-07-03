@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON JAPANESE SUN & MOON GX BATTLE BOOST HO-OH GX (PSA GEM MT 10)",
-  "description": "2017 POKEMON JAPANESE SUN & MOON GX BATTLE BOOST HO-OH GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061859.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061859.mp4",
-  "external_url": "https://www.dripshop.live/products/FkTNHXWJfosVgPLWYbYKL",
+  "name": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON GAME BASE II CLEFAIRY-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972018_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972018.mp4",
+  "external_url": "https://www.dripshop.live/products/JX9ZTUVM5DgpxP5DCzjOk",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061859",
+      "value": "82972018",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

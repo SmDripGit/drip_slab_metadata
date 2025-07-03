@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION CHARIZARD (PSA MINT 9)",
-  "description": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION CHARIZARD (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/73933027.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/73933027.mp4",
-  "external_url": "https://www.dripshop.live/products/0GtVlrQjU7Hr5dCEmE7ve",
+  "name": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA MINT 9)",
+  "description": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/90876253_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/90876253.mp4",
+  "external_url": "https://www.dripshop.live/products/to5ujS8rMkhn0Or2rzxKm",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "73933027",
+      "value": "90876253",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EXPEDITION",
       "display_type": "string"
     }
   ]

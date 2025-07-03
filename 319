@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II HITMONCHAN-HOLO (PSA NM-MT 8)",
-  "description": "2000 POKEMON GAME BASE II HITMONCHAN-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108054960.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108054960.mp4",
-  "external_url": "https://www.dripshop.live/products/ur-7EJG9dgR5VJhHhDjq6",
+  "name": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
+  "description": "2012 POKEMON BLACK & WHITE DRAGONS EXALTED RAYQUAZA EX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537242_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537242.mp4",
+  "external_url": "https://www.dripshop.live/products/GHvwuqX8htSARjj1lASBj",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108054960",
+      "value": "114537242",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2012",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON BLACK & WHITE DRAGONS EXALTED",
       "display_type": "string"
     }
   ]

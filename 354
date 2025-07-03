@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE LEGENDARY SHINE COLLECTION FA/ARCEUS (PSA MINT 9)",
-  "description": "2015 POKEMON JAPANESE LEGENDARY SHINE COLLECTION FA/ARCEUS (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/93576968.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/93576968.mp4",
-  "external_url": "https://www.dripshop.live/products/IZ03R1qlS1edOynWAzLIF",
+  "name": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/MAGNEMITE (PSA MINT 9)",
+  "description": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/MAGNEMITE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494305_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494305.mp4",
+  "external_url": "https://www.dripshop.live/products/bVvI2dkrNRlzM9KVlSCmG",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "93576968",
+      "value": "115494305",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON COSMIC ECLIPSE",
       "display_type": "string"
     }
   ]

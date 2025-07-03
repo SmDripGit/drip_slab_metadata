@@ -1,33 +1,38 @@
 {
-  "name": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
-  "description": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061781.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061781.mp4",
-  "external_url": "https://www.dripshop.live/products/fzmSGIMmj7cpNxfQO4423",
+  "name": "2023 Pokemon Scarlet & Violet Miriam (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Miriam (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760004.mp4",
+  "external_url": "https://www.dripshop.live/products/BCbicvt9x0WDcrWcMcLDr",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061781",
+      "value": "4306760004",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2018",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

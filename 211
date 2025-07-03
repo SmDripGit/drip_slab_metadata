@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL ARTICUNO-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON FOSSIL ARTICUNO-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494178.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494178.mp4",
-  "external_url": "https://www.dripshop.live/products/rV4eqZA6UmO0btIhG1wQ0",
+  "name": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
+  "description": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77522605_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77522605.mp4",
+  "external_url": "https://www.dripshop.live/products/D8LSniGqG0tyHrHcemRST",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494178",
+      "value": "77522605",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE WIND FROM THE SEA",
       "display_type": "string"
     }
   ]

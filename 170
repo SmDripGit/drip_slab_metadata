@@ -1,33 +1,38 @@
 {
-  "name": "2007 POKEMON JAPANESE PROMO DARKRAI-HOLO (PSA GEM MT 10)",
-  "description": "2007 POKEMON JAPANESE PROMO DARKRAI-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061846.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061846.mp4",
-  "external_url": "https://www.dripshop.live/products/OkzgeaKaXMvyeCZLWNcSI",
+  "name": "2023 Pokemon Scarlet & Violet Penny (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Penny (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760005_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760005.mp4",
+  "external_url": "https://www.dripshop.live/products/tTinPWsm6qyx1YBPxTb8J",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061846",
+      "value": "4306760005",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2007",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

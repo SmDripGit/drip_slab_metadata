@@ -1,23 +1,23 @@
 {
-  "name": "2024 Pokemon Scarlet & Violet Pecharunt ex (CGC GEM MINT 10)",
-  "description": "2024 Pokemon Scarlet & Violet Pecharunt ex (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019640230.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019640230.mp4",
-  "external_url": "https://www.dripshop.live/products/IQpcY2PJ-PIkcKbQ4WbuZ",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110874485_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110874485.mp4",
+  "external_url": "https://www.dripshop.live/products/oHWhdJcK2FFSgQ68r-AlG",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6019640230",
+      "value": "110874485",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "description": "2016 POKEMON JAPANESE MYTHICAL & LEGENDARY DREAM SHINE COLLECTION ARCEUS-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061922.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061922.mp4",
-  "external_url": "https://www.dripshop.live/products/XPn3hnKghwg0rc44FbOJO",
+  "name": "1999 POKEMON FOSSIL GENGAR (PSA EX-MT 6)",
+  "description": "1999 POKEMON FOSSIL GENGAR (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100211955_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100211955.mp4",
+  "external_url": "https://www.dripshop.live/products/6TjpP8H9iJ-736-OdEU4w",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061922",
+      "value": "100211955",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

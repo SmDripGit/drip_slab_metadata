@@ -1,0 +1,39 @@
+{
+  "name": "2007 EX Spheal (CGC 8.5)",
+  "description": "2007 EX Spheal (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401031274273_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401031274273.mp4",
+  "external_url": "https://www.dripshop.live/products/VMGniGpTX7bBlRHL6pZkq",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401031274273",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "EX",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750910.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750910.mp4",
-  "external_url": "https://www.dripshop.live/products/oA3puXf7ofD6X0XSTfinc",
+  "name": "2010 POKEMON HEARTGOLD & SOULSILVER TRIUMPHANT GENGAR-HOLO (PSA MINT 9)",
+  "description": "2010 POKEMON HEARTGOLD & SOULSILVER TRIUMPHANT GENGAR-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310238_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310238.mp4",
+  "external_url": "https://www.dripshop.live/products/Xk-DMSOCXSukYi5afE8-5",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750910",
+      "value": "109310238",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2010",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON HEARTGOLD & SOULSILVER TRIUMPHANT",
       "display_type": "string"
     }
   ]

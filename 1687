@@ -1,0 +1,39 @@
+{
+  "name": "2014 XY Delphox (CGC 8.5)",
+  "description": "2014 XY Delphox (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588140_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588140.mp4",
+  "external_url": "https://www.dripshop.live/products/-dl1hFy96L0Hs0ow5MTgl",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588140",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2014",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "XY",
+      "display_type": "string"
+    }
+  ]
+}

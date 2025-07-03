@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JUNGLE WIGGLYTUFF-HOLO (PSA EX 5)",
-  "description": "1999 POKEMON JUNGLE WIGGLYTUFF-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556458.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556458.mp4",
-  "external_url": "https://www.dripshop.live/products/VboQq8SZNuo2dyvD9erl2",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109339268_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109339268.mp4",
+  "external_url": "https://www.dripshop.live/products/1my4EujqKs5SlIhaLH3hn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556458",
+      "value": "109339268",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

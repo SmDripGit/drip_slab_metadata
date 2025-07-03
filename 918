@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Sword & Shield Magmortar (CGC 9)",
-  "description": "2023 Pokemon Sword & Shield Magmortar (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401009912259.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401009912259.mp4",
-  "external_url": "https://www.dripshop.live/products/R__9Vwizd69IPDeRq3PqK",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751012_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751012.mp4",
+  "external_url": "https://www.dripshop.live/products/CtPEfu3PRGsvql8A1rlIz",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "1401009912259",
+      "value": "107751012",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

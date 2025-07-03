@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925269.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925269.mp4",
-  "external_url": "https://www.dripshop.live/products/feGxXGfIvBa0hL8NOLDQM",
+  "name": "2023 Pokemon 151 Poster Collection Squirtle (CGC GEM MINT 10)",
+  "description": "2023 Pokemon 151 Poster Collection Squirtle (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019629278_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019629278.mp4",
+  "external_url": "https://www.dripshop.live/products/4aci8OuOa93fGNVyUOTXa",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107925269",
+      "value": "6019629278",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon 151 Poster Collection",
       "display_type": "string"
     }
   ]

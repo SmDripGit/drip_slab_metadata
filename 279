@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/88101593.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/88101593.mp4",
-  "external_url": "https://www.dripshop.live/products/3EMmEjgu3KZGG9k5_J_of",
+  "name": "2000 POKEMON GAME BASE II POLIWRATH-HOLO (PSA EX-MT 6)",
+  "description": "2000 POKEMON GAME BASE II POLIWRATH-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711444_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711444.mp4",
+  "external_url": "https://www.dripshop.live/products/C4qxYXCnAcM_V8jNHp6hm",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "88101593",
+      "value": "116711444",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

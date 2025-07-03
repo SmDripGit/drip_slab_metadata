@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GAME BASE II CHANSEY-HOLO (PSA EX-MT 6)",
-  "description": "2000 POKEMON GAME BASE II CHANSEY-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556477.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556477.mp4",
-  "external_url": "https://www.dripshop.live/products/91B1wvj7pb-Xu6J4FPzoi",
+  "name": "2000 POKEMON JAPANESE NEO AMPHAROS-HOLO (PSA MINT 9)",
+  "description": "2000 POKEMON JAPANESE NEO AMPHAROS-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381549_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381549.mp4",
+  "external_url": "https://www.dripshop.live/products/PFfVPH1rkqprxA13yLVvx",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556477",
+      "value": "108381549",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO",
       "display_type": "string"
     }
   ]

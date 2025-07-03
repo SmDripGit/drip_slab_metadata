@@ -1,0 +1,39 @@
+{
+  "name": "2000 Neo Pokémon Breeder Fields (CGC 8.5)",
+  "description": "2000 Neo Pokémon Breeder Fields (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016697243_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016697243.mp4",
+  "external_url": "https://www.dripshop.live/products/nUou0sYYrLFtzm1TvDN5N",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016697243",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Neo",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON XY ROARING SKIES M RAYQUAZA EX (PSA MINT 9)",
-  "description": "2015 POKEMON XY ROARING SKIES M RAYQUAZA EX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/72842809.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/72842809.mp4",
-  "external_url": "https://www.dripshop.live/products/Fh859yfFmy2cJ__lr2Wlf",
+  "name": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
+  "description": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98935516_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98935516.mp4",
+  "external_url": "https://www.dripshop.live/products/f1az7z0H4bUa6ErWHePj-",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "72842809",
+      "value": "98935516",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

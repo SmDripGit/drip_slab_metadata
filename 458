@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195120.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195120.mp4",
-  "external_url": "https://www.dripshop.live/products/bHD_BWPyT94XI8g7rRC94",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LYCANROC (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LYCANROC (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106625419_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106625419.mp4",
+  "external_url": "https://www.dripshop.live/products/37AtpK3QWMAD1TYvn_Z0R",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102195120",
+      "value": "106625419",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

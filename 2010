@@ -1,0 +1,39 @@
+{
+  "name": "1996 Original Series Gust of Wind (CGC GEM MINT 10)",
+  "description": "1996 Original Series Gust of Wind (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3916457197_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3916457197.mp4",
+  "external_url": "https://www.dripshop.live/products/yhX4LBRjrfIuR-dA6KpVa",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3916457197",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1996",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

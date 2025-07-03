@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TEF EN-TEMPORAL FORCES GASTLY (PSA MINT 9)",
-  "description": "2024 POKEMON TEF EN-TEMPORAL FORCES GASTLY (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/96945222.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/96945222.mp4",
-  "external_url": "https://www.dripshop.live/products/dyQA1Cs6JrSqflcXTER2z",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/ARCEUS VSTAR (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD STAR BIRTH FA/ARCEUS VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/72179487_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/72179487.mp4",
+  "external_url": "https://www.dripshop.live/products/Qj15DdhDaKS-_87kIucP2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "96945222",
+      "value": "72179487",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD STAR BIRTH",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEW ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEW ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/92445102.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/92445102.mp4",
-  "external_url": "https://www.dripshop.live/products/C9Xd0XISDRmEFzhLiXFyz",
+  "name": "2023 POKEMON MEW EN-151 SQUIRTLE (PSA GEM MT 10)",
+  "description": "2023 POKEMON MEW EN-151 SQUIRTLE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108736236_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108736236.mp4",
+  "external_url": "https://www.dripshop.live/products/85j0V5qEQDIrD4nCWHY-d",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "92445102",
+      "value": "108736236",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

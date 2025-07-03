@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON NEO GENESIS 1ST EDITION MEGANIUM-HOLO (PSA MINT 9)",
-  "description": "2000 POKEMON NEO GENESIS 1ST EDITION MEGANIUM-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381844.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381844.mp4",
-  "external_url": "https://www.dripshop.live/products/l9ev6JB5OcrQ_GCK-v8Vo",
+  "name": "2000 TOPPS CHROME POKEMON T.V. PINSIR (PSA GEM MT 10)",
+  "description": "2000 TOPPS CHROME POKEMON T.V. PINSIR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/89728689_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/89728689.mp4",
+  "external_url": "https://www.dripshop.live/products/1LPZkADI1tlIf0fEq8AU7",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381844",
+      "value": "89728689",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "TOPPS CHROME POKEMON T.V.",
       "display_type": "string"
     }
   ]

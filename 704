@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/ENAMORUS V (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/ENAMORUS V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109141524.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109141524.mp4",
-  "external_url": "https://www.dripshop.live/products/lYv1oO-Cmmr62xLp_MxgD",
+  "name": "2016 POKEMON JAPANESE XY POKEKYUN COLLECTION WOBBUFFET (PSA GEM MT 10)",
+  "description": "2016 POKEMON JAPANESE XY POKEKYUN COLLECTION WOBBUFFET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061821_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061821.mp4",
+  "external_url": "https://www.dripshop.live/products/dJu2RfvP0__OlngZNZncX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109141524",
+      "value": "109061821",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2016",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY POKEKYUN COLLECTION",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2001 Neo EXP. ALL (CGC 9)",
+  "description": "2001 Neo EXP. ALL (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3912900195_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3912900195.mp4",
+  "external_url": "https://www.dripshop.live/products/t8ZuAF9CMLkh8jSjtOqk6",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3912900195",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Neo",
+      "display_type": "string"
+    }
+  ]
+}

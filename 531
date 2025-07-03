@@ -1,33 +1,38 @@
 {
-  "name": "2021 Pokemon Sword & Shield Gengar VMAX (CGC 9)",
-  "description": "2021 Pokemon Sword & Shield Gengar VMAX (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4183957051.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4183957051.mp4",
-  "external_url": "https://www.dripshop.live/products/EE9swH2iMKAcWz-KCyl8l",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310258_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310258.mp4",
+  "external_url": "https://www.dripshop.live/products/BSEn2SMWtohNg015-oJOD",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4183957051",
+      "value": "109310258",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

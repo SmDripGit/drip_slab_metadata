@@ -1,33 +1,38 @@
 {
-  "name": "1999 POKEMON FOSSIL GEODUDE (PSA NM-MT 8)",
-  "description": "1999 POKEMON FOSSIL GEODUDE (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711462.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711462.mp4",
-  "external_url": "https://www.dripshop.live/products/goRGDmvw6xROJsoTMM9gW",
+  "name": "2023 Pokemon Scarlet & Violet Tyranitar ex (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Tyranitar ex (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401014916065_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401014916065.mp4",
+  "external_url": "https://www.dripshop.live/products/UCMFFxxENb1hbHJFHfEVj",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711462",
+      "value": "1401014916065",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

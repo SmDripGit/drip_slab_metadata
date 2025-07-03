@@ -1,9 +1,9 @@
 {
-  "name": "1996 POKEMON JAPANESE BASIC MAGNETON-HOLO (PSA MINT 9)",
-  "description": "1996 POKEMON JAPANESE BASIC MAGNETON-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972681.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972681.mp4",
-  "external_url": "https://www.dripshop.live/products/5-FwUL1eZrBugdilko5gz",
+  "name": "2017 POKEMON SUN & MOON CRIMSON INVASION FA/ALN.EXEGGUTOR GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON CRIMSON INVASION FA/ALN.EXEGGUTOR GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97596303_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97596303.mp4",
+  "external_url": "https://www.dripshop.live/products/FF8MP0O9zqm8w_kcsalMY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972681",
+      "value": "97596303",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1996",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON CRIMSON INVASION",
       "display_type": "string"
     }
   ]

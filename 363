@@ -1,9 +1,9 @@
 {
-  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
-  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310264.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310264.mp4",
-  "external_url": "https://www.dripshop.live/products/6blF02GFF7KP0QzeMHS6o",
+  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES LARVITAR (PSA MINT 9)",
+  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES LARVITAR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972024_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972024.mp4",
+  "external_url": "https://www.dripshop.live/products/sg3_taL98tXDMR-csN1NK",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310264",
+      "value": "82972024",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2017",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON OBF EN-OBSIDIAN FLAMES",
       "display_type": "string"
     }
   ]

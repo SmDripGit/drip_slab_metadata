@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
-  "description": "2024 POKEMON MEW EN-151 CHARMANDER (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126700.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126700.mp4",
-  "external_url": "https://www.dripshop.live/products/mUN6hI3-DSixmtlT374lj",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS CERULEDGE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108901051_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108901051.mp4",
+  "external_url": "https://www.dripshop.live/products/g7aHQlDUfcEnF77BudNKc",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126700",
+      "value": "108901051",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

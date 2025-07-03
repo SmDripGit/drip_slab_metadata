@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO PIKACHU (PSA NM-MT 8)",
-  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO PIKACHU (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77377597.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77377597.mp4",
-  "external_url": "https://www.dripshop.live/products/Z7YXItQ3jehWfykPbN5Cl",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060600_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060600.mp4",
+  "external_url": "https://www.dripshop.live/products/HDlcE_M5ZKjbAfXO8SCAW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77377597",
+      "value": "109060600",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

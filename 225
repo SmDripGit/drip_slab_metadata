@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES CHARMANDER (PSA GEM MT 10)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES CHARMANDER (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106697552.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106697552.mp4",
-  "external_url": "https://www.dripshop.live/products/KnZ6k5CiFK3r3lQjP69AP",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/MILOTIC (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA FA/MILOTIC (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/113824015_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/113824015.mp4",
+  "external_url": "https://www.dripshop.live/products/16aonXd3Co0dBulXbY-Uy",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106697552",
+      "value": "113824015",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA",
       "display_type": "string"
     }
   ]

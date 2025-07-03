@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JUNGLE FLAREON-HOLO (PSA EX 5)",
-  "description": "1999 POKEMON JUNGLE FLAREON-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556470.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556470.mp4",
-  "external_url": "https://www.dripshop.live/products/_eaPslP9k7CXyE57P476l",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLISSEY V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415441_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415441.mp4",
+  "external_url": "https://www.dripshop.live/products/MoLAuXqWjU9wuEfnHQHSd",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556470",
+      "value": "102415441",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

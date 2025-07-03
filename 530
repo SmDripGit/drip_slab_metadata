@@ -1,33 +1,38 @@
 {
-  "name": "2002 Pokemon Neo Light Azumarill (CGC 9)",
-  "description": "2002 Pokemon Neo Light Azumarill (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4110326252.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4110326252.mp4",
-  "external_url": "https://www.dripshop.live/products/6E02lQKq5BuTBaa7wDC9N",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310257_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310257.mp4",
+  "external_url": "https://www.dripshop.live/products/rYvgjB_1y-Atj2_-CY-dQ",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4110326252",
+      "value": "109310257",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

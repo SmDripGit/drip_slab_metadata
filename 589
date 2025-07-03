@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750953.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750953.mp4",
-  "external_url": "https://www.dripshop.live/products/-HzE01_D-4js3FnM0cSkc",
+  "name": "2003 Pokemon EX Cacturne (CGC 8.5)",
+  "description": "2003 Pokemon EX Cacturne (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4102392152_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4102392152.mp4",
+  "external_url": "https://www.dripshop.live/products/ltXIQq34a0gUZb53JWld8",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107750953",
+      "value": "4102392152",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "8.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon EX",
       "display_type": "string"
     }
   ]

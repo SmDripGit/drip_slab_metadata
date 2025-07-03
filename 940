@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Ninetales ex (CGC PRISTINE 10)",
-  "description": "2023 Pokemon Scarlet & Violet Ninetales ex (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401045610016.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401045610016.mp4",
-  "external_url": "https://www.dripshop.live/products/xsTSHNtZu9PlioTXN7CvA",
+  "name": "2021 POKEMON KOREAN SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON KOREAN SWORD & SHIELD EEVEE HEROES FA/JOLTEON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/88261012_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/88261012.mp4",
+  "external_url": "https://www.dripshop.live/products/_woz5xxXQiBVrNp3mWl4N",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "1401045610016",
+      "value": "88261012",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON KOREAN SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

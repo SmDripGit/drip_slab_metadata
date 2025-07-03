@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257169.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257169.mp4",
-  "external_url": "https://www.dripshop.live/products/po0C-wkt7X8CQRtMjPWRO",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111352367_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111352367.mp4",
+  "external_url": "https://www.dripshop.live/products/iSNx9-uJatYM9PQ4KKZLd",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109257169",
+      "value": "111352367",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

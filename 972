@@ -1,9 +1,9 @@
 {
-  "name": "2021 Pokemon Sword & Shield Cara Liss (CGC 9)",
-  "description": "2021 Pokemon Sword & Shield Cara Liss (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/3925894176.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/3925894176.mp4",
-  "external_url": "https://www.dripshop.live/products/oqTEwZH715y94C-4oD4Z4",
+  "name": "2023 Pokemon Scarlet & Violet Psyduck (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Psyduck (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001863041_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001863041.mp4",
+  "external_url": "https://www.dripshop.live/products/-IoYMtiMPCx9f16K8WZh8",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "3925894176",
+      "value": "6001863041",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

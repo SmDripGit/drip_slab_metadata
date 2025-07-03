@@ -1,0 +1,39 @@
+{
+  "name": "2006 EX Charmander (CGC 8)",
+  "description": "2006 EX Charmander (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036555069_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036555069.mp4",
+  "external_url": "https://www.dripshop.live/products/PQ7XUGADUf1y-dBetIg5r",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036555069",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2006",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "EX",
+      "display_type": "string"
+    }
+  ]
+}

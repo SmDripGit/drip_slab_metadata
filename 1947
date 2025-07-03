@@ -1,0 +1,39 @@
+{
+  "name": "2000 Original Series Sabrina's Mr. Mime (CGC 8)",
+  "description": "2000 Original Series Sabrina's Mr. Mime (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035585084_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035585084.mp4",
+  "external_url": "https://www.dripshop.live/products/TgzpLi91Z5c1zzDUpKo1s",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035585084",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Original Series",
+      "display_type": "string"
+    }
+  ]
+}

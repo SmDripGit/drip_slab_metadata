@@ -1,33 +1,38 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS MEWTWO & MEW GX (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS MEWTWO & MEW GX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/98848598.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/98848598.mp4",
-  "external_url": "https://www.dripshop.live/products/vB_wZX1tNKN-Fmdoyko0-",
+  "name": "2021 Pokemon Celebrations Elite Trainer Box Greninja â (CGC 9)",
+  "description": "2021 Pokemon Celebrations Elite Trainer Box Greninja â (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4169004019_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4169004019.mp4",
+  "external_url": "https://www.dripshop.live/products/_xubKmKhHbe4RDrwY3rPV",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "98848598",
+      "value": "4169004019",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Celebrations Elite Trainer Box",
       "display_type": "string"
     }
   ]

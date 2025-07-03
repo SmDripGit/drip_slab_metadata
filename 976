@@ -1,9 +1,9 @@
 {
-  "name": "1996 Pokemon Original Series Pokémon Flute (CGC MINT+ 9.5)",
-  "description": "1996 Pokemon Original Series Pokémon Flute (CGC MINT+ 9.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4303978029.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4303978029.mp4",
-  "external_url": "https://www.dripshop.live/products/3oFITmVep4DcRgdryrYpb",
+  "name": "2024 Pokemon Scarlet & Violet Ceruledge (CGC GEM MINT 10)",
+  "description": "2024 Pokemon Scarlet & Violet Ceruledge (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6021597142_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6021597142.mp4",
+  "external_url": "https://www.dripshop.live/products/nz3JkfLqAVlDxNSyU3JYS",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "4303978029",
+      "value": "6021597142",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT+ 9.5",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1996",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

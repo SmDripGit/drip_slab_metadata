@@ -1,0 +1,39 @@
+{
+  "name": "1999 1990s Ash and Pikachu (CGC 9)",
+  "description": "1999 1990s Ash and Pikachu (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001873143_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001873143.mp4",
+  "external_url": "https://www.dripshop.live/products/ZFuGaWhqAhLsNbX4B6TYV",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001873143",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "1990s",
+      "display_type": "string"
+    }
+  ]
+}

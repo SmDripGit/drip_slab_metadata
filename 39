@@ -1,9 +1,9 @@
 {
-  "name": "2014 POKEMON JAPANESE XY PROMO GRENINJA (PSA GEM MT 10)",
-  "description": "2014 POKEMON JAPANESE XY PROMO GRENINJA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110907712.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110907712.mp4",
-  "external_url": "https://www.dripshop.live/products/vbk8uKq9Ly5aEGMM2mxj8",
+  "name": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
+  "description": "2004 POKEMON EX HIDDEN LEGENDS JIRACHI-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/73713218_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/73713218.mp4",
+  "external_url": "https://www.dripshop.live/products/VqsRcTrhqMcr2uyKDYSNt",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110907712",
+      "value": "73713218",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2014",
+      "value": "2004",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX HIDDEN LEGENDS",
       "display_type": "string"
     }
   ]

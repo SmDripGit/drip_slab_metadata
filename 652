@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751012.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751012.mp4",
-  "external_url": "https://www.dripshop.live/products/CtPEfu3PRGsvql8A1rlIz",
+  "name": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343512_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343512.mp4",
+  "external_url": "https://www.dripshop.live/products/WGViE3HfNKfqSoq3UuQDA",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107751012",
+      "value": "109343512",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS",
       "display_type": "string"
     }
   ]

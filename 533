@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
-  "description": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109827990.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109827990.mp4",
-  "external_url": "https://www.dripshop.live/products/3RKIWBzIo8UPQeMy1GAwg",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310260_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310260.mp4",
+  "external_url": "https://www.dripshop.live/products/9abH4Hhmof0dtRCi6AXou",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109827990",
+      "value": "109310260",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

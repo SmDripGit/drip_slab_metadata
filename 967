@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LUMINEON V (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/LUMINEON V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233922.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233922.mp4",
-  "external_url": "https://www.dripshop.live/products/FlULw2Z5sxRfXXGUmwahS",
+  "name": "2019 Pokemon Hidden Fates Tin Raichu GX (CGC GEM MINT 10)",
+  "description": "2019 Pokemon Hidden Fates Tin Raichu GX (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6009800007_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6009800007.mp4",
+  "external_url": "https://www.dripshop.live/products/Qh2J2I-K7335be8nx19KW",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233922",
+      "value": "6009800007",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Hidden Fates Tin",
       "display_type": "string"
     }
   ]

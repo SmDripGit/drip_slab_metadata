@@ -1,9 +1,9 @@
 {
-  "name": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON (PSA NM 7)",
-  "description": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556474.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556474.mp4",
-  "external_url": "https://www.dripshop.live/products/ZFA0rP-acIz_7S8__WJ5D",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750929_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750929.mp4",
+  "external_url": "https://www.dripshop.live/products/53fqX6s3IlqSJ0AAhXxzM",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556474",
+      "value": "107750929",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2004",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

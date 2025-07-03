@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON JAPANESE SUN & MOON DETECTIVE PIKACHU GRENINJA GX (PSA GEM MT 10)",
-  "description": "2019 POKEMON JAPANESE SUN & MOON DETECTIVE PIKACHU GRENINJA GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102216386.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102216386.mp4",
-  "external_url": "https://www.dripshop.live/products/kO5tUyvhtrpQT7rRDWLFx",
+  "name": "2002 POKEMON LEGENDARY COLLECTION MEWTWO (PSA EX 5)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION MEWTWO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711467_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711467.mp4",
+  "external_url": "https://www.dripshop.live/products/1QExeDSNKiAQS-ntwXoWG",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102216386",
+      "value": "116711467",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON LEGENDARY COLLECTION",
       "display_type": "string"
     }
   ]

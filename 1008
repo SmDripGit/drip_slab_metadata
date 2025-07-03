@@ -1,0 +1,39 @@
+{
+  "name": "2023 Pokemon Scarlet & Violet Zapdos ex (CGC 9)",
+  "description": "2023 Pokemon Scarlet & Violet Zapdos ex (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6033127061_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6033127061.mp4",
+  "external_url": "https://www.dripshop.live/products/eHWzI0R1-hu5Bp1w5i5rM",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6033127061",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2023",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
+      "display_type": "string"
+    }
+  ]
+}

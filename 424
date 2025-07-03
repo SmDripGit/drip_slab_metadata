@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO LEAFEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126054.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126054.mp4",
-  "external_url": "https://www.dripshop.live/products/ovZ_UYnZAWtH-M89L_FkS",
+  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/RAYQUAZA VMAX (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST FA/RAYQUAZA VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71767481_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71767481.mp4",
+  "external_url": "https://www.dripshop.live/products/FSHXzUeC6rf1OnHDHslS_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126054",
+      "value": "71767481",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD SILVER TEMPEST",
       "display_type": "string"
     }
   ]

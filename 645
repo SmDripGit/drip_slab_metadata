@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SFA EN-SHROUDED FABLE PERSIAN (PSA MINT 9)",
-  "description": "2024 POKEMON SFA EN-SHROUDED FABLE PERSIAN (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116892655.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116892655.mp4",
-  "external_url": "https://www.dripshop.live/products/BDf8uJSpr_KxSnp61ELnY",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD FUSION ARTS FA/GENESECT V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD FUSION ARTS FA/GENESECT V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101398676_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101398676.mp4",
+  "external_url": "https://www.dripshop.live/products/hSbviJ9VhyBu8c9KVjuHv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116892655",
+      "value": "101398676",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD FUSION ARTS",
       "display_type": "string"
     }
   ]

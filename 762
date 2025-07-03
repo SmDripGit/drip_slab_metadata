@@ -1,33 +1,38 @@
 {
-  "name": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 8.5)",
-  "description": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019629019.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019629019.mp4",
-  "external_url": "https://www.dripshop.live/products/m54BIG1Not5ZRC8G9qLhf",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA RADIANT JIRACHI (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103347657_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103347657.mp4",
+  "external_url": "https://www.dripshop.live/products/7-Tfh8D_cHaF5zyHazDqY",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6019629019",
+      "value": "103347657",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD INCANDESCENT ARCANA",
       "display_type": "string"
     }
   ]

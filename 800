@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE IRON THORNS ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE IRON THORNS ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/94057383.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/94057383.mp4",
-  "external_url": "https://www.dripshop.live/products/zu6B7rwWGxaJo-j_oqXpQ",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177007_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177007.mp4",
+  "external_url": "https://www.dripshop.live/products/ecU2ovGps8XH-XEe9Kcug",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "94057383",
+      "value": "106177007",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

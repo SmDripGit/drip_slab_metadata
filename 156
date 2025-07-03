@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236174.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236174.mp4",
-  "external_url": "https://www.dripshop.live/products/aCPKonvG7j1kBUnT8wB_k",
+  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
+  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS LEAFEON ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115573710_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115573710.mp4",
+  "external_url": "https://www.dripshop.live/products/sL7GrI2ASjnLiLfaeLGRY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106236174",
+      "value": "115573710",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PRE EN-PRISMATIC EVOLUTIONS",
       "display_type": "string"
     }
   ]

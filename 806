@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/IRIDA (PSA NM-MT 8)",
-  "description": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/IRIDA (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104241796.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104241796.mp4",
-  "external_url": "https://www.dripshop.live/products/xSVpNNKZP2Y9Tdgn6TWfx",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925571_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925571.mp4",
+  "external_url": "https://www.dripshop.live/products/awkF-7-jTDOa2YkolBp-L",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104241796",
+      "value": "107925571",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

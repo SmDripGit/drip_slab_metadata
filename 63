@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/SYLVEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/SYLVEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108984720.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108984720.mp4",
-  "external_url": "https://www.dripshop.live/products/5WT13aQMgfDi2uyIykhXJ",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 VENUSAUR ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/88101593_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/88101593.mp4",
+  "external_url": "https://www.dripshop.live/products/3EMmEjgu3KZGG9k5_J_of",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108984720",
+      "value": "88101593",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

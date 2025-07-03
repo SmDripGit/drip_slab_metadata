@@ -1,33 +1,38 @@
 {
-  "name": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
-  "description": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6029039167.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6029039167.mp4",
-  "external_url": "https://www.dripshop.live/products/gRyd3rjDPzpbIMfE3nhmA",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257157_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257157.mp4",
+  "external_url": "https://www.dripshop.live/products/QXzIJ1Kls3eU-6dZijzN-",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6029039167",
+      "value": "109257157",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT+ 9.5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

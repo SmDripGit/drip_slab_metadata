@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON JAPANESE SUN & MOON DREAM LEAGUE RESHIRAM & ZEKROM GX (PSA GEM MT 10)",
-  "description": "2019 POKEMON JAPANESE SUN & MOON DREAM LEAGUE RESHIRAM & ZEKROM GX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100294208.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100294208.mp4",
-  "external_url": "https://www.dripshop.live/products/d2cDE74Kx2Tv_1z6-vBhX",
+  "name": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER MAGNETON (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER MAGNETON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226331_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226331.mp4",
+  "external_url": "https://www.dripshop.live/products/kVWslPwZzPlq5L8pnTASc",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100294208",
+      "value": "111226331",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8-SUPER ELECTRIC BREAKER",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "2000 Pokemon Original Series Dark Alakazam (CGC 8.5)",
-  "description": "2000 Pokemon Original Series Dark Alakazam (CGC 8.5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/3853103012.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/3853103012.mp4",
-  "external_url": "https://www.dripshop.live/products/zUFKxH2BSm-gGTCyPHqiz",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex BLOODMOON URSALUNA ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex BLOODMOON URSALUNA ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109244752_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109244752.mp4",
+  "external_url": "https://www.dripshop.live/products/6jkrQ7BDs7pNJskmZgiR3",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "3853103012",
+      "value": "109244752",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8.5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA MINT 9)",
-  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST HO-OH V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226315.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226315.mp4",
-  "external_url": "https://www.dripshop.live/products/yArtI9GNYzZU3gyR905qe",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA APPLETUN (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103733004_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103733004.mp4",
+  "external_url": "https://www.dripshop.live/products/qwi1c7rib-yJJdX-eQnj3",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111226315",
+      "value": "103733004",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

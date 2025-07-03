@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL AERODACTYL-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON FOSSIL AERODACTYL-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/75766321.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/75766321.mp4",
-  "external_url": "https://www.dripshop.live/products/ZBmbM6tGw1qjEj6uHDVJ1",
+  "name": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA NM 7)",
+  "description": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556466_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556466.mp4",
+  "external_url": "https://www.dripshop.live/products/WBDj1zaQF8as9B5TDjBUt",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "75766321",
+      "value": "116556466",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JUNGLE",
       "display_type": "string"
     }
   ]

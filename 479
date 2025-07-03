@@ -1,9 +1,9 @@
 {
-  "name": "2020 POKEMON JAPANESE SWORD & SHIELD CHARIZARD VMAX STARTER SET FA/CHARIZARD VMAX (PSA GEM MT 10)",
-  "description": "2020 POKEMON JAPANESE SWORD & SHIELD CHARIZARD VMAX STARTER SET FA/CHARIZARD VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104881059.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104881059.mp4",
-  "external_url": "https://www.dripshop.live/products/yks78LXSSUbfrEwXw-9k2",
+  "name": "2001 POKEMON NEO DISCOVERY KABUTOPS-HOLO (PSA NM-MT 8)",
+  "description": "2001 POKEMON NEO DISCOVERY KABUTOPS-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381879_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381879.mp4",
+  "external_url": "https://www.dripshop.live/products/2L7Trm4NeNYGZMReb__i1",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104881059",
+      "value": "108381879",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2020",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO DISCOVERY",
       "display_type": "string"
     }
   ]

@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105922584.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105922584.mp4",
-  "external_url": "https://www.dripshop.live/products/huYZWNzfc3EFGgtNDJlgg",
+  "name": "2005 Pokemon EX Skarmory (CGC 9)",
+  "description": "2005 Pokemon EX Skarmory (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4054861288_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4054861288.mp4",
+  "external_url": "https://www.dripshop.live/products/at1HMiu6F5MkuO9p3lukY",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "105922584",
+      "value": "4054861288",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2005",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon EX",
       "display_type": "string"
     }
   ]

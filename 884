@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST LUGIA V (PSA MINT 9)",
-  "description": "2022 POKEMON SWORD & SHIELD SILVER TEMPEST LUGIA V (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110991184.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110991184.mp4",
-  "external_url": "https://www.dripshop.live/products/CiPnSMfrd3hLNTgMe9hgD",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/SOLROCK (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/SOLROCK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/85312620_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/85312620.mp4",
+  "external_url": "https://www.dripshop.live/products/dNIvjyxjFqJIT4BF8e5Nb",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110991184",
+      "value": "85312620",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

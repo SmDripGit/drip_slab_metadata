@@ -1,9 +1,9 @@
 {
-  "name": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
-  "description": "2003 POKEMON EX RUBY & SAPPHIRE DELCATTY-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711460.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711460.mp4",
-  "external_url": "https://www.dripshop.live/products/nbVBKd3_fM8JSfDS-Xj-8",
+  "name": "2000 POKEMON JAPANESE NEO 3 CELEBI-HOLO (PSA GEM MT 10)",
+  "description": "2000 POKEMON JAPANESE NEO 3 CELEBI-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98712165_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98712165.mp4",
+  "external_url": "https://www.dripshop.live/products/9yeuNLe1TfIYBfP9q3I6c",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711460",
+      "value": "98712165",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 3",
       "display_type": "string"
     }
   ]

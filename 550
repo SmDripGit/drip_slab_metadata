@@ -1,33 +1,38 @@
 {
-  "name": "2021 Pokemon Sword & Shield - Black Star Promos ____'s Pikachu (CGC GEM MINT 10)",
-  "description": "2021 Pokemon Sword & Shield - Black Star Promos ____'s Pikachu (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4067084173.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4067084173.mp4",
-  "external_url": "https://www.dripshop.live/products/rXcBnIh1Ock0nW_o-l-kT",
+  "name": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/PIKACHU (PSA MINT 9)",
+  "description": "2022 POKEMON SWORD & SHIELD LOST ORIGIN FA/PIKACHU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114332499_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114332499.mp4",
+  "external_url": "https://www.dripshop.live/products/ZjJPa6V8oeYrrJyAzvL9y",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4067084173",
+      "value": "114332499",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD LOST ORIGIN",
       "display_type": "string"
     }
   ]

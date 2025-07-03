@@ -1,7 +1,7 @@
 {
   "name": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
   "description": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254014.jpg",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254014_front_v1.jpg",
   "video": "https://cdn.dripshop.live/dripnfts/slabs/109254014.mp4",
   "external_url": "https://www.dripshop.live/products/t0r8Hla-wlZYC1Mp18ujj",
   "attributes": [
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX",
       "display_type": "string"
     }
   ]

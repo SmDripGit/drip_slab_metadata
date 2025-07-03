@@ -1,33 +1,38 @@
 {
-  "name": "2019 Pokemon Sun & Moon Rayquaza GX (CGC PRISTINE 10)",
-  "description": "2019 Pokemon Sun & Moon Rayquaza GX (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035466029.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035466029.mp4",
-  "external_url": "https://www.dripshop.live/products/59gZpCKI81ag7wrZZ4BGY",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/101034765_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/101034765.mp4",
+  "external_url": "https://www.dripshop.live/products/xfBOn-KBvDsp-cz5VQHZa",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6035466029",
+      "value": "101034765",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

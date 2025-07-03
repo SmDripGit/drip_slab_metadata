@@ -1,9 +1,9 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Ho-Oh ex (CGC 9)",
-  "description": "2023 Pokemon Scarlet & Violet Ho-Oh ex (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6022704132.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6022704132.mp4",
-  "external_url": "https://www.dripshop.live/products/d4XNuIOL4D2lGKvGiRnfh",
+  "name": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
+  "description": "2021 Pokemon Sword & Shield Jolteon V (CGC MINT+ 9.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6029039167_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6029039167.mp4",
+  "external_url": "https://www.dripshop.live/products/gRyd3rjDPzpbIMfE3nhmA",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "6022704132",
+      "value": "6029039167",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "MINT+ 9.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield",
       "display_type": "string"
     }
   ]

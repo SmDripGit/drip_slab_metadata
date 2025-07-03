@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex RAGING BOLT ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254041.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109254041.mp4",
-  "external_url": "https://www.dripshop.live/products/epxOuIMREYCXKIbdJqPkk",
+  "name": "2015 POKEMON JAPANESE NOIVERN BREAK EVOLUTION PACK NOIVERN BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE NOIVERN BREAK EVOLUTION PACK NOIVERN BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061852_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061852.mp4",
+  "external_url": "https://www.dripshop.live/products/qHhw1gnsjdPvVEKyV2iML",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109254041",
+      "value": "109061852",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NOIVERN BREAK EVOLUTION PACK",
       "display_type": "string"
     }
   ]

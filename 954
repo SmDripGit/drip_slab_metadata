@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON PAR EN-PARADOX RIFT TOEDSCRUEL (PSA NM-MT 8)",
-  "description": "2023 POKEMON PAR EN-PARADOX RIFT TOEDSCRUEL (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97390305.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97390305.mp4",
-  "external_url": "https://www.dripshop.live/products/pnyZdJnNgVrf1ojA-uG3F",
+  "name": "1996 Pokemon Original Series Ninetales (CGC 7)",
+  "description": "1996 Pokemon Original Series Ninetales (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4132322258_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4132322258.mp4",
+  "external_url": "https://www.dripshop.live/products/z74bwqnjpmi_gF0ktaOQ-",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "97390305",
+      "value": "4132322258",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "1996",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Original Series",
       "display_type": "string"
     }
   ]

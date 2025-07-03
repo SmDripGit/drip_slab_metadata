@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7-STELLAR MIRACLE HYDRAPPLE ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102415404.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102415404.mp4",
-  "external_url": "https://www.dripshop.live/products/lLKT42rV_1snyN3WQNxkM",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS ALOLAN EXEGGUTOR ex (PSA MINT 9)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS ALOLAN EXEGGUTOR ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114537248_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114537248.mp4",
+  "external_url": "https://www.dripshop.live/products/W4t_AgvISSZY5ADrOQfbg",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102415404",
+      "value": "114537248",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

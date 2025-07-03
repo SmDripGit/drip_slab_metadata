@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MEWTWO VSTAR (PSA GEM MT 10)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/MEWTWO VSTAR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/99650091.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/99650091.mp4",
-  "external_url": "https://www.dripshop.live/products/jcmNISUzvnrdxOLMMvhCa",
+  "name": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION PIKACHU (PSA MINT 9)",
+  "description": "2021 POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION PIKACHU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/92889953_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/92889953.mp4",
+  "external_url": "https://www.dripshop.live/products/jvWYqnmxKra4SAdMTLYn2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "99650091",
+      "value": "92889953",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON CELEBRATIONS ULTRA-PREMIUM COLLECTION",
       "display_type": "string"
     }
   ]

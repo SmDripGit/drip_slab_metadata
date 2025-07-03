@@ -1,33 +1,38 @@
 {
-  "name": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC GEM MINT 10)",
-  "description": "2022 Pokemon Sword & Shield Charizard VSTAR (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760010.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760010.mp4",
-  "external_url": "https://www.dripshop.live/products/ojU1pRL5y5NuXP03ZtwXX",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310259_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310259.mp4",
+  "external_url": "https://www.dripshop.live/products/Ti1trfdLCHqcCnZp5F0ei",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4306760010",
+      "value": "109310259",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

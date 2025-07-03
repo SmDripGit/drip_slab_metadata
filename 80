@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES GARDEVOIR ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110035112.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110035112.mp4",
-  "external_url": "https://www.dripshop.live/products/FUlN59nKqxIgLFZ_21qhj",
+  "name": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
+  "description": "2023 POKEMON MEW EN-151 BLASTOISE ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/98935498_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/98935498.mp4",
+  "external_url": "https://www.dripshop.live/products/wuIXJRujQQERNO3Ncy0MI",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110035112",
+      "value": "98935498",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

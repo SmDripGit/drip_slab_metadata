@@ -1,0 +1,39 @@
+{
+  "name": "2003 e-Series Magnemite (CGC 9)",
+  "description": "2003 e-Series Magnemite (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036708266_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036708266.mp4",
+  "external_url": "https://www.dripshop.live/products/1p8Ks6XbnK70-SgjgkSTB",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036708266",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2003",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "e-Series",
+      "display_type": "string"
+    }
+  ]
+}

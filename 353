@@ -1,9 +1,9 @@
 {
-  "name": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
-  "description": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109467314.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109467314.mp4",
-  "external_url": "https://www.dripshop.live/products/5Gsk7peRBYsGXxXuIsa93",
+  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES SCIZOR (PSA MINT 9)",
+  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES SCIZOR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494287_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494287.mp4",
+  "external_url": "https://www.dripshop.live/products/Uja2ffBM26-DlmwM6r5rq",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109467314",
+      "value": "115494287",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2006",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON OBF EN-OBSIDIAN FLAMES",
       "display_type": "string"
     }
   ]

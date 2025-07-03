@@ -1,33 +1,38 @@
 {
-  "name": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 9)",
-  "description": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019640117.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019640117.mp4",
-  "external_url": "https://www.dripshop.live/products/Y6yLxib3cSN1rbu7nBJbV",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110074879_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110074879.mp4",
+  "external_url": "https://www.dripshop.live/products/ue6IhvMxeEMm2fWrcVGyK",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6019640117",
+      "value": "110074879",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2001",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

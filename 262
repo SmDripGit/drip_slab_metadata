@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE XY PROMO BLAZIKEN EX (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE XY PROMO BLAZIKEN EX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257160.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257160.mp4",
-  "external_url": "https://www.dripshop.live/products/9KWz_jX8E3AYZqdJyZ6rH",
+  "name": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
+  "description": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911240_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911240.mp4",
+  "external_url": "https://www.dripshop.live/products/zAPvo8yE2tPbsTwja2pas",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109257160",
+      "value": "115911240",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO 3",
       "display_type": "string"
     }
   ]

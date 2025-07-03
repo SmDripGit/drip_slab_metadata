@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/98843122.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/98843122.mp4",
-  "external_url": "https://www.dripshop.live/products/0ra1eosKHRvFtcsqVI_Do",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105922584_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105922584.mp4",
+  "external_url": "https://www.dripshop.live/products/huYZWNzfc3EFGgtNDJlgg",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "98843122",
+      "value": "105922584",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

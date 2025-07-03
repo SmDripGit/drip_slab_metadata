@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JTG EN-JOURNEY TOGETHER ARTICUNO (PSA MINT 9)",
-  "description": "2025 POKEMON JTG EN-JOURNEY TOGETHER ARTICUNO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116331578.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116331578.mp4",
-  "external_url": "https://www.dripshop.live/products/7UIqX9Jnj5TFwJzsgbhJD",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102134255_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102134255.mp4",
+  "external_url": "https://www.dripshop.live/products/jDr0yyvk8O0AXBIXWnmml",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116331578",
+      "value": "102134255",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

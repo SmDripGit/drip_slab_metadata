@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/GLACEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/GLACEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062661.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062661.mp4",
-  "external_url": "https://www.dripshop.live/products/EWMQ1WDAGURs1uCiJ6Onm",
+  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED LUXRAY (PSA GEM MT 10)",
+  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED LUXRAY (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126695_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126695.mp4",
+  "external_url": "https://www.dripshop.live/products/b65VXhiMCi8J9mk-T-eDP",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062661",
+      "value": "109126695",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAL EN-PALDEA EVOLVED",
       "display_type": "string"
     }
   ]

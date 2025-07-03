@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW VMAX (PSA GEM MT 10)",
-  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/94448557.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/94448557.mp4",
-  "external_url": "https://www.dripshop.live/products/mEi-6ws8Y6gdl0qrzixsv",
+  "name": "2018 POKEMON SUN & MOON ULTRA PRISM FA/CYNTHIA (PSA MINT 9)",
+  "description": "2018 POKEMON SUN & MOON ULTRA PRISM FA/CYNTHIA (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108692279_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108692279.mp4",
+  "external_url": "https://www.dripshop.live/products/S0-7-oXz_7kyNkcjbPHgl",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "94448557",
+      "value": "108692279",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2018",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON ULTRA PRISM",
       "display_type": "string"
     }
   ]

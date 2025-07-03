@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV0D-EX STARTER SET STEVEN'S BELDUM & METAGROSS EX STEVEN'S BELDUM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109254015.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109254015.mp4",
-  "external_url": "https://www.dripshop.live/products/Jkvna45mgDEP1IqsR_-G5",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PROFESSOR BURNET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257169_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257169.mp4",
+  "external_url": "https://www.dripshop.live/products/po0C-wkt7X8CQRtMjPWRO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109254015",
+      "value": "109257169",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

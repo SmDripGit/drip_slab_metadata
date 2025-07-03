@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SFA EN-SHROUDED FABLE BEWEAR (PSA MINT 9)",
-  "description": "2024 POKEMON SFA EN-SHROUDED FABLE BEWEAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104810919.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104810919.mp4",
-  "external_url": "https://www.dripshop.live/products/DTBOH9w7zNMh6VBI5qr1s",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DRAGAPULT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750911_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750911.mp4",
+  "external_url": "https://www.dripshop.live/products/PDvzAOymxLd_CJ4dyh6WX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104810919",
+      "value": "107750911",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

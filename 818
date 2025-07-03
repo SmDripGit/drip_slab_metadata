@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ONIX (PSA MINT 9)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 ONIX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/85125573.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/85125573.mp4",
-  "external_url": "https://www.dripshop.live/products/PiZolpjXuOqkyQvtq6iwv",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107705411_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107705411.mp4",
+  "external_url": "https://www.dripshop.live/products/ApfNwJiH0y1RZXFiZvc_M",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "85125573",
+      "value": "107705411",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

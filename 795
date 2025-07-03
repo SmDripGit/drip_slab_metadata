@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SFA EN-SHROUDED FABLE DUSKNOIR (PSA MINT 9)",
-  "description": "2024 POKEMON SFA EN-SHROUDED FABLE DUSKNOIR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106276815.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106276815.mp4",
-  "external_url": "https://www.dripshop.live/products/2yfPZB6O56bgjf4qu24FX",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236177_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236177.mp4",
+  "external_url": "https://www.dripshop.live/products/H3ekQsYH42A-KcVHmrKqw",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106276815",
+      "value": "106236177",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

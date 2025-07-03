@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JAPANESE GYM 2 GIOVANNI'S MACHAMP (PSA MINT 9)",
-  "description": "1999 POKEMON JAPANESE GYM 2 GIOVANNI'S MACHAMP (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/75766296.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/75766296.mp4",
-  "external_url": "https://www.dripshop.live/products/4XR-AOp_8-Uac7JHOHLNa",
+  "name": "2000 POKEMON ROCKET DARK ARBOK-HOLO (PSA MINT 9)",
+  "description": "2000 POKEMON ROCKET DARK ARBOK-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381890_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381890.mp4",
+  "external_url": "https://www.dripshop.live/products/Dp2AzTuslF0MSc7KFhIug",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "75766296",
+      "value": "108381890",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON ROCKET",
       "display_type": "string"
     }
   ]

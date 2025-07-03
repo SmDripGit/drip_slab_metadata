@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV-P PROMO DRAGONITE EX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343553.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343553.mp4",
-  "external_url": "https://www.dripshop.live/products/RWwOMS7ItSuKVWldkUiKY",
+  "name": "2024 POKEMON SCR EN-STELLAR CROWN DACHSBUN ex (PSA MINT 9)",
+  "description": "2024 POKEMON SCR EN-STELLAR CROWN DACHSBUN ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102788135_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102788135.mp4",
+  "external_url": "https://www.dripshop.live/products/3UC4doCTLZKy1vlHAGyQC",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343553",
+      "value": "102788135",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SCR EN-STELLAR CROWN",
       "display_type": "string"
     }
   ]

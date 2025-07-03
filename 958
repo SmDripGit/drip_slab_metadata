@@ -1,33 +1,38 @@
 {
-  "name": "2023 POKEMON OBF EN-OBSIDIAN FLAMES LARVITAR (PSA MINT 9)",
-  "description": "2023 POKEMON OBF EN-OBSIDIAN FLAMES LARVITAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972024.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972024.mp4",
-  "external_url": "https://www.dripshop.live/products/sg3_taL98tXDMR-csN1NK",
+  "name": "2019 Pokemon Old Maid Pikachu (CGC GEM MINT 10)",
+  "description": "2019 Pokemon Old Maid Pikachu (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4198953021_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4198953021.mp4",
+  "external_url": "https://www.dripshop.live/products/CEIAl6nyw_q8_G9_Lo37x",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972024",
+      "value": "4198953021",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Old Maid",
       "display_type": "string"
     }
   ]

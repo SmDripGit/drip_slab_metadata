@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES BLAINE'S PONYTA (PSA NM-MT 8)",
-  "description": "2000 POKEMON GYM HEROES BLAINE'S PONYTA (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107813730.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107813730.mp4",
-  "external_url": "https://www.dripshop.live/products/VwrzhwwtlMf6Ldh7bwvZe",
+  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/CHARIZARD VSTAR (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/CHARIZARD VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97955091_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97955091.mp4",
+  "external_url": "https://www.dripshop.live/products/jJwvrghvR6XGjUkDlUcus",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107813730",
+      "value": "97955091",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2007 Diamond & Pearl Ivysaur (CGC 8)",
+  "description": "2007 Diamond & Pearl Ivysaur (CGC 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036562225_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036562225.mp4",
+  "external_url": "https://www.dripshop.live/products/yeXc91FrBo9TTsGvT03uU",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036562225",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2007",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Diamond & Pearl",
+      "display_type": "string"
+    }
+  ]
+}

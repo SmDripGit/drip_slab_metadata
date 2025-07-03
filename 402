@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/VAPOREON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/VAPOREON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062667.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062667.mp4",
-  "external_url": "https://www.dripshop.live/products/YqfxKBDRMWZGam-QFfpgI",
+  "name": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/SR CALYREX VMAX (PSA MINT 9)",
+  "description": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/SR CALYREX VMAX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/112147697_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/112147697.mp4",
+  "external_url": "https://www.dripshop.live/products/tsYKaB9ABfw3b1ExJFrr9",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062667",
+      "value": "112147697",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD ASTRAL RADIANCE",
       "display_type": "string"
     }
   ]

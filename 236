@@ -1,9 +1,9 @@
 {
-  "name": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
-  "description": "2002 POKEMON JAPANESE WIND FROM THE SEA SEADRA (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/77522605.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/77522605.mp4",
-  "external_url": "https://www.dripshop.live/products/D8LSniGqG0tyHrHcemRST",
+  "name": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/MACHAMP VMAX (PSA GEM MT 10)",
+  "description": "2022 POKEMON SWORD & SHIELD ASTRAL RADIANCE FA/MACHAMP VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108368222_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108368222.mp4",
+  "external_url": "https://www.dripshop.live/products/FK7rGlVXBrLQKSqgIqI0A",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "77522605",
+      "value": "108368222",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD ASTRAL RADIANCE",
       "display_type": "string"
     }
   ]

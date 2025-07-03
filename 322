@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
-  "description": "2000 POKEMON JAPANESE NEO 3 HOUNDOOM-HOLO (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115911240.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115911240.mp4",
-  "external_url": "https://www.dripshop.live/products/zAPvo8yE2tPbsTwja2pas",
+  "name": "2000 POKEMON GYM CHALLENGE SABRINA-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON GYM CHALLENGE SABRINA-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981399_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981399.mp4",
+  "external_url": "https://www.dripshop.live/products/5Y5fnbNYdLSL2DIReDWPs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115911240",
+      "value": "111981399",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM CHALLENGE",
       "display_type": "string"
     }
   ]

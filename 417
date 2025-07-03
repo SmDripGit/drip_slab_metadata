@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126050.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126050.mp4",
-  "external_url": "https://www.dripshop.live/products/wnwdsDzyOqkRvCe_JtlwI",
+  "name": "1996 POKEMON JAPANESE BASIC NIDOKING-HOLO (PSA MINT 9)",
+  "description": "1996 POKEMON JAPANESE BASIC NIDOKING-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972683_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972683.mp4",
+  "external_url": "https://www.dripshop.live/products/oxi0qLlpyvEEo3OakuAtZ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126050",
+      "value": "82972683",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "1996",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE BASIC",
       "display_type": "string"
     }
   ]

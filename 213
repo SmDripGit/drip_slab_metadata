@@ -1,9 +1,9 @@
 {
-  "name": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA EX-MT 6)",
-  "description": "2002 POKEMON EXPEDITION VENUSAUR-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/86936497.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/86936497.mp4",
-  "external_url": "https://www.dripshop.live/products/BaVl2TCvh9FhijzTQDxVL",
+  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/ZINNIA'S RESOLVE (PSA GEM MT 10)",
+  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/ZINNIA'S RESOLVE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108362582_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108362582.mp4",
+  "external_url": "https://www.dripshop.live/products/WjLreKFsD8RxxKEi3WGT5",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "86936497",
+      "value": "108362582",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2002",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD EVOLVING SKIES",
       "display_type": "string"
     }
   ]

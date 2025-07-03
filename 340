@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA ALOLAN EXEGGUTOR ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101034765.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101034765.mp4",
-  "external_url": "https://www.dripshop.live/products/xfBOn-KBvDsp-cz5VQHZa",
+  "name": "2000 POKEMON JAPANESE NEO SLOWKING-HOLO (PSA MINT 9)",
+  "description": "2000 POKEMON JAPANESE NEO SLOWKING-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71294367_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71294367.mp4",
+  "external_url": "https://www.dripshop.live/products/5O3oLddIcYDQXt92gQn0S",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101034765",
+      "value": "71294367",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE NEO",
       "display_type": "string"
     }
   ]

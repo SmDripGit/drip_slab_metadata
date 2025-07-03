@@ -1,33 +1,38 @@
 {
-  "name": "2025 Pokemon Scarlet & Violet Team Rocket's Houndoom (CGC PRISTINE 10)",
-  "description": "2025 Pokemon Scarlet & Violet Team Rocket's Houndoom (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6050080216.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6050080216.mp4",
-  "external_url": "https://www.dripshop.live/products/4YcNvzPXSmgH_auQ2R5Qh",
+  "name": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "description": "2017 POKEMON SUN & MOON FA/UMBREON GX (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310256_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310256.mp4",
+  "external_url": "https://www.dripshop.live/products/Jws3wnrRCTTuWk0baB1Nc",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6050080216",
+      "value": "109310256",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON",
       "display_type": "string"
     }
   ]

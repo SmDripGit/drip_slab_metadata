@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/DUNSPARCE (PSA GEM MT 10)",
-  "description": "2022 POKEMON JAPANESE SWORD & SHIELD VSTAR UNIVERSE FA/DUNSPARCE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/85713470.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/85713470.mp4",
-  "external_url": "https://www.dripshop.live/products/ynzsHFcuyaT9LprV1IuHK",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S BELLIBOLT ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S BELLIBOLT ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751001_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751001.mp4",
+  "external_url": "https://www.dripshop.live/products/m9-wATVz4lNG3s-skEWCF",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "85713470",
+      "value": "107751001",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

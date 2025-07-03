@@ -1,9 +1,9 @@
 {
-  "name": "2016 POKEMON XY EVOLUTIONS MISTY'S DETERMINATION (PSA MINT 9)",
-  "description": "2016 POKEMON XY EVOLUTIONS MISTY'S DETERMINATION (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97512126.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97512126.mp4",
-  "external_url": "https://www.dripshop.live/products/QPCywHXdsJfQYpzo9Ey6y",
+  "name": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "description": "2017 POKEMON SM BLACK STAR PROMO FA/CHARIZARD GX (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310253_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310253.mp4",
+  "external_url": "https://www.dripshop.live/products/OPKCYVrnr5O5N4-oMrEKR",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "97512126",
+      "value": "109310253",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2016",
+      "value": "2017",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SM BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

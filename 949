@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAR EN-PARADOX RIFT IRON JUGULIS (PSA MINT 9)",
-  "description": "2023 POKEMON PAR EN-PARADOX RIFT IRON JUGULIS (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100245756.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100245756.mp4",
-  "external_url": "https://www.dripshop.live/products/qs9vn379Y95P1_omBVRKi",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex PALAFIN ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107158589_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107158589.mp4",
+  "external_url": "https://www.dripshop.live/products/tWU65ja1V9dV_EyoR-MeD",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100245756",
+      "value": "107158589",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

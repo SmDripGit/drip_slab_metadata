@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 2 PROMO UMBREON (PSA EX 5)",
-  "description": "2000 POKEMON JAPANESE NEO 2 PROMO UMBREON (PSA EX 5)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556471.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556471.mp4",
-  "external_url": "https://www.dripshop.live/products/AErMSzZQMP1igtR3KmOEN",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/FLAREON V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/FLAREON V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195101_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195101.mp4",
+  "external_url": "https://www.dripshop.live/products/N0f4HuwIJQx3OJIuwXH4m",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556471",
+      "value": "102195101",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX 5",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES",
       "display_type": "string"
     }
   ]

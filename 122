@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex SYLVEON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108832074.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108832074.mp4",
-  "external_url": "https://www.dripshop.live/products/xDMcmcVtW87enV_3bu6Ze",
+  "name": "2000 POKEMON GAME BASE II PIDGEOT-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON GAME BASE II PIDGEOT-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108431015_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108431015.mp4",
+  "external_url": "https://www.dripshop.live/products/OzlkTc7SZR6lprC1eSjF9",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108832074",
+      "value": "108431015",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

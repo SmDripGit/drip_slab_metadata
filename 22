@@ -1,9 +1,9 @@
 {
-  "name": "2005 POKEMON EX EMERALD FARFETCH'D-HOLO (PSA GEM MT 10)",
-  "description": "2005 POKEMON EX EMERALD FARFETCH'D-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381871.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381871.mp4",
-  "external_url": "https://www.dripshop.live/products/7eQV68wGAZyjeyakjYaZh",
+  "name": "2019 POKEMON SUN & MOON HIDDEN FATES FA/UMBREON GX (PSA GEM MT 10)",
+  "description": "2019 POKEMON SUN & MOON HIDDEN FATES FA/UMBREON GX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/54017908_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/54017908.mp4",
+  "external_url": "https://www.dripshop.live/products/drK_ABY2bfdz2tl7cH-Ms",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381871",
+      "value": "54017908",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2005",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON HIDDEN FATES",
       "display_type": "string"
     }
   ]

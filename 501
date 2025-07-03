@@ -1,33 +1,38 @@
 {
-  "name": "1996 Pokemon Original Series Ninetales (CGC 7)",
-  "description": "1996 Pokemon Original Series Ninetales (CGC 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4132322258.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4132322258.mp4",
-  "external_url": "https://www.dripshop.live/products/z74bwqnjpmi_gF0ktaOQ-",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126046_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126046.mp4",
+  "external_url": "https://www.dripshop.live/products/7UCEczY5ufHQz2GoE5NVP",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4132322258",
+      "value": "109126046",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1996",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

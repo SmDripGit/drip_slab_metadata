@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SM BLACK STAR PROMO FA/CELEBI & VENUSR.GX (PSA MINT 9)",
-  "description": "2019 POKEMON SM BLACK STAR PROMO FA/CELEBI & VENUSR.GX (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/83564263.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/83564263.mp4",
-  "external_url": "https://www.dripshop.live/products/F6AI5lL3pFyqqjipNzaXQ",
+  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED MEOWSCARADA ex (PSA GEM MT 10)",
+  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED MEOWSCARADA ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972021_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972021.mp4",
+  "external_url": "https://www.dripshop.live/products/1KxEj_dpx0q2HTGI-I2hv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "83564263",
+      "value": "82972021",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAL EN-PALDEA EVOLVED",
       "display_type": "string"
     }
   ]

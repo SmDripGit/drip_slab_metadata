@@ -1,33 +1,38 @@
 {
-  "name": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061857.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061857.mp4",
-  "external_url": "https://www.dripshop.live/products/cZy0FOihl24lTIq-Y-6Ny",
+  "name": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 8.5)",
+  "description": "2001 Pokemon Spell of the Unown: Entei Entei (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019629019_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019629019.mp4",
+  "external_url": "https://www.dripshop.live/products/m54BIG1Not5ZRC8G9qLhf",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061857",
+      "value": "6019629019",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "8.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2001",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Spell of the Unown: Entei",
       "display_type": "string"
     }
   ]

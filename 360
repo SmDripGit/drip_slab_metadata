@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SVP EN-SV BLACK STAR PROMO IRON BUNDLE (PSA MINT 9)",
-  "description": "2023 POKEMON SVP EN-SV BLACK STAR PROMO IRON BUNDLE (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108988208.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108988208.mp4",
-  "external_url": "https://www.dripshop.live/products/OXKhcRPrEkA2S2lvn1CG_",
+  "name": "2024 POKEMON PAF EN-PALDEAN FATES PIKACHU (PSA MINT 9)",
+  "description": "2024 POKEMON PAF EN-PALDEAN FATES PIKACHU (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/114936337_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/114936337.mp4",
+  "external_url": "https://www.dripshop.live/products/UbRloQlzfdErVI2uCqK4m",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108988208",
+      "value": "114936337",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON PAF EN-PALDEAN FATES",
       "display_type": "string"
     }
   ]

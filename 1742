@@ -1,0 +1,39 @@
+{
+  "name": "2004 EX Magikarp (CGC 8.5)",
+  "description": "2004 EX Magikarp (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401045945061_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401045945061.mp4",
+  "external_url": "https://www.dripshop.live/products/_uatED29x_ZDHIFx4RR59",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401045945061",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "EX",
+      "display_type": "string"
+    }
+  ]
+}

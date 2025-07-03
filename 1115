@@ -1,0 +1,39 @@
+{
+  "name": "2004 EX Team Magma's Houndour (CGC 9)",
+  "description": "2004 EX Team Magma's Houndour (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401036555191_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401036555191.mp4",
+  "external_url": "https://www.dripshop.live/products/lBLjftcrDY3B32BB7Q-Bl",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401036555191",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2004",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "EX",
+      "display_type": "string"
+    }
+  ]
+}

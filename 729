@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 CHANSEY (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 CHANSEY (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972017.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972017.mp4",
-  "external_url": "https://www.dripshop.live/products/NHq0d_pVREcfJekqyx9SR",
+  "name": "2024 POKEMON JAPANESE SV5K-WILD FORCE GENGAR ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV5K-WILD FORCE GENGAR ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925218_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925218.mp4",
+  "external_url": "https://www.dripshop.live/products/2sXubYiVPuF58vv-LWIM2",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972017",
+      "value": "107925218",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV5K-WILD FORCE",
       "display_type": "string"
     }
   ]

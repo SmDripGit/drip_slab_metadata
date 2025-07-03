@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON JAPANESE NEO 2 PROMO ENTEI (PSA GEM MT 10)",
-  "description": "2000 POKEMON JAPANESE NEO 2 PROMO ENTEI (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/85127204.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/85127204.mp4",
-  "external_url": "https://www.dripshop.live/products/E641rAX9AMR-_Bh-mJztU",
+  "name": "2023 POKEMON MEW EN-151 ERIKA'S INVITATION (PSA MINT 9)",
+  "description": "2023 POKEMON MEW EN-151 ERIKA'S INVITATION (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110907722_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110907722.mp4",
+  "external_url": "https://www.dripshop.live/products/2sryKkUVuAs1ukPAPfzmz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "85127204",
+      "value": "110907722",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON MEW EN-151",
       "display_type": "string"
     }
   ]

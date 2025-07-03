@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/ZINNIA'S RESOLVE (PSA GEM MT 10)",
-  "description": "2021 POKEMON SWORD & SHIELD EVOLVING SKIES FA/ZINNIA'S RESOLVE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/70752933.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/70752933.mp4",
-  "external_url": "https://www.dripshop.live/products/kJufrzQ9XEkyPN2HbAq8K",
+  "name": "2000 POKEMON GAME BASE II VENUSAUR-HOLO (PSA NM 7)",
+  "description": "2000 POKEMON GAME BASE II VENUSAUR-HOLO (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71294670_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71294670.mp4",
+  "external_url": "https://www.dripshop.live/products/SjxMBwVf3hgG3s3emNMdE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "70752933",
+      "value": "71294670",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME BASE II",
       "display_type": "string"
     }
   ]

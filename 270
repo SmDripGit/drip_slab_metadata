@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL KABUTO (PSA GEM MT 10)",
-  "description": "1999 POKEMON FOSSIL KABUTO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/70191854.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/70191854.mp4",
-  "external_url": "https://www.dripshop.live/products/w-RXqRsLeFwi7GWBELvcI",
+  "name": "1999 POKEMON GAME ALAKAZAM-HOLO (PSA EX-MT 6)",
+  "description": "1999 POKEMON GAME ALAKAZAM-HOLO (PSA EX-MT 6)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494183_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494183.mp4",
+  "external_url": "https://www.dripshop.live/products/VFzdtYLmr93BsM9-U0h0J",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "70191854",
+      "value": "105494183",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX-MT 6",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GAME",
       "display_type": "string"
     }
   ]

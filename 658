@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA MINT 9)",
-  "description": "2023 POKEMON MEW EN-151 ALAKAZAM ex (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109592405.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109592405.mp4",
-  "external_url": "https://www.dripshop.live/products/7cAg_e38ATs2Gyf3w93HO",
+  "name": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061855_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061855.mp4",
+  "external_url": "https://www.dripshop.live/products/hyNxZLvjyp7BuhiR7zbeC",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109592405",
+      "value": "109061855",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS",
       "display_type": "string"
     }
   ]

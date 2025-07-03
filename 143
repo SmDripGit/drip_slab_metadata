@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106053263.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106053263.mp4",
-  "external_url": "https://www.dripshop.live/products/o6gi3cnE0UEIUEsUlB1kb",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex EEVEE ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex EEVEE ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/112515005_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/112515005.mp4",
+  "external_url": "https://www.dripshop.live/products/vk0a-3-dtECarJaWc9_q7",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106053263",
+      "value": "112515005",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

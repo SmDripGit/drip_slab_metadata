@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME MAGNETON-HOLO (PSA NM 7)",
-  "description": "1999 POKEMON GAME MAGNETON-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494189.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494189.mp4",
-  "external_url": "https://www.dripshop.live/products/wCZzs3u9xCZQbpcegK9k3",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex LEAFEON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106137042_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106137042.mp4",
+  "external_url": "https://www.dripshop.live/products/KtNotLOcqwcZcM7ZRNMlJ",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494189",
+      "value": "106137042",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

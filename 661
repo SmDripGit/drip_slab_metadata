@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON PRE EN-PRISMATIC EVOLUTIONS JOLTEON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494302.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494302.mp4",
-  "external_url": "https://www.dripshop.live/products/IqtRfOv5qMiz6uqa9OIwH",
+  "name": "2019 POKEMON JAPANESE SUN & MOON FULL METAL WALL ACEROLA-HOLO (PSA GEM MT 10)",
+  "description": "2019 POKEMON JAPANESE SUN & MOON FULL METAL WALL ACEROLA-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100662946_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100662946.mp4",
+  "external_url": "https://www.dripshop.live/products/8OwV5_ZOctGJZb_fdqbhW",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494302",
+      "value": "100662946",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SUN & MOON FULL METAL WALL",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110277411.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110277411.mp4",
-  "external_url": "https://www.dripshop.live/products/uFfbxQ08qb_oRJG8XTz21",
+  "name": "2021 POKEMON CELEBRATIONS MEW (PSA MINT 9)",
+  "description": "2021 POKEMON CELEBRATIONS MEW (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/79475995_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/79475995.mp4",
+  "external_url": "https://www.dripshop.live/products/Jg-I62faQS5juB0jeaDzV",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110277411",
+      "value": "79475995",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON CELEBRATIONS",
       "display_type": "string"
     }
   ]

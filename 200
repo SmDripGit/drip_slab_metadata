@@ -1,9 +1,9 @@
 {
-  "name": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
-  "description": "2018 POKEMON JAPANESE SM PROMO SHAYMIN-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102195087.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102195087.mp4",
-  "external_url": "https://www.dripshop.live/products/PSbT60kHe9vj3Sa2z9fQF",
+  "name": "2005 POKEMON JAPANESE MIRAGE FOREST AGGRON-HOLO (PSA GEM MT 10)",
+  "description": "2005 POKEMON JAPANESE MIRAGE FOREST AGGRON-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/88318793_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/88318793.mp4",
+  "external_url": "https://www.dripshop.live/products/aDF3qanNk0mBEeZpDt1fX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102195087",
+      "value": "88318793",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2018",
+      "value": "2005",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE MIRAGE FOREST",
       "display_type": "string"
     }
   ]

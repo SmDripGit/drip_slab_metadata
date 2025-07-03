@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES KORAIDON ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES KORAIDON ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/111226321.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/111226321.mp4",
-  "external_url": "https://www.dripshop.live/products/66BFOEqnls7mMSiyL61lE",
+  "name": "2000 POKEMON ROCKET DARK CHARIZARD-HOLO (PSA NM-MT 8)",
+  "description": "2000 POKEMON ROCKET DARK CHARIZARD-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982523_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982523.mp4",
+  "external_url": "https://www.dripshop.live/products/WDj8lkwEkMDIaeGqtly6s",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "111226321",
+      "value": "116982523",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON ROCKET",
       "display_type": "string"
     }
   ]

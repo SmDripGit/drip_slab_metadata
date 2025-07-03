@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109343512.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109343512.mp4",
-  "external_url": "https://www.dripshop.live/products/WGViE3HfNKfqSoq3UuQDA",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110991175_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110991175.mp4",
+  "external_url": "https://www.dripshop.live/products/khcrbiodqb_YbsRi5ApKK",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109343512",
+      "value": "110991175",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

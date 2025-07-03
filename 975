@@ -1,9 +1,9 @@
 {
-  "name": "2022 Pokemon Sword & Shield Radiant Alakazam (CGC 9)",
-  "description": "2022 Pokemon Sword & Shield Radiant Alakazam (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6013345125.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6013345125.mp4",
-  "external_url": "https://www.dripshop.live/products/dTYLFcE9_cIwA00b-K6Vl",
+  "name": "2023 Pokemon Scarlet & Violet Heracross (CGC GEM MINT 10)",
+  "description": "2023 Pokemon Scarlet & Violet Heracross (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6009816121_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6009816121.mp4",
+  "external_url": "https://www.dripshop.live/products/AUuxo4DBjFj--mk8u-FOL",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "6013345125",
+      "value": "6009816121",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Scarlet & Violet",
       "display_type": "string"
     }
   ]

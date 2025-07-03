@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON FOSSIL EKANS (PSA MINT 9)",
-  "description": "1999 POKEMON FOSSIL EKANS (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711436.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711436.mp4",
-  "external_url": "https://www.dripshop.live/products/h6TCGH0Q1MvpEI8k1ZJMI",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LILLIE'S CLEFAIRY ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS LILLIE'S CLEFAIRY ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751006_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751006.mp4",
+  "external_url": "https://www.dripshop.live/products/XkN2aN_gSuvleYc4mkq3g",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711436",
+      "value": "107751006",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

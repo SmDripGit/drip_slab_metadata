@@ -1,0 +1,39 @@
+{
+  "name": "2000 Neo Shuckle (CGC GEM MINT 10)",
+  "description": "2000 Neo Shuckle (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3921385379_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3921385379.mp4",
+  "external_url": "https://www.dripshop.live/products/vknXxO10qqhif6iWefFHe",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3921385379",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2000",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Neo",
+      "display_type": "string"
+    }
+  ]
+}

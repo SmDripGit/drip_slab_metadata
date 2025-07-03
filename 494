@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON ROCKET DARK WEEZING (PSA NM-MT 8)",
-  "description": "2000 POKEMON ROCKET DARK WEEZING (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711464.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711464.mp4",
-  "external_url": "https://www.dripshop.live/products/waDTDtpOxOeDX5Qqt4MYc",
+  "name": "2003 POKEMON SKYRIDGE MACHAMP-REV.FOIL (PSA MINT 9)",
+  "description": "2003 POKEMON SKYRIDGE MACHAMP-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381915_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381915.mp4",
+  "external_url": "https://www.dripshop.live/products/NMB8KtVBPlZxiLZL2T4Kq",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711464",
+      "value": "108381915",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2003",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SKYRIDGE",
       "display_type": "string"
     }
   ]

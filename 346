@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
-  "description": "1999 POKEMON GAME GYARADOS-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105996924.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105996924.mp4",
-  "external_url": "https://www.dripshop.live/products/XSeEH4Z5tz3db6cUKVqRV",
+  "name": "2024 POKEMON SSP EN-SURGING SPARKS SKARMORY (PSA MINT 9)",
+  "description": "2024 POKEMON SSP EN-SURGING SPARKS SKARMORY (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104241797_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104241797.mp4",
+  "external_url": "https://www.dripshop.live/products/DU7vn5gYeXS5wiT1jY5Ov",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105996924",
+      "value": "104241797",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SSP EN-SURGING SPARKS",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH ORGN.FRM.PALKIA VSTAR (PSA MINT 9)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH ORGN.FRM.PALKIA VSTAR (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233923.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233923.mp4",
-  "external_url": "https://www.dripshop.live/products/EHClOJP8uGM5AsZ9fXjrf",
+  "name": "1999 POKEMON FOSSIL AERODACTYL-HOLO (PSA NM-MT 8)",
+  "description": "1999 POKEMON FOSSIL AERODACTYL-HOLO (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/75766321_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/75766321.mp4",
+  "external_url": "https://www.dripshop.live/products/ZBmbM6tGw1qjEj6uHDVJ1",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233923",
+      "value": "75766321",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

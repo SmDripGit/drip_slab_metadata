@@ -1,33 +1,38 @@
 {
-  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925268.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925268.mp4",
-  "external_url": "https://www.dripshop.live/products/x1zh78LSk0sH9C_Zb3RdV",
+  "name": "1999 Pokemon Original Series Blaine's Moltres (CGC 8.5)",
+  "description": "1999 Pokemon Original Series Blaine's Moltres (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4012989041_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4012989041.mp4",
+  "external_url": "https://www.dripshop.live/products/OyUYjfEnwsMU0f7HzHSNg",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "107925268",
+      "value": "4012989041",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "8.5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Original Series",
       "display_type": "string"
     }
   ]

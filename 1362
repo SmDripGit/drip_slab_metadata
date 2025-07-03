@@ -1,0 +1,39 @@
+{
+  "name": "2002 e-Series Mr. Mime (CGC 8.5)",
+  "description": "2002 e-Series Mr. Mime (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016723024_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016723024.mp4",
+  "external_url": "https://www.dripshop.live/products/1YqFBxsxSkIstkfUox7Ws",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016723024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2002",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "e-Series",
+      "display_type": "string"
+    }
+  ]
+}

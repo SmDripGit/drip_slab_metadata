@@ -1,33 +1,38 @@
 {
-  "name": "2003 POKEMON SKYRIDGE RAIKOU-REV.FOIL (PSA MINT 9)",
-  "description": "2003 POKEMON SKYRIDGE RAIKOU-REV.FOIL (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381908.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381908.mp4",
-  "external_url": "https://www.dripshop.live/products/ppugGxyhygRVWUJ2Vg9_H",
+  "name": "2021 Pokemon Sword & Shield Gengar VMAX (CGC 9)",
+  "description": "2021 Pokemon Sword & Shield Gengar VMAX (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4183957051_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4183957051.mp4",
+  "external_url": "https://www.dripshop.live/products/EE9swH2iMKAcWz-KCyl8l",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "108381908",
+      "value": "4183957051",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2003",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Sword & Shield",
       "display_type": "string"
     }
   ]

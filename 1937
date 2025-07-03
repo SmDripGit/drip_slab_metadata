@@ -1,0 +1,39 @@
+{
+  "name": "2022 Sword & Shield Snorlax (CGC 9)",
+  "description": "2022 Sword & Shield Snorlax (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001835204_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001835204.mp4",
+  "external_url": "https://www.dripshop.live/products/sPA23Y1U4VnlcSp8QXxbQ",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6001835204",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2022",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sword & Shield",
+      "display_type": "string"
+    }
+  ]
+}

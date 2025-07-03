@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
-  "description": "2000 POKEMON GYM HEROES ERIKA'S TANGELA (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/69062235.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/69062235.mp4",
-  "external_url": "https://www.dripshop.live/products/RaziJkEa_e--ZyEcGkrhC",
+  "name": "2021 POKEMON SWORD & SHIELD CHILLING REIGN FA/BLAZIKEN VMAX (PSA GEM MT 10)",
+  "description": "2021 POKEMON SWORD & SHIELD CHILLING REIGN FA/BLAZIKEN VMAX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103379817_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103379817.mp4",
+  "external_url": "https://www.dripshop.live/products/ofIgMemLhBYSlSJizmZ7O",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "69062235",
+      "value": "103379817",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD CHILLING REIGN",
       "display_type": "string"
     }
   ]

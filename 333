@@ -1,9 +1,9 @@
 {
-  "name": "2009 POKEMON JAPANESE HEARTGOLD COLLECTION WOBBUFFET-HOLO (PSA GEM MT 10)",
-  "description": "2009 POKEMON JAPANESE HEARTGOLD COLLECTION WOBBUFFET-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82409066.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82409066.mp4",
-  "external_url": "https://www.dripshop.live/products/FYljZvhn0gHFlc-ZYZ2qV",
+  "name": "1999 POKEMON FOSSIL HORSEA (PSA MINT 9)",
+  "description": "1999 POKEMON FOSSIL HORSEA (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/97819764_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/97819764.mp4",
+  "external_url": "https://www.dripshop.live/products/fFOJWe7tuh9C3X_5kWe5T",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82409066",
+      "value": "97819764",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2009",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON FOSSIL",
       "display_type": "string"
     }
   ]

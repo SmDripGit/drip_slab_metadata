@@ -1,0 +1,39 @@
+{
+  "name": "2001 Neo Thought Wave Machine (CGC GEM MINT 10)",
+  "description": "2001 Neo Thought Wave Machine (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/3912900225_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/3912900225.mp4",
+  "external_url": "https://www.dripshop.live/products/XFPIiwuEVsQ6H-7BgbQg5",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "3912900225",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "GEM MINT 10",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2001",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Neo",
+      "display_type": "string"
+    }
+  ]
+}

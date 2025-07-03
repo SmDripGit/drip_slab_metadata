@@ -1,0 +1,39 @@
+{
+  "name": "1999 Movie Series Consciousness and Congratulations (CGC 7)",
+  "description": "1999 Movie Series Consciousness and Congratulations (CGC 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6016710290_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6016710290.mp4",
+  "external_url": "https://www.dripshop.live/products/Ts7WaQQY-3iw1UPi49UA1",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6016710290",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "7",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "1999",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Movie Series",
+      "display_type": "string"
+    }
+  ]
+}

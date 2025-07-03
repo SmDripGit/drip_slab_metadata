@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA DRAYTON (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA DRAYTON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/100407081.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/100407081.mp4",
-  "external_url": "https://www.dripshop.live/products/N4gF4C97mzWWuMoiPwJTk",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS FURRET (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750932_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750932.mp4",
+  "external_url": "https://www.dripshop.live/products/_A8UzULftisOgZ5sb_RzU",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "100407081",
+      "value": "107750932",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

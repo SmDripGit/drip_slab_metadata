@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex DROWZEE (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex DROWZEE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109160234.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109160234.mp4",
-  "external_url": "https://www.dripshop.live/products/oj92jeUIzKBlw2t3P7VMj",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236648_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236648.mp4",
+  "external_url": "https://www.dripshop.live/products/9xLi0o6j6DSaGhs5thoMs",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109160234",
+      "value": "106236648",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]

@@ -1,0 +1,39 @@
+{
+  "name": "2018 Sun & Moon Charizard (CGC 8.5)",
+  "description": "2018 Sun & Moon Charizard (CGC 8.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401045946019_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401045946019.mp4",
+  "external_url": "https://www.dripshop.live/products/txFtJTv8uLcAt6cr4XP-8",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401045946019",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "8.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2018",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sun & Moon",
+      "display_type": "string"
+    }
+  ]
+}

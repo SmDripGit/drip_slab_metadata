@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TORKOAL (PSA GEM MT 10)",
-  "description": "2024 POKEMON TWM EN-TWILIGHT MASQUERADE TORKOAL (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108295045.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108295045.mp4",
-  "external_url": "https://www.dripshop.live/products/NpBOEcFKIwhkYWDmzA807",
+  "name": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
+  "description": "2024 POKEMON SVP EN-SV BLACK STAR PROMO CHARIZARD ex (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109141523_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109141523.mp4",
+  "external_url": "https://www.dripshop.live/products/fcD3p79zgOdUk1azof2Gz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108295045",
+      "value": "109141523",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

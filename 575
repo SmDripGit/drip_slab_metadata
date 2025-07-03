@@ -1,33 +1,38 @@
 {
-  "name": "2015 POKEMON JAPANESE NOIVERN BREAK EVOLUTION PACK NOIVERN BREAK (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE NOIVERN BREAK EVOLUTION PACK NOIVERN BREAK (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061852.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061852.mp4",
-  "external_url": "https://www.dripshop.live/products/qHhw1gnsjdPvVEKyV2iML",
+  "name": "2020 Pokemon Cosmos Holo Rayquaza (CGC GEM MINT 10)",
+  "description": "2020 Pokemon Cosmos Holo Rayquaza (CGC GEM MINT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6019629121_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6019629121.mp4",
+  "external_url": "https://www.dripshop.live/products/FkhS91ADAWH8ivISSMimq",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061852",
+      "value": "6019629121",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "GEM MINT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2020",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Cosmos Holo",
       "display_type": "string"
     }
   ]

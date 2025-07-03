@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA MINT 9)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/CHARIZARD (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062703.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062703.mp4",
-  "external_url": "https://www.dripshop.live/products/TWKkDQz_vfI6mtB3xGAMb",
+  "name": "2007 POKEMON JAPANESE PROMO DARKRAI-HOLO (PSA GEM MT 10)",
+  "description": "2007 POKEMON JAPANESE PROMO DARKRAI-HOLO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061846_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061846.mp4",
+  "external_url": "https://www.dripshop.live/products/OkzgeaKaXMvyeCZLWNcSI",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062703",
+      "value": "109061846",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2007",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE PROMO",
       "display_type": "string"
     }
   ]

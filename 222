@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON GAME MEWTWO-HOLO (PSA NM-MT 8)",
-  "description": "1999 POKEMON GAME MEWTWO-HOLO (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494187.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494187.mp4",
-  "external_url": "https://www.dripshop.live/products/XNx6i6iQMkwr79S2HLz-9",
+  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110013667_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110013667.mp4",
+  "external_url": "https://www.dripshop.live/products/TYXC9APj7BzfguUBMfjtX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105494187",
+      "value": "110013667",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

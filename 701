@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex ALAKAZAM (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex ALAKAZAM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/108988224.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/108988224.mp4",
-  "external_url": "https://www.dripshop.live/products/kf_aKmZUQh4C36ExUz_I6",
+  "name": "2022 POKEMON JAPANESE S PROMO ARCANINE (PSA GEM MT 10)",
+  "description": "2022 POKEMON JAPANESE S PROMO ARCANINE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060517_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060517.mp4",
+  "external_url": "https://www.dripshop.live/products/hSBAxp9fpLWSTQkmvgMyE",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "108988224",
+      "value": "109060517",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2022",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE S PROMO",
       "display_type": "string"
     }
   ]

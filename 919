@@ -1,33 +1,38 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Penny (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Scarlet & Violet Penny (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/4306760005.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/4306760005.mp4",
-  "external_url": "https://www.dripshop.live/products/tTinPWsm6qyx1YBPxTb8J",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DREEPY (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex DREEPY (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/103503850_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/103503850.mp4",
+  "external_url": "https://www.dripshop.live/products/2UFdgZ6TxAwskQ58gGpOe",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "4306760005",
+      "value": "103503850",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

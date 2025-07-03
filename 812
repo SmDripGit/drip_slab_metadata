@@ -1,33 +1,38 @@
 {
-  "name": "1999 Pokemon Original Series Pikachu (CGC 9)",
-  "description": "1999 Pokemon Original Series Pikachu (CGC 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6038950038.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6038950038.mp4",
-  "external_url": "https://www.dripshop.live/products/vSpS9OdHBFESrdpjJqA6v",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107750953_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107750953.mp4",
+  "external_url": "https://www.dripshop.live/products/-HzE01_D-4js3FnM0cSkc",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6038950038",
+      "value": "107750953",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

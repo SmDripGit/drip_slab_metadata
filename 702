@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON PAF EN-PALDEAN FATES MANKEY (PSA GEM MT 10)",
-  "description": "2024 POKEMON PAF EN-PALDEAN FATES MANKEY (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233900.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233900.mp4",
-  "external_url": "https://www.dripshop.live/products/wGMNcfHiRhwkpf5CVFF5s",
+  "name": "2020 POKEMON JAPANESE SWORD & SHIELD SHINY STAR V FA/TOXTRICITY V (PSA GEM MT 10)",
+  "description": "2020 POKEMON JAPANESE SWORD & SHIELD SHINY STAR V FA/TOXTRICITY V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061802_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061802.mp4",
+  "external_url": "https://www.dripshop.live/products/zKUZJ7I3Tjbdp68dW1aFO",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233900",
+      "value": "109061802",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2020",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD SHINY STAR V",
       "display_type": "string"
     }
   ]

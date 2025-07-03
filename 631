@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 HITMONLEE (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 HITMONLEE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/82972028.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/82972028.mp4",
-  "external_url": "https://www.dripshop.live/products/tlsAqk1PabGCAoDCtCCwY",
+  "name": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
+  "description": "2015 POKEMON JAPANESE XY BLUE SHOCK ZOROARK BREAK (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109257259_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109257259.mp4",
+  "external_url": "https://www.dripshop.live/products/BY_B3r5A4o-0FSFA6CAcv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "82972028",
+      "value": "109257259",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2015",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE XY BLUE SHOCK",
       "display_type": "string"
     }
   ]

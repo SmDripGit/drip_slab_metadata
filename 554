@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 SNORLAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/106226690.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/106226690.mp4",
-  "external_url": "https://www.dripshop.live/products/WXhqHZJkPAq3gZKrucnYU",
+  "name": "2004 POKEMON EX TEAM ROCKET RETURNS DARK DRAGONITE-HOLO (PSA MINT 9)",
+  "description": "2004 POKEMON EX TEAM ROCKET RETURNS DARK DRAGONITE-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116215133_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116215133.mp4",
+  "external_url": "https://www.dripshop.live/products/oyRWhcUQy2OSssu1l6gOv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "106226690",
+      "value": "116215133",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2004",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX TEAM ROCKET RETURNS",
       "display_type": "string"
     }
   ]

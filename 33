@@ -1,9 +1,9 @@
 {
-  "name": "1997 POKEMON JAPANESE JUNGLE JOLTEON-HOLO (PSA GEM MT 10)",
-  "description": "1997 POKEMON JAPANESE JUNGLE JOLTEON-HOLO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/87431292.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/87431292.mp4",
-  "external_url": "https://www.dripshop.live/products/KmjgO9q2nMpCglXrj9dy2",
+  "name": "2018 POKEMON JAPANESE SUN & MOON TAG BOLT GENGAR & MIMIKYU GX (PSA GEM MT 10)",
+  "description": "2018 POKEMON JAPANESE SUN & MOON TAG BOLT GENGAR & MIMIKYU GX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/70288184_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/70288184.mp4",
+  "external_url": "https://www.dripshop.live/products/QlkQ9VeeeCcNYJuq5D--N",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "87431292",
+      "value": "70288184",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "1997",
+      "value": "2018",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SUN & MOON TAG BOLT",
       "display_type": "string"
     }
   ]

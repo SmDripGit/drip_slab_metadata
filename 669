@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON UNIFIED MINDS DRAGONITE-HOLO (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109310306.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109310306.mp4",
-  "external_url": "https://www.dripshop.live/products/8juNUZB4LhSYcWDuzOPcT",
+  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PIKACHU V (PSA GEM MT 10)",
+  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/PIKACHU V (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/77472255_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/77472255.mp4",
+  "external_url": "https://www.dripshop.live/products/_m-066SXaIV5xp5mD__dR",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109310306",
+      "value": "77472255",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX",
       "display_type": "string"
     }
   ]

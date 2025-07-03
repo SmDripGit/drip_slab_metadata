@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARIZARD ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV4a-SHINY TREASURE ex CHARIZARD ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103272098.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103272098.mp4",
-  "external_url": "https://www.dripshop.live/products/ZR9K6yzToqzXIwm7AvxUu",
+  "name": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
+  "description": "2007 POKEMON DIAMOND & PEARL SECRET WONDERS VENUSAUR-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/71536239_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/71536239.mp4",
+  "external_url": "https://www.dripshop.live/products/AaJQ5P5Q7JNauVUAHvQy8",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103272098",
+      "value": "71536239",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2007",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON DIAMOND & PEARL SECRET WONDERS",
       "display_type": "string"
     }
   ]

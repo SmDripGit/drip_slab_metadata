@@ -1,9 +1,9 @@
 {
-  "name": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/RS URSHIFU VMAX (PSA GEM MT 10)",
-  "description": "2022 POKEMON SWORD & SHIELD BRILLIANT STARS FA/RS URSHIFU VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233934.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233934.mp4",
-  "external_url": "https://www.dripshop.live/products/4wFKyH191a-vc8lq2RcLE",
+  "name": "2024 POKEMON SFA EN-SHROUDED FABLE DUSKNOIR (PSA MINT 9)",
+  "description": "2024 POKEMON SFA EN-SHROUDED FABLE DUSKNOIR (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106276815_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106276815.mp4",
+  "external_url": "https://www.dripshop.live/products/2yfPZB6O56bgjf4qu24FX",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "104233934",
+      "value": "106276815",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2022",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SFA EN-SHROUDED FABLE",
       "display_type": "string"
     }
   ]

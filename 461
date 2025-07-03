@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 BULBASAUR (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109060540.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109060540.mp4",
-  "external_url": "https://www.dripshop.live/products/YLR9Z2y5jU_NgrU2gCcJd",
+  "name": "2000 POKEMON NEO GENESIS 1ST EDITION MEGANIUM-HOLO (PSA MINT 9)",
+  "description": "2000 POKEMON NEO GENESIS 1ST EDITION MEGANIUM-HOLO (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108381844_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108381844.mp4",
+  "external_url": "https://www.dripshop.live/products/l9ev6JB5OcrQ_GCK-v8Vo",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109060540",
+      "value": "108381844",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON NEO GENESIS 1ST EDITION",
       "display_type": "string"
     }
   ]

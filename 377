@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110277417.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110277417.mp4",
-  "external_url": "https://www.dripshop.live/products/Flm8lEq8-Z7jMagP9U3ET",
+  "name": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
+  "description": "2023 POKEMON SVI EN-SCARLET & VIOLET DROWZEE (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109827989_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109827989.mp4",
+  "external_url": "https://www.dripshop.live/products/K5FlP6XrO53QE5JRZNs0f",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110277417",
+      "value": "109827989",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVI EN-SCARLET & VIOLET",
       "display_type": "string"
     }
   ]

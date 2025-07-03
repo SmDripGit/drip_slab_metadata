@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE GOLDUCK BREAK + PALKIA EX COMBO DECK GOLDUCK BREAK (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE GOLDUCK BREAK + PALKIA EX COMBO DECK GOLDUCK BREAK (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061845.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061845.mp4",
-  "external_url": "https://www.dripshop.live/products/U5HS5LG9KHZa2v4x4Vk6E",
+  "name": "2000 POKEMON ROCKET DARK DRAGONITE (PSA NM 7)",
+  "description": "2000 POKEMON ROCKET DARK DRAGONITE (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/105494182_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/105494182.mp4",
+  "external_url": "https://www.dripshop.live/products/gUfgSPWynAY6V2znyAlml",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061845",
+      "value": "105494182",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON ROCKET",
       "display_type": "string"
     }
   ]

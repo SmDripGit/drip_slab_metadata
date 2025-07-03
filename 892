@@ -1,9 +1,9 @@
 {
-  "name": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA VG-EX 4)",
-  "description": "1999 POKEMON JUNGLE VAPOREON-HOLO (PSA VG-EX 4)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556467.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556467.mp4",
-  "external_url": "https://www.dripshop.live/products/m2482tueRx3jhACyNiC2h",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZOROARK ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751013_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751013.mp4",
+  "external_url": "https://www.dripshop.live/products/HvdGAwbP3BMKA7TiLHGWz",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116556467",
+      "value": "107751013",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "VG-EX 4",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

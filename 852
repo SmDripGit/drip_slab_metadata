@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/PIKACHU (PSA NM-MT 8)",
-  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH FA/PIKACHU (PSA NM-MT 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711483.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711483.mp4",
-  "external_url": "https://www.dripshop.live/products/3h4o-CpWaYLWEJC2gA_r-",
+  "name": "2023 POKEMON JAPANESE SV-P PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV-P PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/80416788_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/80416788.mp4",
+  "external_url": "https://www.dripshop.live/products/njSJnoyIYzBGJh0LKxY6f",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711483",
+      "value": "80416788",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM-MT 8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

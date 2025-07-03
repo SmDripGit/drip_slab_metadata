@@ -1,9 +1,9 @@
 {
-  "name": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
-  "description": "2006 POKEMON POP SERIES 3 HO-OH EX-HOLO (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103434795.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103434795.mp4",
-  "external_url": "https://www.dripshop.live/products/rDTdKtRqM34jOFHMKRMw9",
+  "name": "2019 POKEMON SUN & MOON COSMIC ECLIPSE SOLGALEO & LUNALA GX (PSA GEM MT 10)",
+  "description": "2019 POKEMON SUN & MOON COSMIC ECLIPSE SOLGALEO & LUNALA GX (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/100135775_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/100135775.mp4",
+  "external_url": "https://www.dripshop.live/products/RAAnry17yfVOl4aSnmrKd",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103434795",
+      "value": "100135775",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2006",
+      "value": "2019",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SUN & MOON COSMIC ECLIPSE",
       "display_type": "string"
     }
   ]

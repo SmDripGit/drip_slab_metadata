@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON PAL EN-PALDEA EVOLVED SABLEYE (PSA GEM MT 10)",
-  "description": "2023 POKEMON PAL EN-PALDEA EVOLVED SABLEYE (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126677.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126677.mp4",
-  "external_url": "https://www.dripshop.live/products/DU7YBbUVvPIf2-747RjMa",
+  "name": "2000 POKEMON GYM CHALLENGE MISTY'S GYARADOS (PSA NM 7)",
+  "description": "2000 POKEMON GYM CHALLENGE MISTY'S GYARADOS (PSA NM 7)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110034385_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110034385.mp4",
+  "external_url": "https://www.dripshop.live/products/rev2gihEJ4A3kooLYrcWn",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126677",
+      "value": "110034385",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM 7",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2000",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON GYM CHALLENGE",
       "display_type": "string"
     }
   ]

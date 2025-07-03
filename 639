@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD SKYSCRAPING PERFECTION FA/COPYCAT (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/74657263.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/74657263.mp4",
-  "external_url": "https://www.dripshop.live/products/sT6YeAD8xtl3Ogk-J5NO-",
+  "name": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV2a-POKEMON 151 MEWTWO (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/110277411_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/110277411.mp4",
+  "external_url": "https://www.dripshop.live/products/uFfbxQ08qb_oRJG8XTz21",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "74657263",
+      "value": "110277411",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV2a-POKEMON 151",
       "display_type": "string"
     }
   ]

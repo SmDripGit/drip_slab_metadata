@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON JAPANESE SUN & MOON DREAM LEAGUE FA/STEELIX (PSA GEM MT 10)",
-  "description": "2019 POKEMON JAPANESE SUN & MOON DREAM LEAGUE FA/STEELIX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78165901.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78165901.mp4",
-  "external_url": "https://www.dripshop.live/products/p00MiN0K6VhVjMoCHjNSr",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126048_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126048.mp4",
+  "external_url": "https://www.dripshop.live/products/6FCIEA0WzxrTBqLxuyQR7",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78165901",
+      "value": "109126048",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

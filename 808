@@ -1,9 +1,9 @@
 {
-  "name": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/MAGNEMITE (PSA MINT 9)",
-  "description": "2019 POKEMON SUN & MOON COSMIC ECLIPSE FA/MAGNEMITE (PSA MINT 9)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/115494305.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/115494305.mp4",
-  "external_url": "https://www.dripshop.live/products/bVvI2dkrNRlzM9KVlSCmG",
+  "name": "2023 POKEMON JAPANESE SV1V-VIOLET ex DROWZEE (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1V-VIOLET ex DROWZEE (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109160234_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109160234.mp4",
+  "external_url": "https://www.dripshop.live/products/oj92jeUIzKBlw2t3P7VMj",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "115494305",
+      "value": "109160234",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "MINT 9",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2019",
+      "value": "2023",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1V-VIOLET ex",
       "display_type": "string"
     }
   ]

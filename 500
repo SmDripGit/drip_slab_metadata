@@ -1,23 +1,23 @@
 {
-  "name": "2025 Pokemon Scarlet & Violet Team Rocket's Moltres ex (CGC PRISTINE 10)",
-  "description": "2025 Pokemon Scarlet & Violet Team Rocket's Moltres ex (CGC PRISTINE 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6050080029.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6050080029.mp4",
-  "external_url": "https://www.dripshop.live/products/tITXhJsXR9mm346sSXAFA",
+  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126044_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126044.mp4",
+  "external_url": "https://www.dripshop.live/products/5MrJn0rLvJwMj1XAgl3BX",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6050080029",
+      "value": "109126044",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "PRISTINE 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SVP EN-SV BLACK STAR PROMO",
       "display_type": "string"
     }
   ]

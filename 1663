@@ -1,0 +1,39 @@
+{
+  "name": "2019 Sun & Moon Raichu (CGC 6.5)",
+  "description": "2019 Sun & Moon Raichu (CGC 6.5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/6035588104_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/6035588104.mp4",
+  "external_url": "https://www.dripshop.live/products/g3bzVPUbtUYqMfnT_lBUW",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "6035588104",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "6.5",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2019",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Sun & Moon",
+      "display_type": "string"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV3a-RAGING SURF GARCHOMP ex (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV3a-RAGING SURF GARCHOMP ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/102379434.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/102379434.mp4",
-  "external_url": "https://www.dripshop.live/products/upnTIVvBZgs-adi_Nlnor",
+  "name": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA LISIA'S APPEAL (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV7a-PARADISE DRAGONA LISIA'S APPEAL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108702805_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108702805.mp4",
+  "external_url": "https://www.dripshop.live/products/Pbx3TnESC3O4u3W8F5Rr_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "102379434",
+      "value": "108702805",
       "display_type": "string"
     },
     {
@@ -22,12 +22,17 @@
     },
     {
       "trait_type": "Year",
-      "value": "2023",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV7a-PARADISE DRAGONA",
       "display_type": "string"
     }
   ]

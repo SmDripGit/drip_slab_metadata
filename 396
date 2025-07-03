@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLAZIKEN VMAX (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD VMAX CLIMAX FA/BLAZIKEN VMAX (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/103148659.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/103148659.mp4",
-  "external_url": "https://www.dripshop.live/products/Mg62B4QhEy7D6iQC--Qn8",
+  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW V (PSA MINT 9)",
+  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/MEW V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/112147696_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/112147696.mp4",
+  "external_url": "https://www.dripshop.live/products/FntLXLrKp4EDthllZEd9a",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,12 +12,12 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "103148659",
+      "value": "112147696",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD FUSION STRIKE",
       "display_type": "string"
     }
   ]

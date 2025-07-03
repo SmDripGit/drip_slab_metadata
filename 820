@@ -1,9 +1,9 @@
 {
-  "name": "2000 POKEMON GYM HEROES THE ROCKET'S TRAP (PSA NM 7)",
-  "description": "2000 POKEMON GYM HEROES THE ROCKET'S TRAP (PSA NM 7)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/116711454.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/116711454.mp4",
-  "external_url": "https://www.dripshop.live/products/e81UydBctpQXcjmyt5CTv",
+  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS N'S ZORUA (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106177002_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106177002.mp4",
+  "external_url": "https://www.dripshop.live/products/0W2q9KOFBC3aBjuEtRnVi",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "116711454",
+      "value": "106177002",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "NM 7",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2000",
+      "value": "2025",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV9-BATTLE PARTNERS",
       "display_type": "string"
     }
   ]

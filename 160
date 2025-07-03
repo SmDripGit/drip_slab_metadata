@@ -1,33 +1,38 @@
 {
-  "name": "1999 POKEMON GAME VENUSAUR-HOLO (PSA EX-MT 6)",
-  "description": "1999 POKEMON GAME VENUSAUR-HOLO (PSA EX-MT 6)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/97715370.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/97715370.mp4",
-  "external_url": "https://www.dripshop.live/products/_EQogjxbLwR5tYHTgNCUT",
+  "name": "2002 Pokemon Neo Light Azumarill (CGC 9)",
+  "description": "2002 Pokemon Neo Light Azumarill (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/4110326252_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/4110326252.mp4",
+  "external_url": "https://www.dripshop.live/products/6E02lQKq5BuTBaa7wDC9N",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "PSA",
+      "value": "CGC",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "97715370",
+      "value": "4110326252",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "EX-MT 6",
+      "value": "9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Pokemon Neo",
       "display_type": "string"
     }
   ]

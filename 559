@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
-  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex CERULEDGE ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/110991175.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/110991175.mp4",
-  "external_url": "https://www.dripshop.live/products/khcrbiodqb_YbsRi5ApKK",
+  "name": "2002 POKEMON LEGENDARY COLLECTION SNORLAX-REV.FOIL (PSA MINT 9)",
+  "description": "2002 POKEMON LEGENDARY COLLECTION SNORLAX-REV.FOIL (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116982530_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116982530.mp4",
+  "external_url": "https://www.dripshop.live/products/PreTMSPKIz-Fu7_xpOJvY",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "110991175",
+      "value": "116982530",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2002",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON LEGENDARY COLLECTION",
       "display_type": "string"
     }
   ]

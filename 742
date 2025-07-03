@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S BELLIBOLT ex (PSA GEM MT 10)",
-  "description": "2025 POKEMON JAPANESE SV9-BATTLE PARTNERS IONO'S BELLIBOLT ex (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/107751003.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/107751003.mp4",
-  "external_url": "https://www.dripshop.live/products/sIXYjyAZPbNWUUbg35slG",
+  "name": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "description": "2025 POKEMON JAPANESE SV-P PROMO IONO'S WATTREL (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/107925273_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/107925273.mp4",
+  "external_url": "https://www.dripshop.live/products/ptR_yTZmWsPqbQyIf5sJ_",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "107751003",
+      "value": "107925273",
       "display_type": "string"
     },
     {
@@ -28,6 +28,11 @@
     {
       "trait_type": "Language",
       "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV-P PROMO",
       "display_type": "string"
     }
   ]

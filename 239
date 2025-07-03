@@ -1,9 +1,9 @@
 {
-  "name": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
-  "description": "2023 POKEMON JAPANESE SV-P PROMO GLACEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/78557943.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/78557943.mp4",
-  "external_url": "https://www.dripshop.live/products/k9oI2owo7rUtp9gVlq3GF",
+  "name": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH REGIGIGAS VSTAR (PSA GEM MT 10)",
+  "description": "2023 POKEMON SWORD AND SHIELD CROWN ZENITH REGIGIGAS VSTAR (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/104233914_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/104233914.mp4",
+  "external_url": "https://www.dripshop.live/products/7pKpYxm2aqFybJobDBJvt",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "78557943",
+      "value": "104233914",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD AND SHIELD CROWN ZENITH",
       "display_type": "string"
     }
   ]

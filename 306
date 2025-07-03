@@ -1,9 +1,9 @@
 {
-  "name": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "description": "2024 POKEMON SSP EN-SURGING SPARKS CASTFORM SUNNY FORM (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/105979966.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/105979966.mp4",
-  "external_url": "https://www.dripshop.live/products/S5yBrv5KlrpXjJFwveL9z",
+  "name": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
+  "description": "2006 POKEMON EX HOLON PHANTOMS MEOWTH-REV.FOIL (PSA NM-MT 8)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/109467314_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/109467314.mp4",
+  "external_url": "https://www.dripshop.live/products/5Gsk7peRBYsGXxXuIsa93",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "105979966",
+      "value": "109467314",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "NM-MT 8",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2024",
+      "value": "2006",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX HOLON PHANTOMS",
       "display_type": "string"
     }
   ]

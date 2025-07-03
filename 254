@@ -1,9 +1,9 @@
 {
-  "name": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
-  "description": "2015 POKEMON JAPANESE XY RAGE OF THE BROKEN HEAVENS RATICATE BREAK (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109061856.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109061856.mp4",
-  "external_url": "https://www.dripshop.live/products/Um3tXE1dxNQPfc1cPzzFF",
+  "name": "1999 POKEMON JUNGLE CLEFABLE-HOLO (PSA VG 3)",
+  "description": "1999 POKEMON JUNGLE CLEFABLE-HOLO (PSA VG 3)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556481_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556481.mp4",
+  "external_url": "https://www.dripshop.live/products/PjSgWDSIZxgVrQVCwIanN",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109061856",
+      "value": "116556481",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "VG 3",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2015",
+      "value": "1999",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JUNGLE",
       "display_type": "string"
     }
   ]

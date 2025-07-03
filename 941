@@ -1,33 +1,38 @@
 {
-  "name": "1999 Pokemon Original Series Charmeleon (CGC 8)",
-  "description": "1999 Pokemon Original Series Charmeleon (CGC 8)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6038950007.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6038950007.mp4",
-  "external_url": "https://www.dripshop.live/products/pXQA3jbfZXIFbiDggR3-w",
+  "name": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "description": "2024 POKEMON JAPANESE SV8a-TERASTAL FEST ex VAPOREON ex (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/108931344_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/108931344.mp4",
+  "external_url": "https://www.dripshop.live/products/YqkWow79YV2b2-cU6UQeC",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6038950007",
+      "value": "108931344",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "8",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "1999",
+      "value": "2024",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV8a-TERASTAL FEST ex",
       "display_type": "string"
     }
   ]

@@ -1,9 +1,9 @@
 {
-  "name": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
-  "description": "2021 POKEMON JAPANESE SWORD & SHIELD EEVEE HEROES FA/ESPEON V (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/101062670.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/101062670.mp4",
-  "external_url": "https://www.dripshop.live/products/MNA2UtsJctYSMUq4vhWuD",
+  "name": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
+  "description": "2004 POKEMON EX TEAM MAGMA VS TEAM AQUA MAGMA'S AGGRON-HOLO (PSA EX 5)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/116556475_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/116556475.mp4",
+  "external_url": "https://www.dripshop.live/products/_t_qOJXar0K-fvmN4df3D",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "101062670",
+      "value": "116556475",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "EX 5",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2021",
+      "value": "2004",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
-      "value": "Japanese",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON EX TEAM MAGMA VS TEAM AQUA",
       "display_type": "string"
     }
   ]

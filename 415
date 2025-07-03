@@ -1,9 +1,9 @@
 {
-  "name": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
-  "description": "2025 POKEMON SVP EN-SV BLACK STAR PROMO JOLTEON (PSA GEM MT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/109126048.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/109126048.mp4",
-  "external_url": "https://www.dripshop.live/products/6FCIEA0WzxrTBqLxuyQR7",
+  "name": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/GENESECT V (PSA MINT 9)",
+  "description": "2021 POKEMON SWORD & SHIELD FUSION STRIKE FA/GENESECT V (PSA MINT 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/111981437_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/111981437.mp4",
+  "external_url": "https://www.dripshop.live/products/nVSihaQKe3Wkw1V6eKBAv",
   "attributes": [
     {
       "trait_type": "Grader",
@@ -12,22 +12,27 @@
     },
     {
       "trait_type": "Serial Number",
-      "value": "109126048",
+      "value": "111981437",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MT 10",
+      "value": "MINT 9",
       "display_type": "string"
     },
     {
       "trait_type": "Year",
-      "value": "2025",
+      "value": "2021",
       "display_type": "string"
     },
     {
       "trait_type": "Language",
       "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON SWORD & SHIELD FUSION STRIKE",
       "display_type": "string"
     }
   ]

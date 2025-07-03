@@ -1,0 +1,39 @@
+{
+  "name": "2024 Starter Decks Latias (CGC 9)",
+  "description": "2024 Starter Decks Latias (CGC 9)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/1401029960250_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/1401029960250.mp4",
+  "external_url": "https://www.dripshop.live/products/3CZXFBZOniUTYdMk6v4kW",
+  "attributes": [
+    {
+      "trait_type": "Grader",
+      "value": "CGC",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Serial Number",
+      "value": "1401029960250",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Grade",
+      "value": "9",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Year",
+      "value": "2024",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Language",
+      "value": "English",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Starter Decks",
+      "display_type": "string"
+    }
+  ]
+}

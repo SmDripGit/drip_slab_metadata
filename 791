@@ -1,23 +1,23 @@
 {
-  "name": "2023 Pokemon Scarlet & Violet Psyduck (CGC GEM MINT 10)",
-  "description": "2023 Pokemon Scarlet & Violet Psyduck (CGC GEM MINT 10)",
-  "image": "https://cdn.dripshop.live/dripnfts/slabs/6001863041.jpg",
-  "video": "https://cdn.dripshop.live/dripnfts/slabs/6001863041.mp4",
-  "external_url": "https://www.dripshop.live/products/-IoYMtiMPCx9f16K8WZh8",
+  "name": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "description": "2023 POKEMON JAPANESE SV1a-TRIPLET BEAT MAGIKARP (PSA GEM MT 10)",
+  "image": "https://cdn.dripshop.live/dripnfts/slabs/106236642_front_v1.jpg",
+  "video": "https://cdn.dripshop.live/dripnfts/slabs/106236642.mp4",
+  "external_url": "https://www.dripshop.live/products/QeSG4jleCAhSeQADqF6On",
   "attributes": [
     {
       "trait_type": "Grader",
-      "value": "CGC",
+      "value": "PSA",
       "display_type": "string"
     },
     {
       "trait_type": "Serial Number",
-      "value": "6001863041",
+      "value": "106236642",
       "display_type": "string"
     },
     {
       "trait_type": "Grade",
-      "value": "GEM MINT 10",
+      "value": "GEM MT 10",
       "display_type": "string"
     },
     {
@@ -27,7 +27,12 @@
     },
     {
       "trait_type": "Language",
-      "value": "English",
+      "value": "Japanese",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Set",
+      "value": "POKEMON JAPANESE SV1a-TRIPLET BEAT",
       "display_type": "string"
     }
   ]
